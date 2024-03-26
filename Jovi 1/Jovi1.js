@@ -4,8 +4,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      3.0
 // @description  try to take over the world!
-// @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT1.js
-// @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT1.js
+// @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi1.js
+// @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi1.js
 // @author       You
 // @match        http*://*/*
 // @run-at       document-end
