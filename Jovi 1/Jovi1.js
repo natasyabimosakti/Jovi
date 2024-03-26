@@ -18,7 +18,53 @@
 
 
 /*======================================================================Paste Script Tampermonkey di sini===============================================================*/
+var namagroup1 = 'WDKAK';
+var Comment1 = '#WDKAK ( CEBOLE99 ) : 05*40*34'; 
 
+var namagroup2 = 'MERCON';
+var Comment2 = '#MERCONTOTO C8LOB3 03*19*63'; 
+
+var namagroup3 = 'KEMBARTOGEL';
+var Comment3 = '#KEMBARTOGEL (CB7RA9) : 85*30'; 
+
+var namagroup4 = 'BUPATI';
+var Comment4 = '#BUPATITOGEL (C78NUB) = 91*42*32'; 
+
+var namagroup5 = 'OTU';
+var Comment5 = '#OTUSLOT*C698K3J*35*92*13*BETTING'; 
+
+var namagroup6 = 'FUN';
+var Comment6 = '#FUN77TOTO (CEB689B) : 83*66*29'; 
+
+var namagroup7 = 'Hoho';
+var Comment7 = 'CH89JK : 97*60*54 #HOHOTOGEL'; 
+
+var namagroup8 = 'KITAJITU';
+var Comment8 = '#KITAJITU / CF56KL / 02*15*68 / #Betting'; 
+
+var namagroup9 = 'BAZARTOTO';
+var Comment9 = '#BAZARTOTO C320CBL 35*92*13'; 
+
+var namagroup10 = 'SL0T0G3L';
+var Comment10 = 'CL1BK36 : 05*40*34'; 
+
+var namagroup11 = 'HITOGEL';
+var Comment11 = '#HITOGEL C82VKL 97*60*54'; 
+
+var namagroup12 = 'BESTOTO';
+var Comment12 = 'CD219KB : 03*19*63 #BESTOTO88'; 
+
+var namagroup13 = 'GOHTOGEL';
+var Comment13 = 'GOHTOGEL=CL824B1=83*66*29'; 
+
+var namagroup14 = 'MAYAPADA';
+var Comment14 = 'BETT*SingasariTOTO(BO)*CHDZ62V81 *85*30*01'; 
+
+var namagroup15 = 'XX1';
+var Comment15 = '#XX1TOTO (CV5Z9GH)  02*15*68 BETTING'; 
+
+var namagroup16 = 'TUNGGALJITU';
+var Comment16 = '(C173M) 91*42*32 TUNGGALJITU';
 
 
 
