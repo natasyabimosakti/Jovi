@@ -24,7 +24,7 @@ var namagroup1 = 'WDKAK';
 var Comment1 = '#WDKAK ( BADEK ) : 08*41*88'; 
 
 var namagroup2 = 'MERCON';
-var Comment2 = '#MERCONTOTO BY666HE 10*73*65'; 
+var Comment2 = 'MERCONTOTO BY666HE 10*73*65'; 
 
 var namagroup3 = 'KEMBARTOGEL';
 var Comment3 = '#KEMBARTOGEL (BBYR218A) : 27*90'; 
