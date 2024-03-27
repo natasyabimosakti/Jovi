@@ -23,7 +23,7 @@ var namagroup1 = 'WDKAK';
 var Comment1 = '#WDKAK ( CEBOLE99 ) : 05*40*34'; 
 
 var namagroup2 = 'MERCON';
-var Comment2 = '#MERCONTOTO C8LOB3 03*19*63'; 
+var Comment2 = 'MERCONTOTO C8LOB3 03*19*63'; 
 
 var namagroup3 = 'KEMBARTOGEL';
 var Comment3 = '#KEMBARTOGEL (CB7RA9) : 85*30'; 
