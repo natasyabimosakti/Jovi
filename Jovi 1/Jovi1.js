@@ -1,4 +1,4 @@
-/ ==UserScript==
+// ==UserScript==
 // @name         JOVI 1
 // @namespace    http://tampermonkey.net/
 // @version      3.00
