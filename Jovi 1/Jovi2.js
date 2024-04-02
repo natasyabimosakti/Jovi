@@ -65,7 +65,7 @@ var namagroup15 = 'XX1';
 var Comment15 = '#XX1TOTO (D53SU) 26*72*61 BETTING';
 
 var namagroup16 = 'TUNGGAL';
-var Comment16 = '(DU78MM) 49*20*64 TUNGGALJITU
+var Comment16 = '(DU78MM) 49*20*64 TUNGGALJITU';
 
 
 /*======================================================================3D===============================================================*/
