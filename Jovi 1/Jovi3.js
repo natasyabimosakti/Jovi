@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 3
 // @namespace    http://tampermonkey.net/
-// @version      3.14
+// @version      3.15
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi3.js
@@ -20,8 +20,8 @@ var refresh = 50;
 
 /*======================================================================Paste Script Tampermonkey di sini===============================================================*/
 
-var namagroup1 = 'WDKAK';
-var Comment1 = '#WDKAK ( BADEK ) : 08*41*88';
+var namagroup1 = 'TAFSIR';
+var Comment1 = 'TAG4D (BADEGEE) 08*41*88';
 
 var namagroup2 = 'MERCON';
 var Comment2 = 'MERCONTOTO BY666HE 10*73*65';
