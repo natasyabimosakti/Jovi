@@ -2,7 +2,7 @@
 // ==UserScript==
 // @name         JOVI 2
 // @namespace    http://tampermonkey.net/
-// @version      3.16
+// @version      3.17
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi2.js
@@ -34,7 +34,7 @@ var Comment4 = '#BUPATITOGEL (D43J8K) = 49*20*64';
 var namagroup5 = 'OTU';
 var Comment5 = '#OTUSLOT*DF892K*07*31*14*BETTING';
 
-var namagroup6 = 'Mantap Jitu';
+var namagroup6 = 'DIVA4D';
 var Comment6 = '#DIVA4D (DABI17) = 79*43*58';
 
 var namagroup7 = 'Hoho';
