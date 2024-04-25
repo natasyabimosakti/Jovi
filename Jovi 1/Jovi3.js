@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 3
 // @namespace    http://tampermonkey.net/
-// @version      3.17
+// @version      3.18
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi3.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi3.js
@@ -27,7 +27,7 @@ var namagroup2 = 'MERCON';
 var Comment2 = 'MERCONTOTO BY666HE 10*73*65';
 
 var namagroup3 = 'IND0SL0TER';
-var Comment3 = 'BPKKAU4 : 27*90*76';
+var Comment3 = 'BPKKAU4 : 27*90*76 #indosloter';
 
 var namagroup4 = 'BUPATI';
 var Comment4 = '#BUPATITOGEL (B2UIKB) = 52*69*51';
@@ -135,7 +135,7 @@ var Backlist3 = "HASIL";
 var Backlist4 = "ROOM LOMBA FREEBET";
 var Backlist5 = "Rekap";
 var Backlist6 = "RESULT";
-
+var Backlist7 = "MANA";
 
 var myInterval = setInterval(function(){
     var urutkan = document.querySelectorAll("[data-mcomponent='ServerTextArea']");
