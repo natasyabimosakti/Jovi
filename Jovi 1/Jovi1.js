@@ -137,7 +137,7 @@ var Backlist3 = "HASIL";
 var Backlist4 = "ROOM LOMBA FREEBET";
 var Backlist5 = "Rekap";
 var Backlist6 = "RESULT";
-
+var Backlist7 = "MANA";
 
 var myInterval = setInterval(function(){
     var urutkan = document.querySelectorAll("[data-mcomponent='ServerTextArea']");
