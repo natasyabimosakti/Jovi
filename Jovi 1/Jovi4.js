@@ -24,7 +24,7 @@ var namagroup1 = 'TAFSIR';
 var Comment1 = 'TAG4D (ASYEMKE) 78*57*25';
 
 var namagroup2 = 'K86T0T0';
-var Comment2 = 'K86TOTO ( AS8IU3M ) : 48*89*09';
+var Comment2 = 'K86TOTO ( AISHH98 ) : 48*89*09';
 
 var namagroup3 = 'IND0SL0TER';
 var Comment3 = 'ABIDINN0 : 21*04*18 #indosloter';
