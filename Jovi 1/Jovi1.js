@@ -29,7 +29,7 @@ var namagroup3 = 'INDOSL0TER';
 var Comment3 = 'COCORA9 : 85*30*01 #indosloter';
 
 var namagroup4 = 'SEJITU';
-var Comment4 = '#SEJITU ( cubruk66 ) : 91*42*32'
+var Comment4 = '#SEJITU ( cubruk66 ) : 91*42*32';
 
 var namagroup5 = 'OTU';
 var Comment5 = '#OTUSLOT*C698K3J*35*92*13*BETTING';
