@@ -2,7 +2,7 @@
 // ==UserScript==
 // @name         JOVI 2
 // @namespace    http://tampermonkey.net/
-// @version      3.22
+// @version      3.23
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi2.js
@@ -22,7 +22,7 @@ var refresh = 50;
 var namagroup1 = 'TAFSIR';
 var Comment1 = 'TAG4D : (DEMIIIAPA20) 53*38*87';
 
-var namagroup2 = 'K86T0T0';
+var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( DBU572A1 ) : 06*11*94';
 
 var namagroup3 = 'INDOSL0TER';
