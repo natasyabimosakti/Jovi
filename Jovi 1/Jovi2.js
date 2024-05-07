@@ -28,8 +28,8 @@ var Comment2 = 'K86TOTO ( DBU572A1 ) : 06*11*94';
 var namagroup3 = 'INDOSL0TER';
 var Comment3 = 'DONGOK88 : 71*24*23 #indosloter';
 
-var namagroup4 = 'BUPATI';
-var Comment4 = '#BUPATITOGEL (D43J8K) = 49*20*64';
+var namagroup4 = 'SEJITU';
+var Comment4 = '#SEJITU ( DRON78 ) : 49*20*64';
 
 var namagroup5 = 'OTU';
 var Comment5 = '#OTUSLOT*DF892K*07*31*14*BETTING';
@@ -50,7 +50,7 @@ var namagroup10 = 'SL0T0G3L';
 var Comment10 = '#SLOTOGEL (D329KL) : 53*38*87';
 
 var namagroup11 = 'KEBAYA';
-var Comment11 = '#(KEBAYA4D) = (DUMADU10) 84*81*17';
+var Comment11 = '(KEBAYA4D) = (DUMADU10) 84*81*17';
 
 var namagroup12 = 'BESTOTO';
 var Comment12 = 'DKL32B : 06*11*94 #BESTOTO88';
