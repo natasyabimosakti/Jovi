@@ -27,7 +27,7 @@ var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( AISHH98 ) : 48*89*09';
 
 var namagroup3 = 'PUSAT LOMBA';
-var Comment3 = 'Shiotogel4d (ABIDINN0) 21*04*18';
+var Comment3 = 'Shiotogel4d (ADOHAY78) 21*04*18';
 
 var namagroup4 = 'SEJITU';
 var Comment4 = '#SEJITU ( ADOBP3 ) : 33*39*80';
