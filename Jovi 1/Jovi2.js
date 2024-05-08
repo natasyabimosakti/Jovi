@@ -25,8 +25,8 @@ var Comment1 = 'TAG4D : (DEMIIIAPA20) 53*38*87';
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( DBU572A1 ) : 06*11*94';
 
-var namagroup3 = 'INDOSL0TER';
-var Comment3 = 'DONGOK88 : 71*24*23 #indosloter';
+var namagroup3 = 'PUSAT LOMBA';
+var Comment3 = 'Shiotogel4d (DUMBASH8) 71*24*23';
 
 var namagroup4 = 'SEJITU';
 var Comment4 = '#SEJITU ( DRON78 ) : 49*20*64';
