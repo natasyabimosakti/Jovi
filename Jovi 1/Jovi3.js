@@ -26,8 +26,8 @@ var Comment1 = 'TAG4D : (BADEGEE) 08*41*88';
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( BY666HE ) : 10*73*65';
 
-var namagroup3 = 'INDOSL0TER';
-var Comment3 = 'BPKKAU4 : 27*90*76 #indosloter';
+var namagroup3 = 'PUSAT LOMBA';
+var Comment3 = 'Shiotogel4d (BAJILAK66) 27*90*76';
 
 var namagroup4 = 'SEJITU';
 var Comment4 = '#SEJITU ( BLUREYY ) : 52*69*51';
