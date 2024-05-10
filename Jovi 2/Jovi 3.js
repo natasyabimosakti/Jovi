@@ -18,7 +18,53 @@ var refresh = 50;
 
 
 /*======================================================================Paste Script Tampermonkey di sini===============================================================*/
+"var namagroup1 = 'TAFSIR';
+var Comment1 = 'TAG4D : (JJUKIIM5) 95*85*90'; 
 
+var namagroup2 = 'K86T0T0';
+var Comment2 = 'K86TOTO ( JEHOASYU7 ) : 38*50*57'; 
+
+var namagroup3 = 'PUSAT LOMBA';
+var Comment3 = 'Shiotogel4d (JJDONG9) 07*34*97'; 
+
+var namagroup4 = 'SEJITU';
+var Comment4 = '#SEJITU ( JLEBB6 ) : 52*64*93'; 
+
+var namagroup5 = 'OTU';
+var Comment5 = '#OTUSLOT*JONAHHF9*71*33*15*BETTING'; 
+
+var namagroup6 = 'DIVA4D';
+var Comment6 = '#DIVA4D (JHEO24) = 25*20*32'; 
+
+var namagroup7 = 'Hoho';
+var Comment7 = 'JEFFRE2 : 46*96*84 #HOHOTOGEL'; 
+
+var namagroup8 = 'KITAJITU';
+var Comment8 = '#KITAJITU / JXUPING8 / 36*04*51 / #Betting'; 
+
+var namagroup9 = 'KIU';
+var Comment9 = '#(KIUTOTO) (JDOGG7) : 36*04*51'; 
+
+var namagroup10 = 'SL0T0G3L';
+var Comment10 = '#SLOTOGEL (JADEMM3) : 95*85*90'; 
+
+var namagroup11 = 'KEBAYA';
+var Comment11 = '(KEBAYA4D) = (JOKIAD8) 46*96*84'; 
+
+var namagroup12 = 'BESTOTO';
+var Comment12 = 'JELONN9 : 38*50*57 #BESTOTO88'; 
+
+var namagroup13 = 'GOHT0G3L';
+var Comment13 = 'GOHTOGEL=JBULL8=25*20*32'; 
+
+var namagroup14 = 'MAYAPADA';
+var Comment14 = 'BETT*SingasariTOTO(BO)*JVIVI6*07*34*97'; 
+
+var namagroup15 = 'XX1';
+var Comment15 = '#XX1TOTO (JSIUH0)  71*33*15 BETTING'; 
+
+var namagroup16 = 'TERAS';
+var Comment16 = 'TERASTOTO*JFEKK8*52*64*BETTING';"
 
 
 
