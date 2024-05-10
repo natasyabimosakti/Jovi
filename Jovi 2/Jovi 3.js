@@ -18,7 +18,7 @@ var refresh = 50;
 
 
 /*======================================================================Paste Script Tampermonkey di sini===============================================================*/
-"var namagroup1 = 'TAFSIR';
+var namagroup1 = 'TAFSIR';
 var Comment1 = 'TAG4D : (JJUKIIM5) 95*85*90'; 
 
 var namagroup2 = 'K86T0T0';
@@ -64,7 +64,7 @@ var namagroup15 = 'XX1';
 var Comment15 = '#XX1TOTO (JSIUH0)  71*33*15 BETTING'; 
 
 var namagroup16 = 'TERAS';
-var Comment16 = 'TERASTOTO*JFEKK8*52*64*BETTING';"
+var Comment16 = 'TERASTOTO*JFEKK8*52*64*BETTING';
 
 
 
