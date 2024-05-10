@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         POLOS
+// @name         jovi 1
 // @namespace    http://tampermonkey.net/
 // @version      3.00
 // @description  try to take over the world!
-// @updateURL    
-// @downloadURL  
+// @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%202/Jovi%201.js
+// @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%202/Jovi%201.js
 // @author       You
 // @match        http*://*/*
 // @run-at       document-end
