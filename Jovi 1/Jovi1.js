@@ -65,7 +65,7 @@ var namagroup15 = 'XX1';
 var Comment15 = '#XX1TOTO (CV5Z9GH)  02*15*68 BETTING'; 
 
 var namagroup16 = 'TERAS';
-var Comment16 = 'TERASTOTO*COMROTE11*91*42*32*BETTING';
+var Comment16 = 'TERASTOTO*COMROTE11*91*42*BETTING';
 
 
 
