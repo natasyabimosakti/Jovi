@@ -20,53 +20,52 @@ var refresh = 50;
 
 /*======================================================================Paste Script Tampermonkey di sini===============================================================*/
 var namagroup1 = 'TAFSIR';
-var Comment1 = 'TAG4D : (DEMIIIAPA20) 53*38*87';
+var Comment1 = 'TAG4D : (DEMIIIAPA20) 53*38*87'; 
 
-var namagroup2 = 'K86';
-var Comment2 = 'K86TOTO ( DBU572A1 ) : 06*11*94';
+var namagroup2 = 'K86T0T0';
+var Comment2 = 'K86TOTO ( DGMSBR66 ) : 06*11*94'; 
 
 var namagroup3 = 'PUSAT LOMBA';
-var Comment3 = 'Shiotogel4d (DUMBASH8) 71*24*23';
+var Comment3 = 'Shiotogel4d (DUMBASH8) 71*24*23'; 
 
 var namagroup4 = 'SEJITU';
-var Comment4 = '#SEJITU ( DRON78 ) : 49*20*64';
+var Comment4 = '#SEJITU ( DRON78 ) : 49*20*64'; 
 
-var namagroup5 = 'OTU';
-var Comment5 = '#OTUSLOT*DF892K*07*31*14*BETTING';
+var namagroup5 = 'RNR';
+var Comment5 = '‌#RNR303(DJANCUK8) : 07*31*14'; 
 
 var namagroup6 = 'DIVA4D';
-var Comment6 = '#DIVA4D (DABI17) = 79*43*58';
+var Comment6 = '#DIVA4D (DABI17) = 79*43*58'; 
 
 var namagroup7 = 'Hoho';
-var Comment7 = 'DC78V9A : 84*81*17 #HOHOTOGEL';
+var Comment7 = 'DC78V9A : 84*81*17 #HOHOTOGEL'; 
 
-var namagroup8 = 'KITAJITU';
-var Comment8 = '#KITAJITU / DB79MCAH / 26*72*61 / #Betting';
+var namagroup8 = 'TOK99T0T0';
+var Comment8 = 'Tok99Toto ( DDUKOL5 ) : 26*72*61'; 
 
 var namagroup9 = 'KIU';
-var Comment9 = '#(KIUTOTO) (DUMBKK8) : 07*31*14';
+var Comment9 = '#(KIUTOTO) (DUMBKK8) : 07*31*14'; 
 
 var namagroup10 = 'SL0T0G3L';
-var Comment10 = '#SLOTOGEL (D329KL) : 53*38*87';
+var Comment10 = '#SLOTOGEL (D329KL) : 53*38*87'; 
 
 var namagroup11 = 'KEBAYA';
-var Comment11 = '(KEBAYA4D) = (DUMADU10) 84*81*17';
+var Comment11 = '(KEBAYA4D) = (DUMADU10) 84*81*17'; 
 
 var namagroup12 = 'BESTOTO';
-var Comment12 = 'DKL32B : 06*11*94 #BESTOTO88';
+var Comment12 = 'DKL32B : 06*11*94 #BESTOTO88'; 
 
 var namagroup13 = 'GOHT0G3L';
-var Comment13 = 'GOHTOGEL=DAS67GH=79*43*58';
+var Comment13 = 'GOHTOGEL=DAS67GH=79*43*58'; 
 
 var namagroup14 = 'MAYAPADA';
-var Comment14 = 'BETT*SingasariTOTO(BO)*D78HKI*71*24*23';
+var Comment14 = 'BETT*SingasariTOTO(BO)*D78HKI*71*24*23'; 
 
 var namagroup15 = 'XX1';
-var Comment15 = '#XX1TOTO (D53SU) 26*72*61 BETTING';
+var Comment15 = '#XX1TOTO (D53SU)  26*72*61 BETTING'; 
 
 var namagroup16 = 'TERAS';
-var Comment16 = 'TERASTOTO*DUCHOM69*49*20*BETTING';
-
+var Comment16 = 'TERASTOTO*DUCHOM69*49*20*64*BETTING';
 
 /*======================================================================3D===============================================================*/
 
