@@ -30,8 +30,8 @@ var Comment3 = 'Shiotogel4d (JJDONG9) 07*34*97';
 var namagroup4 = 'SEJITU';
 var Comment4 = '#SEJITU ( JLEBB6 ) : 52*64*93'; 
 
-var namagroup5 = 'OTU';
-var Comment5 = '#OTUSLOT*JONAHHF9*71*33*15*BETTING'; 
+var namagroup5 = 'RNR';
+var Comment5 = '‌#RNR303(JONAHHF9) : 71*33*15'; 
 
 var namagroup6 = 'DIVA4D';
 var Comment6 = '#DIVA4D (JHEO24) = 25*20*32'; 
@@ -39,8 +39,8 @@ var Comment6 = '#DIVA4D (JHEO24) = 25*20*32';
 var namagroup7 = 'Hoho';
 var Comment7 = 'JEFFRE2 : 46*96*84 #HOHOTOGEL'; 
 
-var namagroup8 = 'KITAJITU';
-var Comment8 = '#KITAJITU / JXUPING8 / 36*04*51 / #Betting'; 
+var namagroup8 = 'TOK99T0T0';
+var Comment8 = 'Tok99Toto ( JXUPING8 ) : 36*04*51'; 
 
 var namagroup9 = 'KIU';
 var Comment9 = '#(KIUTOTO) (JDOGG7) : 36*04*51'; 
@@ -64,7 +64,7 @@ var namagroup15 = 'XX1';
 var Comment15 = '#XX1TOTO (JSIUH0)  71*33*15 BETTING'; 
 
 var namagroup16 = 'TERAS';
-var Comment16 = 'TERASTOTO*JFEKK8*52*64*BETTING';
+var Comment16 = 'TERASTOTO*JFEKK8*52*64*72*BETTING';
 
 
 
@@ -81,7 +81,7 @@ var jam = ["Baru sa","1 menit","2 menit","3 menit","4 menit","5 menit","6 menit"
 
 
 
-var keyword = ["ROOM", "𝗥𝗢𝗢𝗠", "LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","R0M","🎱","⏩"];
+var keyword = ["ROOM", "𝗥𝗢𝗢𝗠", "LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","R0M","🎱","⏩","🟠"];
 
 
 var Backlist1 = "PEMENANG LOMBA";
