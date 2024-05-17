@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         jovi 1
 // @namespace    http://tampermonkey.net/
-// @version      3.00
+// @version      3.01
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%202/Jovi%201.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%202/Jovi%201.js
@@ -30,8 +30,8 @@ var Comment3 = 'Shiotogel4d (MMASU6) 23*49*17';
 var namagroup4 = 'SEJITU';
 var Comment4 = '#SEJITU ( MATSUK8 ) : 88*01*67'; 
 
-var namagroup5 = 'OTU';
-var Comment5 = '#OTUSLOT*MUKBER2*92*05*83*BETTING'; 
+var namagroup5 = 'RNR';
+var Comment5 = '‌#RNR303(MUKBER2) : 92*05*83'; 
 
 var namagroup6 = 'DIVA4D';
 var Comment6 = '#DIVA4D (MKKU1) = 78*12*18'; 
@@ -39,8 +39,8 @@ var Comment6 = '#DIVA4D (MKKU1) = 78*12*18';
 var namagroup7 = 'Hoho';
 var Comment7 = 'MSULO9 : 77*80*30 #HOHOTOGEL'; 
 
-var namagroup8 = 'KITAJITU';
-var Comment8 = '#KITAJITU / MHGUA2 / 21*10*27 / #Betting'; 
+var namagroup8 = 'TOK99T0T0';
+var Comment8 = 'Tok99Toto ( MHGUA2 ) : 21*10*27'; 
 
 var namagroup9 = 'KIU';
 var Comment9 = '#(KIUTOTO) (MUKELL1) : 21*10*27'; 
@@ -81,7 +81,7 @@ var jam = ["Baru sa","1 menit","2 menit","3 menit","4 menit","5 menit","6 menit"
 
 
 
-var keyword = ["ROOM", "𝗥𝗢𝗢𝗠", "LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","R0M","🎱","⏩"];
+var keyword = ["ROOM", "𝗥𝗢𝗢𝗠", "LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","R0M","🎱","⏩","🟠"];
 
 
 var Backlist1 = "PEMENANG LOMBA";
@@ -90,7 +90,7 @@ var Backlist3 = "HASIL";
 var Backlist4 = "ROOM LOMBA FREEBET";
 var Backlist5 = "Rekap";
 var Backlist6 = "RESULT";
-
+var Backlist7 = "MANA";
 
 
 var myInterval = setInterval(function(){
