@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         jovi 4
 // @namespace    http://tampermonkey.net/
-// @version      3.00
+// @version      3.01
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%202/Jovi%204.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%202/Jovi%204.js
@@ -30,8 +30,8 @@ var Comment3 = 'Shiotogel4d (VEFEK1) 26*91*58';
 var namagroup4 = 'SEJITU';
 var Comment4 = '#SEJITU ( VUKIM8 ) : 11*70*63'; 
 
-var namagroup5 = 'OTU';
-var Comment5 = '#OTUSLOT*VYUMAN0*22*76*98*BETTING'; 
+var namagroup5 = 'RNR';
+var Comment5 = '‌#RNR303(VYUMAN0) : 22*76*98'; 
 
 var namagroup6 = 'DIVA4D';
 var Comment6 = '#DIVA4D (VTOPA7) = 08*68*74'; 
@@ -39,8 +39,8 @@ var Comment6 = '#DIVA4D (VTOPA7) = 08*68*74';
 var namagroup7 = 'Hoho';
 var Comment7 = 'VBUDII8 : 47*79*86 #HOHOTOGEL'; 
 
-var namagroup8 = 'KITAJITU';
-var Comment8 = '#KITAJITU / VODEX1 / 55*45*65 / #Betting'; 
+var namagroup8 = 'TOK99T0T0';
+var Comment8 = 'Tok99Toto ( VODEX1 ) : 55*45*65'; 
 
 var namagroup9 = 'KIU';
 var Comment9 = '#(KIUTOTO) (VOLVON3) : 55*45*65'; 
@@ -81,7 +81,7 @@ var jam = ["Baru sa","1 menit","2 menit","3 menit","4 menit","5 menit","6 menit"
 
 
 
-var keyword = ["ROOM", "𝗥𝗢𝗢𝗠", "LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","R0M","🎱","⏩"];
+var keyword = ["ROOM", "𝗥𝗢𝗢𝗠", "LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","R0M","🎱","⏩","🟠"];
 
 
 var Backlist1 = "PEMENANG LOMBA";
