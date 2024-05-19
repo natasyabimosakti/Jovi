@@ -8,7 +8,7 @@
 // @author       You
 // @match        http*:///
 // @run-at       document-end
-// @icon         image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
+// @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant       GM.setValue
 // @grant       GM.getValue
 // @grant       window.close
