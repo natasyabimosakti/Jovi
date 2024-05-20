@@ -94,7 +94,7 @@ var id17 = await GM.getValue(17);
 var jam = ["Baru","1 menit","2 menit","3 menit","4 menit","5 menit","6 menit","7 menit","8 menit"];
 var jam2= ["Admin   Baru","Admin   1 menit","Admin   2 menit","Admin   3 menit","Admin   4 menit","Admin   5 menit","Admin   6 menit","Admin   7 menit","Admin   8 menit"];
 var jam3= ["Moderator   Baru","Moderator   1 menit","Moderator   2 menit","Moderator   3 menit","Moderator   4 menit","Moderator   5 menit","Moderator   6 menit","Moderator   7 menit","Moderator   8 menit"];
-var keyword = ["ROOM", "𝗥𝗢𝗢𝗠", "LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","R0M","🎱","⏩"];
+var keyword = ["ROOM", "𝗥𝗢𝗢𝗠", "LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","R0M","🎱","⏩","▅","●","🟠"];
 
 
 var Backlist1 = "moderator";
@@ -103,7 +103,7 @@ var Backlist3 = "hasil";
 var Backlist4 = "room lomba freebet";
 var Backlist5 = "done";
 var Backlist6 = "admin";
-
+var Backlist7 = "MANA";
 
 
 
