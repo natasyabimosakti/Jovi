@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         jovi2
+// @name         jovi 2
 // @namespace    http://tampermonkey.net/
 // @version      3.00
 // @description  try to take over the world!
