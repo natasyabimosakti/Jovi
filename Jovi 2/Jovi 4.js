@@ -19,16 +19,16 @@ var refresh = 60;
 
 /---------------------------------------------/
 
-var namagroup1 = 'TAFSIR';
+var namagroup1 = 'BUKU';
 var Comment1 = 'TAG4D : (VALOI9) 28*62*31'; 
 
-var namagroup2 = 'K86T0T0';
+var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( VUVUK3 ) : 03*99*24'; 
 
 var namagroup3 = 'PUSAT LOMBA';
 var Comment3 = 'Shiotogel4d (VEFEK1) 26*91*58'; 
 
-var namagroup4 = 'SEJITU';
+var namagroup4 = 'SEJ1TU';
 var Comment4 = '#SEJITU ( VUKIM8 ) : 11*70*63'; 
 
 var namagroup5 = 'RNR';
