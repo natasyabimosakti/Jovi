@@ -40,7 +40,7 @@ var Comment6 = '#DIVA4D (DABI17) = 79*43*58';
 var namagroup7 = 'Hoho';
 var Comment7 = 'DC78V9A : 84*81*17 #HOHOTOGEL'; 
 
-var namagroup8 = 'TOK99T0T0';
+var namagroup8 = 'INFO';
 var Comment8 = 'Tok99Toto ( DDUKOL5 ) : 26*72*61'; 
 
 var namagroup9 = 'KIU';
