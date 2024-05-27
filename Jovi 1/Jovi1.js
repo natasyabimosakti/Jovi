@@ -40,7 +40,7 @@ var Comment6 = '#DIVA4D (CEBOLL68) = 83*66*29';
 var namagroup7 = 'Hoho';
 var Comment7 = 'CH89JK : 97*60*54 #HOHOTOGEL'; 
 
-var namagroup8 = 'TOK99T0T0';
+var namagroup8 = 'INFO';
 var Comment8 = 'Tok99Toto ( CUKILS2 ) : 02*15*68'; 
 
 var namagroup9 = 'KIU';
