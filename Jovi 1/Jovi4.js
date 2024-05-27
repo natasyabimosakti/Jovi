@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 4
 // @namespace    http://tampermonkey.net/
-// @version      3.28
+// @version      3.29
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi4.js
@@ -41,7 +41,7 @@ var Comment6 = '#DIVA4D (ANTKDJL66) = 67*50*86';
 var namagroup7 = 'Hoho';
 var Comment7 = 'AXU78A : 98*93*37 #HOHOTOGEL'; 
 
-var namagroup8 = 'TOK99T0T0';
+var namagroup8 = 'INFO';
 var Comment8 = 'Tok99Toto ( AYEREKZ8 ) : 95*59*16'; 
 
 var namagroup9 = 'KIU';
