@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 4
 // @namespace    http://tampermonkey.net/
-// @version      3.05
+// @version      3.06
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%202/Jovi%204.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%202/Jovi%204.js
@@ -21,16 +21,16 @@ var refresh = 50;
 /*======================================================================Paste Script Tampermonkey di sini===============================================================*/
 
 var namagroup1 = 'BUKU';
-var Comment1 = 'TAG4D : (VALOI9) 28*62*31'; 
+var Comment1 = 'TAG4D : (VALOI9) 28*31*62';
 
 var namagroup2 = 'K86';
-var Comment2 = 'K86TOTO ( VUVUK3 ) : 03*99*24'; 
+var Comment2 = 'K86TOTO ( VUVUK3 ) : 03*24*99';
 
 var namagroup3 = 'PUSAT LOMBA';
-var Comment3 = 'Shiotogel4d (VEFEK1) 26*91*58'; 
+var Comment3 = 'Shiotogel4d (VEFEK1) 26*58*91';
 
 var namagroup4 = 'SEJ1TU';
-var Comment4 = '#SEJITU ( VUKIM8 ) : 11*70*63'; 
+var Comment4 = '#SEJITU ( VUKIM8 ) : 11*63*70';
 
 var namagroup5 = 'RNR';
 var Comment5 = '‌#RNR303(VYUMAN0) : 22*76*98'; 
@@ -42,31 +42,31 @@ var namagroup7 = 'Hoho';
 var Comment7 = 'VBUDII8 : 47*79*86 #HOHOTOGEL'; 
 
 var namagroup8 = 'INFO';
-var Comment8 = 'Tok99Toto ( VODEX1 ) : 55*45*65'; 
+var Comment8 = 'Tok99Toto ( VODEX1 ) : 45*55*65';
 
 var namagroup9 = 'KIU';
-var Comment9 = '#(KIUTOTO) (VOLVON3) : 55*45*65'; 
+var Comment9 = '#(KIUTOTO) (VOLVON3) : 45*55*65';
 
 var namagroup10 = 'SLOTOG3L';
-var Comment10 = '#SLOTOGEL (VORTEXX4) : 28*62*31'; 
+var Comment10 = '#SLOTOGEL (VORTEXX4) : 28*31*62';
 
 var namagroup11 = 'KEBAYA';
 var Comment11 = '(KEBAYA4D) = (VGARLA5) 47*79*86'; 
 
 var namagroup12 = 'BESTOTO';
-var Comment12 = 'VARNOL8 : 03*99*24 #BESTOTO88'; 
+var Comment12 = 'VARNOL8 : 03*24*99 #BESTOTO88';
 
 var namagroup13 = 'GOHT0G3L';
 var Comment13 = 'GOHTOGEL=VAFORR9=08*68*74'; 
 
 var namagroup14 = 'MAYAPADA';
-var Comment14 = 'BETT*SingasariTOTO(BO)*VJVON0*26*91*58'; 
+var Comment14 = 'BETT*SingasariTOTO(BO)*VJVON0*26*58*91';
 
 var namagroup15 = 'XX1';
 var Comment15 = '#XX1TOTO (VODKHA3)  22*76*98 BETTING'; 
 
 var namagroup16 = 'LUCK';
-var Comment16 = 'CITA4D*VZOLL8*35*70*63';
+var Comment16 = 'CITA4D*VZOLL8*35*63*70';
 
 
 
