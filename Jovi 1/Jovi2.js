@@ -2,7 +2,7 @@
 // ==UserScript==
 // @name         JOVI 2
 // @namespace    http://tampermonkey.net/
-// @version      3.29
+// @version      3.30
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi2.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi2.js
@@ -19,6 +19,7 @@
 var refresh = 50;
 
 /*======================================================================Paste Script Tampermonkey di sini===============================================================*/
+
 var namagroup1 = 'BUKU';
 var Comment1 = 'TAG4D : (DEMIIIAPA20) 53*38*87'; 
 
@@ -46,7 +47,7 @@ var Comment8 = 'Tok99Toto ( DDUKOL5 ) : 26*72*61';
 var namagroup9 = 'KIU';
 var Comment9 = '#(KIUTOTO) (DUMBKK8) : 07*31*14'; 
 
-var namagroup10 = 'SL0T0G3L';
+var namagroup10 = 'SLOTOG3L';
 var Comment10 = '#SLOTOGEL (D329KL) : 53*38*87'; 
 
 var namagroup11 = 'KEBAYA';
@@ -64,8 +65,8 @@ var Comment14 = 'BETT*SingasariTOTO(BO)*D78HKI*71*24*23';
 var namagroup15 = 'XX1';
 var Comment15 = '#XX1TOTO (D53SU)  26*72*61 BETTING'; 
 
-var namagroup16 = 'TERAS';
-var Comment16 = 'TERASTOTO*DUCHOM69*49*20*BETTING';
+var namagroup16 = 'LUCK';
+var Comment16 = 'CITA4D*DOMKANN*49*20*64';
 
 /*======================================================================3D===============================================================*/
 
