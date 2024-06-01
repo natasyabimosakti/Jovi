@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 2
 // @namespace    http://tampermonkey.net/
-// @version      3.05
+// @version      3.06
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%202/Jovi%202.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%202/Jovi%202.js
@@ -21,52 +21,52 @@ var refresh = 50;
 /*======================================================================Paste Script Tampermonkey di sini===============================================================*/
 
 var namagroup1 = 'BUKU';
-var Comment1 = 'TAG4D : (TUKIMAN8) 44*14*59'; 
+var Comment1 = 'TAG4D : (TUKIMAN8) 14*44*59';
 
 var namagroup2 = 'K86';
-var Comment2 = 'K86TOTO ( TUTUKI9 ) : 19*81*69'; 
+var Comment2 = 'K86TOTO ( TUTUKI9 ) : 19*69*81';
 
 var namagroup3 = 'PUSAT LOMBA';
-var Comment3 = 'Shiotogel4d (TAMPAR6) 56*61*73'; 
+var Comment3 = 'Shiotogel4d (TAMPAR6) 56*61*73';
 
 var namagroup4 = 'SEJ1TU';
-var Comment4 = '#SEJITU ( TURISMAN3 ) : 94*41*00'; 
+var Comment4 = '#SEJITU ( TURISMAN3 ) : 00*41*94';
 
 var namagroup5 = 'RNR';
-var Comment5 = '‌#RNR303(TROMOL1) : 87*06*75'; 
+var Comment5 = '‌#RNR303(TROMOL1) : 06*75*87';
 
 var namagroup6 = 'DIVA4D';
-var Comment6 = '#DIVA4D (TRUKKS4) = 09*66*29'; 
+var Comment6 = '#DIVA4D (TRUKKS4) = 09*29*66';
 
 var namagroup7 = 'Hoho';
-var Comment7 = 'TOWAR0 : 54*40*02 #HOHOTOGEL'; 
+var Comment7 = 'TOWAR0 : 02*40*54 #HOHOTOGEL';
 
 var namagroup8 = 'INFO';
-var Comment8 = 'Tok99Toto ( TCUKE2 ) : 16*42*13'; 
+var Comment8 = 'Tok99Toto ( TCUKE2 ) : 13*16*42';
 
 var namagroup9 = 'KIU';
-var Comment9 = '#(KIUTOTO) (TYBOZ0) : 16*42*13'; 
+var Comment9 = '#(KIUTOTO) (TYBOZ0) : 13*16*42';
 
 var namagroup10 = 'SLOTOG3L';
-var Comment10 = '#SLOTOGEL (THATA6) : 44*14*59'; 
+var Comment10 = '#SLOTOGEL (THATA6) : 14*44*59';
 
 var namagroup11 = 'KEBAYA';
-var Comment11 = '(KEBAYA4D) = (THIYOKK7) 54*40*02'; 
+var Comment11 = '(KEBAYA4D) = (THIYOKK7) 02*40*54';
 
 var namagroup12 = 'BESTOTO';
-var Comment12 = 'TDREREK8 : 19*81*69 #BESTOTO88'; 
+var Comment12 = 'TDREREK8 : 19*69*81 #BESTOTO88';
 
 var namagroup13 = 'GOHT0G3L';
-var Comment13 = 'GOHTOGEL=TUMBLERR5=09*66*29'; 
+var Comment13 = 'GOHTOGEL=TUMBLERR5=09*29*66';
 
 var namagroup14 = 'MAYAPADA';
-var Comment14 = 'BETT*SingasariTOTO(BO)*TSUKMA3*56*61*73'; 
+var Comment14 = 'BETT*SingasariTOTO(BO)*TSUKMA3*56*61*73';
 
 var namagroup15 = 'XX1';
-var Comment15 = '#XX1TOTO (TOBARR7)  87*06*75 BETTING'; 
+var Comment15 = '#XX1TOTO (TOBARR7)  06*75*87 BETTING';
 
 var namagroup16 = 'LUCK';
-var Comment16 = 'CITA4D*TETWR9*94*41*37';
+var Comment16 = 'CITA4D*TETWR9*37*41*94';
 
 
 
