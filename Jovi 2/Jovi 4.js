@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         JOVI 4
+// @name         Polos
 // @namespace    http://tampermonkey.net/
-// @version      3.02
+// @version      3.00
 // @description  try to take over the world!
-// @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%202/Jovi%204.js
-// @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%202/Jovi%204.js
+// @updateURL    
+// @downloadURL  
 // @author       You
 // @match        http*:///
 // @run-at       document-end
@@ -19,57 +19,8 @@ var refresh = 50;
 
 /======================================================================Paste Script Tampermonkey di sini===============================================================/
 
-var namagroup1 = 'BUKU';
-var Comment1 = 'TAG4D : (VALOI9) 28*62*31'; 
-
-var namagroup2 = 'K86';
-var Comment2 = 'K86TOTO ( VUVUK3 ) : 03*99*24'; 
-
-var namagroup3 = 'PUSAT LOMBA';
-var Comment3 = 'Shiotogel4d (VEFEK1) 26*91*58'; 
-
-var namagroup4 = 'SEJ1TU';
-var Comment4 = '#SEJITU ( VUKIM8 ) : 11*70*63'; 
-
-var namagroup5 = 'RNR';
-var Comment5 = '‌#RNR303(VYUMAN0) : 22*76*98'; 
-
-var namagroup6 = 'DIVA4D';
-var Comment6 = '#DIVA4D (VTOPA7) = 08*68*74'; 
-
-var namagroup7 = 'Hoho';
-var Comment7 = 'VBUDII8 : 47*79*86 #HOHOTOGEL'; 
-
-var namagroup8 = 'INFO';
-var Comment8 = 'Tok99Toto ( VODEX1 ) : 55*45*65'; 
-
-var namagroup9 = 'KIU';
-var Comment9 = '#(KIUTOTO) (VOLVON3) : 55*45*65'; 
-
-var namagroup10 = 'SLOTOG3L';
-var Comment10 = '#SLOTOGEL (VORTEXX4) : 28*62*31'; 
-
-var namagroup11 = 'KEBAYA';
-var Comment11 = '(KEBAYA4D) = (VGARLA5) 47*79*86'; 
-
-var namagroup12 = 'BESTOTO';
-var Comment12 = 'VARNOL8 : 03*99*24 #BESTOTO88'; 
-
-var namagroup13 = 'GOHT0G3L';
-var Comment13 = 'GOHTOGEL=VAFORR9=08*68*74'; 
-
-var namagroup14 = 'MAYAPADA';
-var Comment14 = 'BETT*SingasariTOTO(BO)*VJVON0*26*91*58'; 
-
-var namagroup15 = 'XX1';
-var Comment15 = '#XX1TOTO (VODKHA3)  22*76*98 BETTING'; 
-
-var namagroup16 = 'LUCK';
-var Comment16 = 'CITA4D*VZOLL8*35*70*63';
 
 
-
-/======================================================================3D===============================================================/
 
 
 
@@ -98,7 +49,6 @@ var id15 = await GM.getValue(15);
 var id16 = await GM.getValue(16);
 var id17 = await GM.getValue(17);
 var admin = ["febrian","jihan","jesika","rano","sabrina","artha","naura","katty","intan","neng","kendri","adelia","larissa","mesa","yasmine","oun","aurel","fiana","tiara","sabrina","hana","tania","leksa","brian","nadila","elly","farid","zurro","gretha","wndt","lehman","wiena","manu","lidya","otong","jhone","herfizah","vonny","jess","ayesha","jovanka","dollar","dewa","andy","erwin","wahid","ujen","sejitu","wahzo","kiky","calvin","megaways","fahresa","viona","mardia","sintia","robby","nathaya","boboho","celine","maes","tag","bella","dea","alde","puput","mad","hefi","dika","miranda","adm","celsia","leon","kotna","yoky","audi","lianda","salsabila","yohana","wok","bastian","hoihai","tink","sinta","kembar","laura","ayesha","sloter","nella","novi","sandiego","intan","ratu","priyan","san","ria","sanjaya","siska","jenifer","aditia","andri","safar","mahendra","multi","mariana","neman","minion","dewi","primus","roy","dewi","melati","kumbara","dinda","ananda","cinta","lina","icha","bobby","sanchez","oscar","rendy"];
-
 
 var jam = ["Baru","1 menit","2 menit","3 menit","4 menit","5 menit","6 menit","7 menit","8 menit"];
 var jam2= ["Admin   Baru","Admin   1 menit","Admin   2 menit","Admin   3 menit","Admin   4 menit","Admin   5 menit","Admin   6 menit","Admin   7 menit","Admin   8 menit"];
