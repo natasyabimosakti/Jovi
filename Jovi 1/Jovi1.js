@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 1
 // @namespace    http://tampermonkey.net/
-// @version      3.29
+// @version      3.30
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi1.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi1.js
@@ -46,7 +46,7 @@ var Comment8 = 'Tok99Toto ( CUKILS2 ) : 02*15*68';
 var namagroup9 = 'KIU';
 var Comment9 = '#(KIUTOTO) (CERET29) : 35*92*13'; 
 
-var namagroup10 = 'SL0T0G3L';
+var namagroup10 = 'SLOTOG3L';
 var Comment10 = '#SLOTOGEL (CL1BK36) : 05*40*34'; 
 
 var namagroup11 = 'KEBAYA';
@@ -64,8 +64,8 @@ var Comment14 = 'BETT*SingasariTOTO(BO)*CHDZ62V81 *85*30*01';
 var namagroup15 = 'XX1';
 var Comment15 = '#XX1TOTO (CV5Z9GH)  02*15*68 BETTING'; 
 
-var namagroup16 = 'TERAS';
-var Comment16 = 'TERASTOTO*COMROTE11*91*42*BETTING';
+var namagroup16 = 'LUCK';
+var Comment16 = 'CITA4D*CYUCUKBERUK*91*42*32';
 
 
 
