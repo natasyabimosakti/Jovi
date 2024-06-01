@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         POLOS
+// @name         JOVI 1
 // @namespace    http://tampermonkey.net/
 // @version      3.00
 // @description  try to take over the world!
