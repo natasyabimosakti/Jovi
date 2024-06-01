@@ -19,7 +19,7 @@ var refresh = 50;
 
 /======================================================================Paste Script Tampermonkey di sini===============================================================/
 
-"var namagroup1 = 'BUKU';
+var namagroup1 = 'BUKU';
 var Comment1 = 'TAG4D : (TUKIMAN8) 44*14*59'; 
 
 var namagroup2 = 'K86';
@@ -65,7 +65,7 @@ var namagroup15 = 'XX1';
 var Comment15 = '#XX1TOTO (TOBARR7)  87*06*75 BETTING'; 
 
 var namagroup16 = 'LUCK';
-var Comment16 = 'CITA4D*TETWR9*94*41*37';"
+var Comment16 = 'CITA4D*TETWR9*94*41*37';
 
 /======================================================================3D===============================================================/
 
