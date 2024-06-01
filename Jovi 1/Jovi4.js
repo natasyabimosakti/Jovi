@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 4
 // @namespace    http://tampermonkey.net/
-// @version      3.29
+// @version      3.30
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi4.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi4.js
@@ -20,7 +20,7 @@
 var refresh = 50;
 /*======================================================================Paste Script Tampermonkey di sini===============================================================*/
 
-var namagroup1 = 'BUKU';
+"var namagroup1 = 'BUKU';
 var Comment1 = 'TAG4D : (ASYEMKE) 78*57*25'; 
 
 var namagroup2 = 'K86';
@@ -47,14 +47,14 @@ var Comment8 = 'Tok99Toto ( AYEREKZ8 ) : 95*59*16';
 var namagroup9 = 'KIU';
 var Comment9 = '#(KIUTOTO) (APAKDO7) : 28*75*96'; 
 
-var namagroup10 = 'SL0T0G3L';
+var namagroup10 = 'SLOTOG3L';
 var Comment10 = '#SLOTOGEL (AI9O3K) : 78*57*25'; 
 
 var namagroup11 = 'KEBAYA';
 var Comment11 = '(KEBAYA4D) = (ANKCNDA96) 98*93*37'; 
 
 var namagroup12 = 'BESTOTO';
-var Comment12 = 'AKP3200 : 09*48*89 #BESTOTO88'; 
+var Comment12 = 'AKP3200 : 48*89*09 #BESTOTO88'; 
 
 var namagroup13 = 'GOHT0G3L';
 var Comment13 = 'GOHTOGEL=AKM401=67*50*86'; 
@@ -65,8 +65,8 @@ var Comment14 = 'BETT*SingasariTOTO(BO)*AH3JIK2*21*04*18';
 var namagroup15 = 'XX1';
 var Comment15 = '#XX1TOTO (AKB8P)  95*59*16 BETTING'; 
 
-var namagroup16 = 'TERAS';
-var Comment16 = 'TERASTOTO*ACIKIWIR6*33*39*BETTING';
+var namagroup16 = 'LUCK';
+var Comment16 = 'CITA4D*ANNUALREP*33*39*80';"
 
 /*======================================================================3D===============================================================*/
 
