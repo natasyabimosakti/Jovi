@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 1
 // @namespace    http://tampermonkey.net/
-// @version      3.06
+// @version      3.07
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%202/Jovi%201.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%202/Jovi%201.js
@@ -20,8 +20,8 @@ var refresh = 50;
 
 /*======================================================================Paste Script Tampermonkey di sini===============================================================*/
 
-var namagroup1 = 'BUKU';
-var Comment1 = 'TAG4D : (MBODOG0) 43*53*60';
+var namagroup1 = 'RITOGEL';
+var Comment1 = '#RITOGEL(MVPXPI3)43*53*60';
 
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( MUKEL3 ) : 48*82*89';
