@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         JOVI 3
 // @namespace    http://tampermonkey.net/
-// @version      3.09
+// @version      3.10
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%202/Jovi%203.js
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%202/Jovi%203.js
 // @author       You
-// @match        http*:///
+// @match        http*://*/*
 // @run-at       document-end
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant       GM.setValue
@@ -19,7 +19,7 @@
 var refresh = 50;
 
 
-/======================================================================3copy tampermonkey==========================================================/
+/*======================================================================3copy tampermonkey==========================================================*/
 
 var namagroup1 = 'RITOGEL';
 var Comment1 = '#RITOGEL(JSIUH0)85*90*95';
@@ -69,10 +69,13 @@ var Comment15 = '#XX1TOTO (JSIUH0)  15*33*71 BETTING';
 var namagroup16 = 'LUCK';
 var Comment16 = 'CITA4D*JFEKK8*52*64*72';
 
-/======================================================================3copy tampermonkey==========================================================/
+/*======================================================================3copy tampermonkey==========================================================*/
 
 
-var admin = ["Siâo Ciâ","baru","baru","sonia","serena","alde","puput","mad","hefi","dika","iyatoto","adm","celsia","jne","kotna","yoky","audi","lianda","salsabila","yohana","wok","bastian","hoihai","tink","sinta","kembar","laura","ayesha","tiktak","nella","novi","sandiego","nasution","ratu","priyan","san","ria","sanjaya","siska","Baru","aditia","keitogel","safar","mahendra","multi","mariana","neman","tatang","dewi","primus","roy","dewi","melati","kumbara","dentoto","ananda","cinta","lina","icha","bobby","sanchez","oscar","rendy","aldi"];
+Admin Group DUA
+
+var admin = ["aldi","febrian","jihan","jesika","rano","sabrina","artha","naura","katty","intan","neng","kendri","adelia","larissa","mesa","yasmine","oun","aurel","fiana","tiara","sabrina","hana","tania","leksa","brian","nadila","elly","farid","zurro","gretha","wndt","lehman","wiena","manu","lidya","otong","jhone","herfizah","vonny","jess","ayesha","jovanka","dollar","dewa","andy","erwin","wahid","ujen","sejitu","wahzo","kiky","calvin","megaways","fahresa","viona","mardia","sintia","robby","nathaya","boboho","celine","maes","tag","bella","dea","alde","puput","mad","hefi","dika","miranda","adm","celsia","leon","kotna","yoky","audi","lianda","salsabila","yohana","wok","bastian","hoihai","tink","sinta","kembar","laura","ayesha","sloter","nella","novi","sandiego","intan","ratu","priyan","san","ria","sanjaya","siska","jenifer","aditia","andri","safar","mahendra","multi","mariana","neman","minion","dewi","primus","roy","dewi","melati","kumbara","dinda","ananda","cinta","lina","icha","bobby","sanchez","oscar","rendy"];
+
 var keyword1 = "ROOM"
 var keyword2 = "𝗥𝗢𝗢𝗠"
 var keyword3 = "LOMBA"
@@ -88,7 +91,7 @@ var Backlist1 = "pemenang lomba";
 var Backlist2 = "rekap";
 var Backlist3 = "hasil";
 var Backlist4 = "room lomba freebet";
-var Backlist5 = "mana";
+var Backlist5 = "done";
 var Backlist6 = "result";
 var Backlist7 = "result";
 
@@ -166,7 +169,7 @@ var myInterval = setInterval(function(){
             var commentbox = document.querySelectorAll('[data-tracking-duration-id')[ntv].getElementsByClassName('native-text')[datacommentbox];
 
             // Cek Jam
-            var ret = jamposting.textContent.replace(/  Admin   |  Moderator   /g, "");
+            var ret = jamposting.textContent.replace(/  Admin   |  Moderator   /g, "");
             if (ret.includes("Baru")||ret.slice(0,7).includes("1 menit")||ret.slice(0,7).includes("2 menit")||ret.slice(0,7).includes("3 menit")||ret.slice(0,7).includes("4 menit")||ret.slice(0,7).includes("4 menit")){
                 console.log("Jam Ditemukan " + ret)
                 if(postingan.textContent.toLowerCase().includes(keyword1.toLowerCase())
@@ -208,7 +211,7 @@ var myInterval = setInterval(function(){
 
 
                             if (ceknamagroup.includes(namagroup1) == true||ceknamagroup1.includes(namagroup1) == true||ceknamagroup2.includes(namagroup1) == true||ceknamagroup3.includes(namagroup1) == true||ceknamagroup4.includes(namagroup1) == true) {
-                                /cek nama group dan tulis commntar/
+                                /*cek nama group dan tulis commntar*/
                                 document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment1;
                                 clicksend();
                                 clearInterval(myInterval);
@@ -217,7 +220,7 @@ var myInterval = setInterval(function(){
                             }
 
                             if (ceknamagroup.includes(namagroup2) == true||ceknamagroup1.includes(namagroup2) == true||ceknamagroup2.includes(namagroup2) == true||ceknamagroup3.includes(namagroup2) == true||ceknamagroup4.includes(namagroup2) == true) {
-                                /cek nama group dan tulis commntar/
+                                /*cek nama group dan tulis commntar*/
                                 document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment2;
                                 clicksend();
                                 clearInterval(myInterval);
@@ -226,7 +229,7 @@ var myInterval = setInterval(function(){
                             }
 
                             if (ceknamagroup.includes(namagroup3) == true||ceknamagroup1.includes(namagroup3) == true||ceknamagroup2.includes(namagroup3) == true||ceknamagroup3.includes(namagroup3) == true||ceknamagroup4.includes(namagroup3) == true) {
-                                /cek nama group dan tulis commntar/
+                                /*cek nama group dan tulis commntar*/
                                 document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment3;
                                 clicksend();
                                 clearInterval(myInterval);
@@ -235,7 +238,7 @@ var myInterval = setInterval(function(){
                             }
 
                             if (ceknamagroup.includes(namagroup4) == true||ceknamagroup1.includes(namagroup4) == true||ceknamagroup2.includes(namagroup4) == true||ceknamagroup3.includes(namagroup4) == true||ceknamagroup4.includes(namagroup4) == true) {
-                                /cek nama group dan tulis commntar/
+                                /*cek nama group dan tulis commntar*/
                                 document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment4;
                                 clicksend();
                                 clearInterval(myInterval);
@@ -244,7 +247,7 @@ var myInterval = setInterval(function(){
                             }
 
                             if (ceknamagroup.includes(namagroup5) == true||ceknamagroup1.includes(namagroup5) == true||ceknamagroup2.includes(namagroup5) == true||ceknamagroup3.includes(namagroup5) == true||ceknamagroup4.includes(namagroup5) == true) {
-                                /cek nama group dan tulis commntar/
+                                /*cek nama group dan tulis commntar*/
                                 document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment5;
                                 clicksend();
                                 clearInterval(myInterval);
@@ -253,7 +256,7 @@ var myInterval = setInterval(function(){
                             }
 
                             if (ceknamagroup.includes(namagroup6) == true||ceknamagroup1.includes(namagroup6) == true||ceknamagroup2.includes(namagroup6) == true||ceknamagroup3.includes(namagroup6) == true||ceknamagroup4.includes(namagroup6) == true) {
-                                /cek nama group dan tulis commntar/
+                                /*cek nama group dan tulis commntar*/
                                 document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment6;
                                 clicksend();
                                 clearInterval(myInterval);
@@ -262,7 +265,7 @@ var myInterval = setInterval(function(){
                             }
 
                             if (ceknamagroup.includes(namagroup7) == true||ceknamagroup1.includes(namagroup7) == true||ceknamagroup2.includes(namagroup7) == true||ceknamagroup3.includes(namagroup7) == true||ceknamagroup4.includes(namagroup7) == true) {
-                                /cek nama group dan tulis commntar/
+                                /*cek nama group dan tulis commntar*/
                                 document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment7;
                                 clicksend();
                                 clearInterval(myInterval);
@@ -271,7 +274,7 @@ var myInterval = setInterval(function(){
                             }
 
                             if (ceknamagroup.includes(namagroup8) == true||ceknamagroup1.includes(namagroup8) == true||ceknamagroup2.includes(namagroup8) == true||ceknamagroup3.includes(namagroup8) == true||ceknamagroup4.includes(namagroup8) == true) {
-                                /cek nama group dan tulis commntar/
+                                /*cek nama group dan tulis commntar*/
                                 document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment8;
                                 clicksend();
                                 clearInterval(myInterval);
@@ -280,7 +283,7 @@ var myInterval = setInterval(function(){
                             }
 
                             if (ceknamagroup.includes(namagroup9) == true||ceknamagroup1.includes(namagroup9) == true||ceknamagroup2.includes(namagroup9) == true||ceknamagroup3.includes(namagroup9) == true||ceknamagroup4.includes(namagroup9) == true) {
-                                /cek nama group dan tulis commntar/
+                                /*cek nama group dan tulis commntar*/
                                 document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment9;
                                 clicksend();
                                 clearInterval(myInterval);
@@ -289,7 +292,7 @@ var myInterval = setInterval(function(){
                             }
 
                             if (ceknamagroup.includes(namagroup10) == true||ceknamagroup1.includes(namagroup10) == true||ceknamagroup2.includes(namagroup10) == true||ceknamagroup3.includes(namagroup10) == true||ceknamagroup4.includes(namagroup10) == true) {
-                                /cek nama group dan tulis commntar/
+                                /*cek nama group dan tulis commntar*/
                                 document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment10;
                                 clicksend();
                                 clearInterval(myInterval);
@@ -298,7 +301,7 @@ var myInterval = setInterval(function(){
                             }
 
                             if (ceknamagroup.includes(namagroup11) == true||ceknamagroup1.includes(namagroup11) == true||ceknamagroup2.includes(namagroup11) == true||ceknamagroup3.includes(namagroup11) == true||ceknamagroup4.includes(namagroup11) == true) {
-                                /cek nama group dan tulis commntar/
+                                /*cek nama group dan tulis commntar*/
                                 document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment11;
                                 clicksend();
                                 clearInterval(myInterval);
@@ -308,7 +311,7 @@ var myInterval = setInterval(function(){
 
 
                             if (ceknamagroup.includes(namagroup12) == true||ceknamagroup1.includes(namagroup12) == true||ceknamagroup2.includes(namagroup12) == true||ceknamagroup3.includes(namagroup12) == true||ceknamagroup4.includes(namagroup12) == true) {
-                                /cek nama group dan tulis commntar/
+                                /*cek nama group dan tulis commntar*/
                                 document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment12;
                                 clicksend();
                                 clearInterval(myInterval);
@@ -317,7 +320,7 @@ var myInterval = setInterval(function(){
                             }
 
                             if (ceknamagroup.includes(namagroup13) == true||ceknamagroup1.includes(namagroup13) == true||ceknamagroup2.includes(namagroup13) == true||ceknamagroup3.includes(namagroup13) == true||ceknamagroup4.includes(namagroup13) == true) {
-                                /cek nama group dan tulis commntar/
+                                /*cek nama group dan tulis commntar*/
                                 document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment13;
                                 clicksend();
                                 clearInterval(myInterval);
@@ -326,7 +329,7 @@ var myInterval = setInterval(function(){
                             }
 
                             if (ceknamagroup.includes(namagroup14) == true||ceknamagroup1.includes(namagroup14) == true||ceknamagroup2.includes(namagroup14) == true||ceknamagroup3.includes(namagroup14) == true||ceknamagroup4.includes(namagroup14) == true) {
-                                /cek nama group dan tulis commntar/
+                                /*cek nama group dan tulis commntar*/
                                 document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment14;
                                 clicksend();
                                 clearInterval(myInterval);
@@ -335,7 +338,7 @@ var myInterval = setInterval(function(){
                             }
 
                             if (ceknamagroup.includes(namagroup15) == true||ceknamagroup1.includes(namagroup15) == true||ceknamagroup2.includes(namagroup15) == true||ceknamagroup3.includes(namagroup15) == true||ceknamagroup4.includes(namagroup15) == true) {
-                                /cek nama group dan tulis commntar/
+                                /*cek nama group dan tulis commntar*/
                                 document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment15;
                                 clicksend();
                                 clearInterval(myInterval);
@@ -344,7 +347,7 @@ var myInterval = setInterval(function(){
                             }
 
                             if (ceknamagroup.includes(namagroup16) == true||ceknamagroup1.includes(namagroup16) == true||ceknamagroup2.includes(namagroup16) == true||ceknamagroup3.includes(namagroup16) == true||ceknamagroup4.includes(namagroup16) == true) {
-                                /cek nama group dan tulis commntar/
+                                /*cek nama group dan tulis commntar*/
                                 document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment16;
                                 clicksend();
                                 clearInterval(myInterval);
@@ -373,18 +376,24 @@ var myInterval = setInterval(function(){
 
 
 function clicksend() {
-    /Tampilkan TOMBOL SEND/
+    /*Tampilkan TOMBOL SEND*/
     if(document.getElementsByClassName("textbox-submit-button")[0]){
         document.getElementsByClassName("textbox-submit-button")[0].style.display=""
 
-        //Tekan TOMBOL SEND//
+        /*Tekan TOMBOL SEND*/
         var clicksendcoment = document.getElementsByClassName("textbox-submit-button")[0];
         clicksendcoment.disabled = false;
         var clickEvent = document.createEvent ('MouseEvents');
         clickEvent.initEvent ("mousedown", true, true);
         clicksendcoment.dispatchEvent (clickEvent);
         console.log("Comment Terkirim");
-        location.href = "about:blank"
-        //Tekan TOMBOL SEND//
+        closer()
+        /*Tekan TOMBOL SEND*/
     }
+}
+
+function closer() {
+    setTimeout(function(){location.href = "about:blank"},500)
+    
+    
 }
