@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 3
 // @namespace    http://tampermonkey.net/
-// @version      3.37
+// @version      3.38
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi3.js
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi3.js
@@ -21,7 +21,7 @@ var refresh = 50;
 
 /*======================================================================3copy tampermonkey==========================================================*/
 
-vvar namagroup1 = 'RITOGEL';
+var namagroup1 = 'RITOGEL';
 var Comment1 = '#RITOGEL(BEPEKK3)08*41*88';
 
 var namagroup2 = 'K86';
