@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 1
 // @namespace    http://tampermonkey.net/
-// @version      3.33
+// @version      3.34
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi1.js
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi1.js
@@ -377,7 +377,7 @@ function clicksend() {
     if(document.getElementsByClassName("textbox-submit-button")[0]){
         document.getElementsByClassName("textbox-submit-button")[0].style.display=""
 
-        /Tekan TOMBOL SEND/
+        Tekan TOMBOL SEND
         var clicksendcoment = document.getElementsByClassName("textbox-submit-button")[0];
         clicksendcoment.disabled = false;
         var clickEvent = document.createEvent ('MouseEvents');
