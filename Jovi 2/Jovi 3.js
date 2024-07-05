@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 3
 // @namespace    http://tampermonkey.net/
-// @version      3.15
+// @version      3.16
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%202/Jovi%203.js
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%202/Jovi%203.js
@@ -71,7 +71,30 @@ var Comment16 = 'CITA4D*JFEKK8*52*64*72';
 
 /*======================================================================3copy tampermonkey==========================================================*/
 
-var admin = ["farah","slooter","kayla","erika","brian","aldi","febrian","jihan","jesika","rano","sabrina","artha","naura","katty","intan","neng","kendri","adelia","larissa","mesa","yasmine","oun","aurel","fiana","tiara","sabrina","hana","tania","leksa","brian","nadila","elly","farid","zurro","gretha","wndt","lehman","wiena","manu","lidya","otong","jhone","herfizah","vonny","jess","ayesha","jovanka","dollar","dewa","andy","erwin","wahid","ujen","sejitu","wahzo","kiky","calvin","megaways","fahresa","viona","mardia","sintia","robby","nathaya","boboho","celine","maes","tag","bella","dea","alde","puput","mad","hefi","dika","miranda","adm","celsia","leon","kotna","yoky","audi","lianda","salsabila","yohana","wok","bastian","hoihai","tink","sinta","kembar","laura","ayesha","sloter","nella","novi","sandiego","intan","ratu","priyan","san","ria","sanjaya","siska","jenifer","aditia","andri","safar","mahendra","multi","mariana","neman","minion","dewi","primus","roy","dewi","melati","kumbara","dinda","ananda","cinta","lina","icha","bobby","sanchez","oscar","rendy","cantika","claudia","putri"];
+var admin = ["aldi","artha","adelia","ananda","aditia","andri","ayesha","aurel","alde","adm","audi","andy","ayesha",
+             "brian","boboho","bobby","bonar","bella","bastian",
+             "cinta","calvin","celsia","celine",
+             "denis","dollar","dewa","dewi","dinda","dika","dea",
+             "echa","erika","elly","erwin",
+             "farah","febrian","fiana","farid","fahresa",
+             "gretha",
+             "herfizah","hana","hoihai","hefi","hartono",
+             "inisial","intan","icha","irfan",
+             "jhone","jess","jovanka","jenifer","jihan","jesika",
+             "kumbara","kemon","kayla","katty","kendri","kembar","kotna","kiky",
+             "lehman","lianda","laura","leon","lidya","larissa","leksa","lina",
+             "manu","mesa","mardia","maes","mad","miranda","melati","minion","mariana","mahendra","multi","megaways",
+             "nadila","neng","naura","nathaya","nella","neman","novi","naumi",
+             "oun","oscar","otong",
+             "puput","primus","priyan",
+             "ratu","roy","rendy","ria","ruto","riko","rano","robby",
+             "sanchez","siska","safar","sanjaya","san","sandiego","sloter","sinta","slooter","sabrina","salsabila","sintia","sejitu","sakura","syaqeena",
+             "tink","thonex","tiara","tania","tag",
+             "ujen",
+             "vonny","viona",
+             "wahid","wahzo","wok","wndt","wiena",
+             "yoky","yasmine","yohana",
+             "zurro"]
 
 var keyword1 = "ROOM"
 var keyword2 = "𝗥𝗢𝗢𝗠"
