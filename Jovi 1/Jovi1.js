@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 1
 // @namespace    http://tampermonkey.net/
-// @version      3.41
+// @version      3.42
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi1.js
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi1.js
@@ -60,8 +60,8 @@ var Comment12 = 'CD219KB : 03*19*63 #BESTOTO88';
 var namagroup13 = 'GOHT0G3L';
 var Comment13 = 'GOHTOGEL=CL824B1=29*66*83';
 
-var namagroup14 = 'MAYAPADA';
-var Comment14 = 'BETT*SingasariTOTO(BO)*CHDZ62V81 *01*30*85';
+var namagroup14 = 'BLITAR';
+var Comment14 = '#BLITAR4D ( CYCROT88 ) : 01*30*85';
 
 var namagroup15 = 'XX1';
 var Comment15 = '#XX1TOTO (CV5Z9GH)  02*15*68 BETTING'; 
