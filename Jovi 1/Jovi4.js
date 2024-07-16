@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 4
 // @namespace    http://tampermonkey.net/
-// @version      3.44
+// @version      3.45
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi4.js
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi4.js
@@ -109,7 +109,7 @@ var id17 = await GM.getValue(17);
 var refresh = 40;
 
 var admin = ["aldi","artha","adelia","ananda","aditia","andri","ayesha","aurel","alde","adm","audi","andy","ayesha",
-             "brian","boboho","bobby","bonar","bella","bastian",
+             "brian","boboho","bobby","bonar","bella","bastian","bungaps",
              "cinta","calvin","celsia","celine",
              "denis","dollar","dewa","dewi","dinda","dika","dea",
              "echa","erika","elly","erwin",
@@ -117,21 +117,22 @@ var admin = ["aldi","artha","adelia","ananda","aditia","andri","ayesha","aurel",
              "gretha",
              "herfizah","hana","hoihai","hefi","hartono",
              "inisial","intan","icha","irfan",
-             "jhone","jess","jovanka","jenifer","jihan","jesika",
-             "kumbara","kemon","kayla","katty","kendri","kembar","kotna","kiky",
+             "jhone","jess","jovanka","jenifer","jihan","jesika","jovanka",
+             "kumbara","kemon","kayla","katty","kendri","katharina","kembar","kotna","kiky",
              "lehman","lianda","laura","leon","lidya","larissa","leksa","lina",
              "manu","mesa","mardia","maes","mad","miranda","melati","minion","mariana","mahendra","multi","megaways",
              "nadila","neng","naura","nathaya","nella","neman","novi","naumi",
              "oun","oscar","otong",
              "puput","primus","priyan",
              "ratu","roy","rendy","ria","ruto","riko","rano","robby",
-             "sanchez","siska","safar","sanjaya","san","sandiego","sloter","sinta","slooter","sabrina","salsabila","sintia","sejitu","sakura","syaqeena",
+             "sanchez","siska","safar","sanjaya","san","sandiego","sloter","sinta","slooter","sabrina","salsabila","sintia","sejitu","sakura","syaqeena","sutanti",
              "tink","thonex","tiara","tania","tag",
              "ujen",
              "vonny","viona",
              "wahid","wahzo","wok","wndt","wiena",
              "yoky","yasmine","yohana",
-             "zurro"]
+             "zurro","zurrotul"]
+
 
 var keyword1 = "ROOM"
 var keyword2 = "𝗥𝗢𝗢𝗠"
