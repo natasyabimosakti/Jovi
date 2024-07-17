@@ -20,8 +20,8 @@
 
 /*======================================================================3copy tampermonkey==========================================================*/
 
-var namagroup1 = 'RITOGEL';
-var Comment1 = '#RITOGEL(DEBLIU4)38*53*87';
+var namagroup1 = 'YAO';
+var Comment1 = '#YAOTOGEL DEBLIU4 38*53*87';
 
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( DGMSBR66 ) : 06*11*94'; 
