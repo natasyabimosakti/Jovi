@@ -19,8 +19,8 @@
 
 /*======================================================================3copy tampermonkey==========================================================*/
 
-var namagroup1 = 'RITOGEL';
-var Comment1 = '#RITOGEL(VAKMEN9)28*31*62';
+var namagroup1 = 'YAO';
+var Comment1 = '#YAOTOGEL VAKMEN9 28*31*62';
 
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( VUVUK3 ) : 03*24*99';
@@ -106,7 +106,7 @@ var id17 = await GM.getValue(17);
 
 var refresh = 40;
 
-var admin = ["aldi","artha","adelia","ananda","aditia","andri","ayesha","aurel","alde","adm","audi","andy","ayesha",
+var admin = ' ',["aldi","artha","adelia","ananda","aditia","andri","ayesha","aurel","alde","adm","audi","andy","ayesha",
              "brian","boboho","bobby","bonar","bella","bastian","bungaps",
              "cinta","calvin","celsia","celine",
              "denis","dollar","dewa","dewi","dinda","dika","dea",
