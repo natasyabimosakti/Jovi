@@ -20,7 +20,7 @@
 /*======================================================================3copy tampermonkey==========================================================*/
 
 var namagroup1 = 'RITOGEL';
-var Comment1 = '#RITOGEL(CLERT88)05*34*40'; 
+var Comment1 = '#YAOTOGEL CLERT88 05*34*40';
 
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( CYLENK99 ) : 03*19*63'; 
