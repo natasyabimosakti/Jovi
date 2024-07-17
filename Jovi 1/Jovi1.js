@@ -108,7 +108,7 @@ var id17 = await GM.getValue(17);
 
 var refresh = 40;
 
-var admin = ' ',["aldi","artha","adelia","ananda","aditia","andri","ayesha","aurel","alde","adm","audi","andy","ayesha",
+var admin = [" ","aldi","artha","adelia","ananda","aditia","andri","ayesha","aurel","alde","adm","audi","andy","ayesha",
              "brian","boboho","bobby","bonar","bella","bastian","bungaps",
              "cinta","calvin","celsia","celine",
              "denis","dollar","dewa","dewi","dinda","dika","dea",
