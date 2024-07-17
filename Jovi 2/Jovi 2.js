@@ -20,7 +20,7 @@
 /*======================================================================3copy tampermonkey==========================================================*/
 
 var namagroup1 = 'YAO';
-var Comment1 = '#YAOTOGEL TROHJ4 14*44*59';
+var Comment1 = '#YAOTOGEL TROHJ5 14*44*59';
 
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( TUTUKI9 ) : 19*69*81';
