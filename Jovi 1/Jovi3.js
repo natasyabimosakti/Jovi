@@ -29,7 +29,7 @@ var Comment2 = 'K86TOTO ( BBQISI22 ) : 10*65*73';
 var namagroup3 = 'PUSAT LOMBA';
 var Comment3 = 'Shiotogel4d (BAJILAK66) 27*76*90';
 
-var namagroup4 = 'SEJ1TU';
+var namagroup4 = 'TEMPO';
 var Comment4 = '#SEJITU ( BLUREYY ) : 51*52*69';
 
 var namagroup5 = 'RNR';
