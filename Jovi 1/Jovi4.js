@@ -28,8 +28,8 @@ var Comment2 = 'K86TOTO ( AISHH98 ) : 09*48*89';
 var namagroup3 = 'PUSAT LOMBA';
 var Comment3 = 'Shiotogel4d (ADOHAY78) 04*18*21';
 
-var namagroup4 = 'SEJ1TU';
-var Comment4 = '#SEJITU ( ADOBP3 ) : 33*39*80'; 
+var namagroup4 = 'TEMPO';
+var Comment4 = 'ASCE45 : 33*39*80 #TEMPOTOTO'; 
 
 var namagroup5 = 'RNR';
 var Comment5 = '‌#RNR303(ASYEDEH4) : 28*75*96'; 
