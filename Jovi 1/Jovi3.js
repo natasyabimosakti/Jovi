@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 3
 // @namespace    http://tampermonkey.net/
-// @version      3.48
+// @version      3.49
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi3.js
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi3.js
@@ -109,7 +109,7 @@ var refresh = 70;
 
 var admin = ["Siâo","aldi","alenta","artha","adelia","ananda","aditia","andri","ayesha","aurel","alde","adm","audi","asmani","andy","ayesha",
              "brian","boboho","bobby","bonar","bella","bastian","bungaps",
-             "cinta","calvin","celsia","celine",
+             "cinta","calvin","celsia","celine","carole",
              "denis","dollar","dewa","dewi","dinda","dika","dea",
              "echa","erika","elly","erwin",
              "farah","febrian","fiana","farid","fahresa",
@@ -122,7 +122,7 @@ var admin = ["Siâo","aldi","alenta","artha","adelia","ananda","aditia","andri",
              "manu","mesa","mardia","mila","maes","mad","miranda","melati","minion","mariana","mahendra","multi","megaways",
              "nadila","neng","naura","nathaya","nick","nella","neman","novi",
              "oun","oscar","otong",
-             "puput","primus","pura","priyan",
+             "puput","primus","pura","priyan","paytonbrysen",
              "ratu","roy","rendy","ria","ruto","riko","rano","robby",
              "sanchez","selly","sutanti","siska","safar","sanjaya","san","sandiego","sloter","sinta","slooter","sabrina","salsabila","sintia","sejitu",
              "tink","thonex","tiara","tania","tag",
@@ -131,7 +131,6 @@ var admin = ["Siâo","aldi","alenta","artha","adelia","ananda","aditia","andri",
              "wahid","wahzo","wok","wndt","wiena",
              "yoky","yasmine","yao","yohana",
              "zurro"];
-
 
 
 var keyword1 = "ROOM"
