@@ -30,7 +30,7 @@ var namagroup3 = 'PUSAT LOMBA';
 var Comment3 = 'Shiotogel4d (BAJILAK66) 27*76*90';
 
 var namagroup4 = 'TEMPO';
-var Comment4 = '#SEJITU ( BLUREYY ) : 51*52*69';
+var Comment4 = 'BSTE18 : 51*52*69 #TEMPOTOTO';
 
 var namagroup5 = 'RNR';
 var Comment5 = '‌#RNR303(BUDJANG3) : 55*70*74';
