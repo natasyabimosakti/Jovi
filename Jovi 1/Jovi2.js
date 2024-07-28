@@ -29,8 +29,8 @@ var Comment2 = 'K86TOTO ( DGMSBR66 ) : 06*11*94';
 var namagroup3 = 'PUSAT LOMBA';
 var Comment3 = 'Shiotogel4d (DUMBASH8) 23*24*71';
 
-var namagroup4 = 'SEJ1TU';
-var Comment4 = '#SEJITU ( DRON78 ) : 20*49*64';
+var namagroup4 = 'TEMPO';
+var Comment4 = 'DDIKS88 : 20*49*64 #TEMPOTOTO'; 
 
 var namagroup5 = 'RNR';
 var Comment5 = '‌#RNR303(DJANCUK8) : 07*14*31';
