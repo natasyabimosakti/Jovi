@@ -103,15 +103,15 @@ var id17 = await GM.getValue(17);
 
 
 
-var refresh = 70;
+var refresh = 40;
 
 
 
-var admin = ["Siâo","aldi","alenta","artha","adelia","ananda","aditia","andri","ayesha","aurel","alde","adm","audi","asmani","andy","ayesha",
+var admin = ["Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia","andri","ayesha","aurel","alde","adm","audi","asmani","andy","ayesha",
              "brian","boboho","bobby","bonar","bella","bastian","bungaps",
-             "cinta","calvin","celsia","celine","carole",
+             "cinta","calvin","celsia","cila","cindy","chintya","carole","celine",
              "denis","dollar","dewa","dewi","dinda","dika","dea",
-             "echa","erika","elly","erwin",
+             "echa","erika","elly","eugene","erwin",
              "farah","febrian","fiana","farid","fahresa",
              "gretha",
              "herfizah","hana","hoihai","hefi","habib",
@@ -122,7 +122,7 @@ var admin = ["Siâo","aldi","alenta","artha","adelia","ananda","aditia","andri",
              "manu","mesa","mardia","mila","maes","mad","miranda","melati","minion","mariana","mahendra","multi","megaways",
              "nadila","neng","naura","nathaya","nick","nella","neman","novi",
              "oun","oscar","otong",
-             "puput","primus","pura","priyan","paytonbrysen",
+             "puput","primus","payton","pura","priyan",
              "ratu","roy","rendy","ria","ruto","riko","rano","robby",
              "sanchez","selly","sutanti","siska","safar","sanjaya","san","sandiego","sloter","sinta","slooter","sabrina","salsabila","sintia","sejitu",
              "tink","thonex","tiara","tania","tag",
@@ -131,7 +131,6 @@ var admin = ["Siâo","aldi","alenta","artha","adelia","ananda","aditia","andri",
              "wahid","wahzo","wok","wndt","wiena",
              "yoky","yasmine","yao","yohana",
              "zurro"];
-
 
 
 var keyword1 = "ROOM"
