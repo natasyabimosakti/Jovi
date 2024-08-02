@@ -37,8 +37,8 @@ var Comment5 = '‌#RNR303(CEYENGG6) : 13*35*92';
 var namagroup6 = 'DIVA4D';
 var Comment6 = '#DIVA4D (CEBOLL68) = 29*66*83';
 
-var namagroup7 = 'Hoho';
-var Comment7 = 'CH89JK : 54*60*97 #HOHOTOGEL';
+var namagroup7 = 'ORMAS';
+var Comment7 = 'ORMASTOTO(CENPO6) : 54*60*97'; 
 
 var namagroup8 = 'INFO';
 var Comment8 = 'Tok99Toto ( CUKILS2 ) : 02*15*68'; 
