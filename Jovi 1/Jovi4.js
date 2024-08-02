@@ -37,8 +37,8 @@ var Comment5 = '‌#RNR303(ASYEDEH4) : 28*75*96';
 var namagroup6 = 'DIVA4D';
 var Comment6 = '#DIVA4D (ANTKDJL66) = 50*67*86';
 
-var namagroup7 = 'Hoho';
-var Comment7 = 'AXU78A : 37*93*98 #HOHOTOGEL';
+var namagroup7 = 'ORMAS';
+var Comment7 = 'ORMASTOTO(AXI20) : 37*93*98';
 
 var namagroup8 = 'INFO';
 var Comment8 = 'Tok99Toto ( AYEREKZ8 ) : 16*59*95';
@@ -46,8 +46,8 @@ var Comment8 = 'Tok99Toto ( AYEREKZ8 ) : 16*59*95';
 var namagroup9 = 'OTU';
 var Comment9 = '#OTUSLOT*A8JKD329*28*75*96*BETTING'; 
 
-var namagroup10 = 'SLOTO';
-var Comment10 = '#SLOTOGEL (AI9O3K) : 25*57*78';
+var namagroup10 = 'LING';
+var Comment10 = 'LING77 (ANXIK4) 25*57*78';
 
 var namagroup11 = 'KEBAYA';
 var Comment11 = '(KEBAYA4D) = (ANKCNDA96) 37*93*98';
