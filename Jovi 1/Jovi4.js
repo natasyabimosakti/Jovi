@@ -47,7 +47,7 @@ var namagroup9 = 'OTU';
 var Comment9 = '#OTUSLOT*A8JKD329*28*75*96*BETTING'; 
 
 var namagroup10 = 'LING';
-var Comment10 = 'LING77 (ANXIK4) 25*57*78';
+var Comment10 = 'LING77 (BVNR45) 25*57*78';
 
 var namagroup11 = 'KEBAYA';
 var Comment11 = '(KEBAYA4D) = (ANKCNDA96) 37*93*98';
