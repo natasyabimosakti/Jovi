@@ -37,8 +37,8 @@ var Comment5 = '‌#RNR303(TROMOL1) : 06*75*87';
 var namagroup6 = 'DIVA4D';
 var Comment6 = '#DIVA4D (TRUKKS4) = 09*29*66';
 
-var namagroup7 = 'Hoho';
-var Comment7 = 'TOWAR0 : 02*40*54 #HOHOTOGEL';
+var namagroup7 = 'ORMAS';
+var Comment7 = 'ORMASTOTO(TODU3S) : 02*40*54';
 
 var namagroup8 = 'INFO';
 var Comment8 = 'Tok99Toto ( TCUKE2 ) : 13*16*42';
@@ -46,8 +46,8 @@ var Comment8 = 'Tok99Toto ( TCUKE2 ) : 13*16*42';
 var namagroup9 = 'OTU';
 var Comment9 = '#OTUSLOT*TWURC3*13*16*42*BETTING';
 
-var namagroup10 = 'SLOTO';
-var Comment10 = '#SLOTOGEL (THATA6) : 14*44*59';
+var namagroup10 = 'LING';
+var Comment10 = 'LING77 (TTEXW3) 14*44*59';
 
 var namagroup11 = 'KEBAYA';
 var Comment11 = '(KEBAYA4D) = (THIYOKK7) 02*40*54';
