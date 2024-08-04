@@ -100,7 +100,7 @@ var id17 = await GM.getValue(17);
 
 
 
-var refresh = 40;
+var refresh = 60;
 
 
 
