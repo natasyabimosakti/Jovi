@@ -24,13 +24,13 @@ var namagroup1 = 'YAO';
 var Comment1 = '#YAOTOGEL DEBLIU5 38*53*87';
 
 var namagroup2 = 'K86';
-var Comment2 = 'K86TOTO ( DGMSBR66 ) : 06*11*94'; 
+var Comment2 = 'K86TOTO ( DGMSBR66 ) : 06*11*94';
 
 var namagroup3 = 'PUSAT LOMBA';
 var Comment3 = 'Shiotogel4d (DUMBASH8) 23*24*71';
 
 var namagroup4 = 'TEMPO';
-var Comment4 = 'DDIKS88 : 20*49*64 #TEMPOTOTO'; 
+var Comment4 = 'DDIKS88 : 20*49*64 #TEMPOTOTO';
 
 var namagroup5 = 'RNR';
 var Comment5 = '‌#RNR303(DJANCUK8) : 07*14*31';
@@ -54,7 +54,7 @@ var namagroup11 = 'KEBAYA';
 var Comment11 = '(KEBAYA4D) = (DUMADU10) 17*81*84';
 
 var namagroup12 = 'BESTOTO';
-var Comment12 = 'DKL32B : 06*11*94 #BESTOTO88'; 
+var Comment12 = 'DKL32B : 06*11*94 #BESTOTO88';
 
 var namagroup13 = 'GOHT0G3L';
 var Comment13 = 'GOHTOGEL=DAS67GH=43*58*79';
