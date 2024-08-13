@@ -119,7 +119,7 @@ var admin = ["Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia
              "nadila","neng","naura","nathaya","nick","nella","neman","novi",
              "oun","oscar","otong",
              "puput","primus","payton","pura","priyan",
-             "ratu","roy","rendy","ria","ruto","riko","rano","robby","rano"
+             "ratu","roy","rendy","ria","ruto","riko","rano","robby","rano",
              "sanchez","selly","sutanti","siska","safar","sanjaya","san","sandiego","sloter","sinta","slooter","sabrina","salsabila","sintia","sejitu",
              "tink","thonex","tiara","tania","tag",
              "ujen",
