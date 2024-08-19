@@ -46,8 +46,8 @@ var Comment8 = 'Tok99Toto ( VODEX1 ) : 45*55*65';
 var namagroup9 = 'OTU';
 var Comment9 = '#OTUSLOT*VOHFX7*45*55*65*BETTING';
 
-var namagroup10 = 'SLOTOGEL';
-var Comment10 = '#SLOTOGEL (VORTEXX4) 28*31*62';
+var namagroup10 = 'LING';
+var Comment10 = 'LING77 (VNTM57) 28*31';
 
 var namagroup11 = 'KEBAYA';
 var Comment11 = '(KEBAYA4D) = (VGARLA5) 47*79*86'; 
