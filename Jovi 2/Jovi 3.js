@@ -46,8 +46,8 @@ var Comment8 = 'Tok99Toto ( JXUPING8 ) : 04*36*51';
 var namagroup9 = 'OTU';
 var Comment9 = '#OTUSLOT*JJWALI5*04*36*51*BETTING';
 
-var namagroup10 = 'SLOTOGEL';
-var Comment10 = '#SLOTOGEL (JADEMM3) 85*90*95';
+var namagroup10 = 'LING';
+var Comment10 = 'LING77 (JDJS4) 85*90';
 
 var namagroup11 = 'KEBAYA';
 var Comment11 = '(KEBAYA4D) = (JOKIAD8) 46*84*96';
