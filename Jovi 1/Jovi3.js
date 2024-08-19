@@ -47,8 +47,8 @@ var Comment8 = 'Tok99Toto ( BHYPOK7 ) : 46*47*62';
 var namagroup9 = 'OTU';
 var Comment9 = '#OTUSLOT*BJL89KA*55*70*74*BETTING';
 
-var namagroup10 = 'SLOTOGEL';
-var Comment10 = '#SLOTOGEL (BU45V6M) 08*41*88'; 
+var namagroup10 = 'LING';
+var Comment10 = 'LING77 (ANXIK4) 08*41'; 
 
 var namagroup11 = 'KEBAYA';
 var Comment11 = '(KEBAYA4D) = (BPKSTV54) 12*44*45';
