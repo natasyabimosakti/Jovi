@@ -47,10 +47,10 @@ var namagroup9 = 'OTU';
 var Comment9 = '#OTUSLOT*C698K3J*13*35*92*BETTING';
 
 var namagroup10 = 'LING';
-var Comment10 = '#SLOTOGEL (CL1BK36) : 05*34*40';
+var Comment10 = 'LING77 (CLOK12) : 05*34';
 
 var namagroup11 = 'KEBAYA';
-var Comment11 = '(KEBAYA4D) = (COMBROT78) 54*60*97';
+var Comment11 = '(KEBAYA4D) = (COMBROT78) 54*60*97'; 
 
 var namagroup12 = 'BESTOTO';
 var Comment12 = 'CD219KB : 03*19*63 #BESTOTO88'; 
