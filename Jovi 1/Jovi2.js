@@ -47,8 +47,8 @@ var Comment8 = 'Tok99Toto ( DDUKOL5 ) : 26*61*72';
 var namagroup9 = 'OTU';
 var Comment9 = '#OTUSLOT*DF892K*07*14*31*BETTING';
 
-var namagroup10 = 'SLOTOGEL';
-var Comment10 = '#SLOTOGEL (DVDCL33) : 38*53*87';
+var namagroup10 = 'LING';
+var Comment10 = 'LING77 (DVDCL33) : 38*53';
 
 var namagroup11 = 'KEBAYA';
 var Comment11 = '(KEBAYA4D) = (DUMADU10) 17*81*84';
