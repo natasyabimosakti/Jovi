@@ -46,8 +46,8 @@ var Comment8 = 'Tok99Toto ( MHGUA2 ) : 10*21*27';
 var namagroup9 = 'OTU';
 var Comment9 = '#OTUSLOT*MUNROH6*10*21*27*BETTING';
 
-var namagroup10 = 'SLOTOGEL';
-var Comment10 = '#SLOTOGEL (MULIT4) 43*53*60'; 
+var namagroup10 = 'LING';
+var Comment10 = 'LING77 (MEMX22) 43*53'; 
 
 var namagroup11 = 'KEBAYA';
 var Comment11 = '(KEBAYA4D) = (MAUSS1) 30*77*80';
