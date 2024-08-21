@@ -210,7 +210,7 @@ var myInterval = setInterval(function(){
             var commentbox = document.querySelectorAll('[data-tracking-duration-id')[ntv].getElementsByClassName('native-text')
 
             // Cek Jam
-            var ret = jamposting.textContent.replace(/  Admin   |  Moderator   /g, "");
+            var ret = jamposting.textContent.replace(/  Admin   |  Moderator   /g, "");
             if (ret.includes("Baru")||ret.slice(0,7).includes("1 menit")||ret.slice(0,7).includes("2 menit")||ret.slice(0,7).includes("3 menit")||ret.slice(0,7).includes("4 menit")||ret.slice(0,7).includes("4 menit")){
                 console.log("Jam Ditemukan " + ret)
                 if(postingan.textContent.toLowerCase().includes(keyword1.toLowerCase())
@@ -262,7 +262,7 @@ var myInterval = setInterval(function(){
 
                                 if (ceknamagroup.textContent.includes(namagroup1) ) {
                                     if (id1 == "" || id1 == undefined || id1 == null ||id1 == "0") {
-                                        /cek nama group dan tulis commntar/
+                                        /*cek nama group dan tulis commntar*/
                                         GM.setValue( 1,1);
                                         document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment1;
 
@@ -279,9 +279,9 @@ var myInterval = setInterval(function(){
 
                                 if (ceknamagroup.textContent.includes(namagroup2) ) {
                                     if (id2 == "" || id2 == undefined || id2 == null ||id2 == "0") {
-                                        /cek nama group dan tulis commntar/
+                                        /*cek nama group dan tulis commntar*/
                                         GM.setValue( 2,1);
-                                        /cek nama group dan tulis commntar/
+                                        /*cek nama group dan tulis commntar*/
                                         document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment2;
 
                                         clearInterval(myInterval);
@@ -296,9 +296,9 @@ var myInterval = setInterval(function(){
                                 }
                                 if (ceknamagroup.textContent.includes(namagroup3) ) {
                                     if (id3 == "" || id3 == undefined || id3 == null ||id3 == "0") {
-                                        /cek nama group dan tulis commntar/
+                                        /*cek nama group dan tulis commntar*/
                                         GM.setValue( 3,1);
-                                        /cek nama group dan tulis commntar/
+                                        /*cek nama group dan tulis commntar*/
                                         document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment3;
 
                                         clearInterval(myInterval);
@@ -313,9 +313,9 @@ var myInterval = setInterval(function(){
                                 }
 
                                 if (ceknamagroup.textContent.includes(namagroup4) ) {
-                                    /cek nama group dan tulis commntar/
+                                    /*cek nama group dan tulis commntar*/
                                     if (id4 == "" || id4 == undefined || id4 == null ||id4 == "0") {
-                                        /cek nama group dan tulis commntar/
+                                        /*cek nama group dan tulis commntar*/
                                         GM.setValue( 4,1);
                                         document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment4;
 
@@ -331,9 +331,9 @@ var myInterval = setInterval(function(){
                                 }
 
                                 if (ceknamagroup.textContent.includes(namagroup5) ) {
-                                    /cek nama group dan tulis commntar/
+                                    /*cek nama group dan tulis commntar*/
                                     if (id5 == "" || id5 == undefined || id5 == null ||id5 == "0") {
-                                        /cek nama group dan tulis commntar/
+                                        /*cek nama group dan tulis commntar*/
                                         GM.setValue( 5,1);
                                         document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment5;
 
@@ -349,9 +349,9 @@ var myInterval = setInterval(function(){
                                 }
 
                                 if (ceknamagroup.textContent.includes(namagroup6) ) {
-                                    /cek nama group dan tulis commntar/
+                                    /*cek nama group dan tulis commntar*/
                                     if (id6 == "" || id6 == undefined || id6 == null ||id6 == "0") {
-                                        /cek nama group dan tulis commntar/
+                                        /*cek nama group dan tulis commntar*/
                                         GM.setValue( 6,1);
                                         document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment6;
 
@@ -367,9 +367,9 @@ var myInterval = setInterval(function(){
                                 }
 
                                 if (ceknamagroup.textContent.includes(namagroup7) ) {
-                                    /cek nama group dan tulis commntar/
+                                    /*cek nama group dan tulis commntar*/
                                     if (id7 == "" || id7 == undefined || id7 == null ||id7 == "0") {
-                                        /cek nama group dan tulis commntar/
+                                        /*cek nama group dan tulis commntar*/
                                         GM.setValue( 7,1);
                                         document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment7;
 
@@ -385,9 +385,9 @@ var myInterval = setInterval(function(){
                                 }
 
                                 if (ceknamagroup.textContent.includes(namagroup8) ) {
-                                    /cek nama group dan tulis commntar/
+                                    /*cek nama group dan tulis commntar*/
                                     if (id8 == "" || id8 == undefined || id8 == null ||id8 == "0") {
-                                        /cek nama group dan tulis commntar/
+                                        /*cek nama group dan tulis commntar*/
                                         GM.setValue( 8,1);
                                         document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment8;
 
@@ -403,9 +403,9 @@ var myInterval = setInterval(function(){
                                 }
 
                                 if (ceknamagroup.textContent.includes(namagroup9) ) {
-                                    /cek nama group dan tulis commntar/
+                                    /*cek nama group dan tulis commntar*/
                                     if (id9 == "" || id9 == undefined || id9 == null ||id9 == "0") {
-                                        /cek nama group dan tulis commntar/
+                                        /*cek nama group dan tulis commntar*/
                                         GM.setValue( 9,1);
                                         document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment9;
 
@@ -421,9 +421,9 @@ var myInterval = setInterval(function(){
                                 }
 
                                 if (ceknamagroup.textContent.includes(namagroup10) ) {
-                                    /cek nama group dan tulis commntar/
+                                    /*cek nama group dan tulis commntar*/
                                     if (id10 == "" || id10 == undefined || id10 == null ||id10 == "0") {
-                                        /cek nama group dan tulis commntar/
+                                        /*cek nama group dan tulis commntar*/
                                         GM.setValue( 10,1);
                                         document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment10;
 
@@ -439,9 +439,9 @@ var myInterval = setInterval(function(){
                                 }
 
                                 if (ceknamagroup.textContent.includes(namagroup11) ) {
-                                    /cek nama group dan tulis commntar/
+                                    /*cek nama group dan tulis commntar*/
                                     if (id11 == "" || id11 == undefined || id11 == null ||id11 == "0") {
-                                        /cek nama group dan tulis commntar/
+                                        /*cek nama group dan tulis commntar*/
                                         GM.setValue( 11,1);
                                         document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment11;
 
@@ -458,9 +458,9 @@ var myInterval = setInterval(function(){
 
 
                                 if (ceknamagroup.textContent.includes(namagroup12) ) {
-                                    /cek nama group dan tulis commntar/
+                                    /*cek nama group dan tulis commntar*/
                                     if (id12 == "" || id12 == undefined || id12 == null ||id12 == "0") {
-                                        /cek nama group dan tulis commntar/
+                                        /*cek nama group dan tulis commntar*/
                                         GM.setValue( 12,1);
                                         document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment12;
 
@@ -476,9 +476,9 @@ var myInterval = setInterval(function(){
                                 }
 
                                 if (ceknamagroup.textContent.includes(namagroup13) ) {
-                                    /cek nama group dan tulis commntar/
+                                    /*cek nama group dan tulis commntar*/
                                     if (id13 == "" || id13 == undefined || id13 == null ||id13 == "0") {
-                                        /cek nama group dan tulis commntar/
+                                        /*cek nama group dan tulis commntar*/
                                         GM.setValue( 13,1);
                                         document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment13;
 
@@ -494,9 +494,9 @@ var myInterval = setInterval(function(){
                                 }
 
                                 if (ceknamagroup.textContent.includes(namagroup14) ) {
-                                    /cek nama group dan tulis commntar/
+                                    /*cek nama group dan tulis commntar*/
                                     if (id14 == "" || id14 == undefined || id14 == null ||id14 == "0") {
-                                        /cek nama group dan tulis commntar/
+                                        /*cek nama group dan tulis commntar*/
                                         GM.setValue( 14,1);
                                         document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment14;
 
@@ -512,9 +512,9 @@ var myInterval = setInterval(function(){
                                 }
 
                                 if (ceknamagroup.textContent.includes(namagroup15) ) {
-                                    /cek nama group dan tulis commntar/
+                                    /*cek nama group dan tulis commntar*/
                                     if (id15 == "" || id15 == undefined || id15 == null ||id15 == "0") {
-                                        /cek nama group dan tulis commntar/
+                                        /*cek nama group dan tulis commntar*/
                                         GM.setValue( 15,1);
                                         document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment15;
 
@@ -530,9 +530,9 @@ var myInterval = setInterval(function(){
                                 }
 
                                 if (ceknamagroup.textContent.includes(namagroup16) ) {
-                                    /cek nama group dan tulis commntar/
+                                    /*cek nama group dan tulis commntar*/
                                     if (id16 == "" || id16 == undefined || id16 == null ||id16 == "0") {
-                                        /cek nama group dan tulis commntar/
+                                        /*cek nama group dan tulis commntar*/
                                         GM.setValue( 16,1);
                                         document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment16;
 
@@ -548,9 +548,9 @@ var myInterval = setInterval(function(){
                                 }
 
                                 if (ceknamagroup.textContent.includes(namagroup17) ) {
-                                    /cek nama group dan tulis commntar/
+                                    /*cek nama group dan tulis commntar*/
                                     if (id17 == "" || id17 == undefined || id17 == null ||id17 == "0") {
-                                        /cek nama group dan tulis commntar/
+                                        /*cek nama group dan tulis commntar*/
                                         GM.setValue( 17,1);
                                         document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment17;
 
@@ -566,9 +566,9 @@ var myInterval = setInterval(function(){
                                 }
 
                                 if (ceknamagroup.textContent.includes(namagroup18) ) {
-                                    /cek nama group dan tulis commntar/
+                                    /*cek nama group dan tulis commntar*/
                                     if (id18 == "" || id18 == undefined || id18 == null ||id18 == "0") {
-                                        /cek nama group dan tulis commntar/
+                                        /*cek nama group dan tulis commntar*/
                                         GM.setValue( 18,1);
                                         document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment18;
 
@@ -604,11 +604,11 @@ var myInterval = setInterval(function(){
 
 
 function clicksend() {
-    /Tampilkan TOMBOL SEND/
+    /*Tampilkan TOMBOL SEND*/
     if(document.getElementsByClassName("textbox-submit-button")[0]){
         document.getElementsByClassName("textbox-submit-button")[0].style.display=""
 
-        /Tekan TOMBOL SEND/
+        /*Tekan TOMBOL SEND*/
         var clicksendcoment = document.getElementsByClassName("textbox-submit-button")[0];
         clicksendcoment.disabled = false;
         var clickEvent = document.createEvent ('MouseEvents');
@@ -616,7 +616,7 @@ function clicksend() {
         clicksendcoment.dispatchEvent (clickEvent);
         console.log("Comment Terkirim");
         closer()
-        /Tekan TOMBOL SEND/
+        /*Tekan TOMBOL SEND*/
     }
 }
 
