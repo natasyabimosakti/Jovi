@@ -63,7 +63,7 @@ var namagroup14 = 'BLITAR';
 var Comment14 = '#BLITAR4D ( BHU66AF ) : 27*76*90';
 
 var namagroup15 = 'MAIN';
-var Comment15 = '#(MAINTOGEL365) (BG345DKL) : 46*47*62'; 
+var Comment15 = '#(MAINTOGEL365) (BFGVE5) : 46*47*62'; 
 
 var namagroup16 = 'KECERDASAN';
 var Comment16 = 'CITA4D*BABAJIK*51*69*52';
