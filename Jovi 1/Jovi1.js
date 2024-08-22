@@ -62,7 +62,7 @@ var namagroup14 = 'BLITAR';
 var Comment14 = '#BLITAR4D ( CEB689B ) : 01*30*85';
 
 var namagroup15 = 'MAIN';
-var Comment15 = '#(MAINTOGEL365) (CEVOL2) : 02*15*68 BETTING'; 
+var Comment15 = '#(MAINTOGEL365) (CEVOL2) : 02*15*68'; 
 
 var namagroup16 = 'KECERDASAN';
 var Comment16 = 'CITA4D*CYUCUKBERUK*32*42*91';
