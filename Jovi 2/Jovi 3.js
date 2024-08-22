@@ -61,8 +61,8 @@ var Comment13 = 'GOHTOGEL=JBULL8=20*25*32';
 var namagroup14 = 'BLITAR';
 var Comment14 = '#BLITAR4D ( JODI64 ) : 07*34*97'; 
 
-var namagroup15 = 'XX1';
-var Comment15 = '#XX1TOTO (JSIUH0)  15*33*71 BETTING';
+var namagroup15 = 'MAIN';
+var Comment15 = '#(MAINTOGEL365) (JIUOH9) : 15*33*71';
 
 var namagroup16 = 'KECERDASAN';
 var Comment16 = 'CITA4D*JFEKK8*52*64*72';
