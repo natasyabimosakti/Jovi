@@ -62,7 +62,7 @@ var namagroup14 = 'BLITAR';
 var Comment14 = '#BLITAR4D ( MIRA95 ) : 17*23*49';
 
 var namagroup15 = 'MAIN';
-var Comment15 = '#(MAINTOGEL365) (MJUKI3)  05*83*92';
+var Comment15 = '#(MAINTOGEL365) (MJUKI3) : 05*83*92';
 
 var namagroup16 = 'KECERDASAN';
 var Comment16 = 'CITA4D*MLARATS7*01*39*67';
