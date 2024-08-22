@@ -61,8 +61,8 @@ var Comment13 = 'GOHTOGEL=AKM401=50*67*86';
 var namagroup14 = 'BLITAR';
 var Comment14 = '#BLITAR4D ( A7BKZX ) : 04*18*21';
 
-var namagroup15 = 'XX1';
-var Comment15 = '#XX1TOTO (AKB8P)  16*59*95 BETTING';
+var namagroup15 = 'MAIN';
+var Comment15 = '#(MAINTOGEL365) (NBRA3)  16*59*95';
 
 var namagroup16 = 'KECERDASAN';
 var Comment16 = 'CITA4D*ANNUALREP*33*39*80';
