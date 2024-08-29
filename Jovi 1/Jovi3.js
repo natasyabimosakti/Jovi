@@ -20,8 +20,8 @@
 
 /*======================================================================3copy tampermonkey==========================================================*/
 
-var namagroup1 = 'YAO';
-var Comment1 = '#YAOTOGEL BEPEKK3 08*41*88';
+var namagroup1 = 'POMPA';
+var Comment1 = '#POMPA4D(BBRIT3) : 08*41*88';
 
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( BBQISI22 ) : 10*65*73';  
