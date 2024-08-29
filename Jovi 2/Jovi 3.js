@@ -19,8 +19,8 @@
 
 /*======================================================================3copy tampermonkey==========================================================*/
 
-var namagroup1 = 'YAO';
-var Comment1 = '#YAOTOGEL JSIUH1 85*90*95';
+var namagroup1 = 'POMPA';
+var Comment1 = '#POMPA4D(JJMIK1) : 85*90*95';
 
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( JEHOASYU7 ) : 38*50*57'; 
