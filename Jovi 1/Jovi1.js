@@ -20,7 +20,7 @@
 /*======================================================================3copy tampermonkey==========================================================*/
 
 var namagroup1 = 'POMPA';
-var Comment1 = '##POMPA4D(CYCPO7) : 05*34*40';
+var Comment1 = '#POMPA4D(CYCPO7) : 05*34*40';
 
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( CYLENK99 ) : 03*19*63'; 
