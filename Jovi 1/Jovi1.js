@@ -113,7 +113,7 @@ var admin = ["Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia
              "inisial","intan","icha","irfan","inves",
              "jhone","jess","jovanka","jenifer","jihan","jesika","je pe",
              "kumbara","kemon","katharina","kayla","katty","kendri","kembar","kotna","kiky","kapten",
-             "lehman","lianda","laura","leon","lidya","larissa","leksa","lina","lintangz","lehman",
+             "lehman","lianda","laura","leon","lidya","larissa","leksa","lina","lintangz","lehman","lidia",
              "manu","mesa","mardia","mila","maes","mad","miranda","melati","minion","mariana","mahendra","multi","megaways",
              "nadila","neng","naura","nathaya","nick","nella","neman","novi",
              "oun","oscar","otong",
