@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 2
 // @namespace    http://tampermonkey.net/
-// @version      3.62
+// @version      3.63
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi2.js
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi2.js
@@ -21,7 +21,7 @@
 /*======================================================================3copy tampermonkey==========================================================*/
 
 var namagroup1 = 'POMPA';
-var Comment1 = '#POMPA4D(DBMCH5) : 38*53*87';
+var Comment1 = '#POMPA4D*DBMCH5*38*53*87*';
 
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( DGMSBR66 ) : 06*11*94';
@@ -105,7 +105,7 @@ var id18 = await GM.getValue(18);
 
 var admin = ["Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia","andri","ayesha","aurel","alde","adm","audi","asmani","andy","ayesha","anggraini","arifin","arga",
              "brian","boboho","bobby","bonar","bella","bastian","bungaps",
-             "cinta","calvin","celsia","cila","cindy","chintya","carole","celine","chomsiati",
+             "cinta","calvin","celsia","cila","cindy","chintya","carole","celine","chomsiati","corene",
              "denis","dollar","dewa","dewi","dinda","dika","dea",
              "echa","erika","elly","eugene","erwin","eugene", 
              "farah","febrian","fiana","farid","fahresa",
