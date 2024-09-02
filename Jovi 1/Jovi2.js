@@ -4,7 +4,7 @@
 // @version      3.63
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi2.js?token=GHSAT0AAAAAACVCFJDIE3ACEDKEHZ5WBRSMZWV3MMQ
-// @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi1.js?token=GHSAT0AAAAAACVCFJDJ2MSABLMJWRJLMETGZWV3FFQ
+// @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi2.js?token=GHSAT0AAAAAACVCFJDIE3ACEDKEHZ5WBRSMZWV3MMQ
 // @author       You
 // @match        http*://*/*
 // @run-at       document-end
