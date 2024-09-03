@@ -20,7 +20,7 @@
 /*======================================================================3copy tampermonkey==========================================================*/
 
 var namagroup1 = 'POMPA';
-var Comment1 = '#POMPA4D*LATAO9*01*41*62';
+var Comment1 = '#POMPA4D*LATAO9*01*41*62*';
 
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( LINLY8 ) : 48*74*94';
@@ -104,7 +104,7 @@ var id18 = await GM.getValue(18);
 
 var admin = ["Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia","andri","ayesha","aurel","alde","adm","audi","asmani","andy","ayesha","anggraini","arifin","arga",
              "brian","boboho","bobby","bonar","bella","bastian","bungaps",
-             "cinta","calvin","celsia","cila","cindy","chintya","carole","celine","chomsiati",
+             "cinta","calvin","celsia","cila","cindy","chintya","carole","celine","chomsiati","corene","cheline",
              "denis","dollar","dewa","dewi","dinda","dika","dea",
              "echa","erika","elly","eugene","erwin","eugene", 
              "farah","febrian","fiana","farid","fahresa",
@@ -113,12 +113,12 @@ var admin = ["Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia
              "inisial","intan","icha","irfan","inves",
              "jhone","jess","jovanka","jenifer","jihan","jesika","je pe",
              "kumbara","kemon","katharina","kayla","katty","kendri","kembar","kotna","kiky","kapten",
-             "lehman","lianda","laura","leon","lidya","larissa","leksa","lina","lintangz","lehman",
+             "lehman","lianda","laura","leon","lidya","larissa","leksa","lina","lintangz","lehman","lidia",
              "manu","mesa","mardia","mila","maes","mad","miranda","melati","minion","mariana","mahendra","multi","megaways",
              "nadila","neng","naura","nathaya","nick","nella","neman","novi",
              "oun","oscar","otong",
              "puput","primus","payton","pura","priyan",
-             "ratu","roy","rendy","ria","ruto","riko","rano","robby","rano",
+             "ratu","roy","rendy","ria","ruto","riko","rano","robby","rano","ropiq",
              "sanchez","selly","sutanti","siska","safar","sanjaya","san","sandiego","sloter","sinta","slooter","sabrina","salsabila","sintia","sejitu","Syaqeena",
              "tink","thonex","tiara","tania","tag",
              "ujen",
