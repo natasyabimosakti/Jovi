@@ -44,7 +44,7 @@ var namagroup8 = 'INFO';
 var Comment8 = 'Tok99Toto ( MHGUA2 ) : 16*13*46';
 
 var namagroup9 = 'OTU';
-var Comment9 = '#OTUSLOT*MUNROH6*94*74*48*BETTING';
+var Comment9 = '#OTUSLOT*UOUXI2*94*74*48*BETTING';
 
 var namagroup10 = 'LING';
 var Comment10 = 'LING77 (MEMX22) 47*59'; 
