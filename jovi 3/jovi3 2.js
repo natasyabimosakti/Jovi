@@ -32,40 +32,40 @@ var namagroup4 = 'TEMPO';
 var Comment4 = 'UUDK9 : 47*59*31 #TEMPOTOTO';
 
 var namagroup5 = 'RNR';
-var Comment5 = '‌#RNR303(MUKBER2) : 65*20*80';
+var Comment5 = '‌#RNR303(UZQLX1) : 65*20*80';
 
 var namagroup6 = 'DIVA4D';
-var Comment6 = '#DIVA4D (MKKU1) = 82*56*55';
+var Comment6 = '#DIVA4D (UFGG9) = 82*56*55';
 
 var namagroup7 = 'ORMAS';
-var Comment7 = 'ORMASTOTO(MNB89) : 37*27*07';
+var Comment7 = 'ORMASTOTO(UBNAE3) : 37*27*07';
 
 var namagroup8 = 'INFO';
-var Comment8 = 'Tok99Toto ( MHGUA2 ) : 16*13*46';
+var Comment8 = 'Tok99Toto ( ULVK7 ) : 16*13*46';
 
 var namagroup9 = 'OTU';
 var Comment9 = '#OTUSLOT*UOUXI2*94*74*48*BETTING';
 
 var namagroup10 = 'LING';
-var Comment10 = 'LING77 (MEMX22) 47*59'; 
+var Comment10 = 'LING77 (UVXEI8) 47*59'; 
 
 var namagroup11 = 'KEBAYA';
-var Comment11 = '(KEBAYA4D) = (MAUSS1) 62*01*41s';
+var Comment11 = '(KEBAYA4D) = (UVOAL7) 62*01*41s';
 
 var namagroup12 = 'BESTOTO';
-var Comment12 = 'MOMMOK0 : 48*82*89 #BESTOTO88';
+var Comment12 = 'UIOPQ4 : 48*82*89 #BESTOTO88';
 
 var namagroup13 = 'GOHT0G3L';
-var Comment13 = 'GOHTOGEL=MADLEN5=12*18*78';
+  var Comment13 = 'GOHTOGEL=UYYAT2=12*18*78';
 
 var namagroup14 = 'BLITAR';
-var Comment14 = '#BLITAR4D ( MIRA95 ) : 17*23*49';
+var Comment14 = '#BLITAR4D ( UWZWA1 ) : 17*23*49';
 
 var namagroup15 = 'MAIN';
-var Comment15 = '#(MAINTOGEL365) (MJUKI3) : 05*83*92';
+var Comment15 = '#(MAINTOGEL365) (URWZI9) : 05*83*92';
 
 var namagroup16 = 'KECERDASAN';
-var Comment16 = 'CITA4D*MLARATS7*01*39*67';
+var Comment16 = 'CITA4D*UMBFH5*01*39*67';
 
 /*======================================================================3copy tampermonkey==========================================================*/
 
