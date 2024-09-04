@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 4
 // @namespace    http://tampermonkey.net/
-// @version      3.00
+// @version      3.01
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/jovi%203/jovi3%204.js?token=GHSAT0AAAAAACVCFJDJ4QLQ2XQQHOTYLUX2ZWTJYFQ
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/jovi%203/jovi3%204.js?token=GHSAT0AAAAAACVCFJDJ4QLQ2XQQHOTYLUX2ZWTJYFQ
@@ -20,52 +20,52 @@
 /*======================================================================3copy tampermonkey==========================================================*/
 
 var namagroup1 = 'POMPA';
-var Comment1 = '#POMPA4D*LATAO9*62*01*41*';
+var Comment1 = '#POMPA4D*TARON3*62*01*41*';
 
 var namagroup2 = 'K86';
-var Comment2 = 'K86TOTO ( MUKEL3 ) : 94*74*48';
+var Comment2 = 'K86TOTO ( TILOR1 ) : 94*74*48';
 
 var namagroup3 = 'PUSAT LOMBA';
-var Comment3 = 'Shiotogel4d (MMASU6) 52*36*51';
+var Comment3 = 'Shiotogel4d (TIBAX7) 52*36*51';
 
 var namagroup4 = 'TEMPO';
-var Comment4 = 'MMAKS37 : 47*59*31 #TEMPOTOTO';
+var Comment4 = 'TELOPL4 : 47*59*31 #TEMPOTOTO';
 
 var namagroup5 = 'RNR';
-var Comment5 = '‌#RNR303(MUKBER2) : 65*20*80';
+var Comment5 = '‌#RNR303(TAVIX6) : 65*20*80';
 
 var namagroup6 = 'DIVA4D';
-var Comment6 = '#DIVA4D (MKKU1) = 82*56*55';
+var Comment6 = '#DIVA4D (TOMEX2) = 82*56*55';
 
 var namagroup7 = 'ORMAS';
-var Comment7 = 'ORMASTOTO(MNB89) : 37*27*07';
+var Comment7 = 'ORMASTOTO(TURAN8) : 37*27*07';
 
 var namagroup8 = 'INFO';
-var Comment8 = 'Tok99Toto ( MHGUA2 ) : 16*13*46';
+var Comment8 = 'Tok99Toto ( TIRON5 ) : 16*13*46';
 
 var namagroup9 = 'OTU';
-var Comment9 = '#OTUSLOT*MUNROH6*94*74*48*BETTING';
+var Comment9 = '#OTUSLOT*TIMAX9*94*74*48*BETTING';
 
 var namagroup10 = 'LING';
-var Comment10 = 'LING77 (MEMX22) 47*59'; 
+var Comment10 = 'LING77 (TENOR7) 47*59'; 
 
 var namagroup11 = 'KEBAYA';
-var Comment11 = '(KEBAYA4D) = (MAUSS1) 62*01*41s';
+var Comment11 = '(KEBAYA4D) = (TUPAX4) 62*01*41s';
 
 var namagroup12 = 'BESTOTO';
-var Comment12 = 'MOMMOK0 : 48*82*89 #BESTOTO88';
+var Comment12 = 'TANUR7 : 48*82*89 #BESTOTO88';
 
 var namagroup13 = 'GOHT0G3L';
-var Comment13 = 'GOHTOGEL=MADLEN5=12*18*78';
+var Comment13 = 'GOHTOGEL=TIVAX2=12*18*78';
 
 var namagroup14 = 'BLITAR';
-var Comment14 = '#BLITAR4D ( MIRA95 ) : 17*23*49';
+var Comment14 = '#BLITAR4D ( TIGRO1 ) : 17*23*49';
 
 var namagroup15 = 'MAIN';
-var Comment15 = '#(MAINTOGEL365) (MJUKI3) : 05*83*92';
+var Comment15 = '#(MAINTOGEL365) (TOLAN6) : 05*83*92';
 
 var namagroup16 = 'KECERDASAN';
-var Comment16 = 'CITA4D*MLARATS7*01*39*67';
+var Comment16 = 'CITA4D*TOLAN6*01*39*67';
 
 /*======================================================================3copy tampermonkey==========================================================*/
 
