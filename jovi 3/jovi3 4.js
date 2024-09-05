@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 4
 // @namespace    http://tampermonkey.net/
-// @version      3.02
+// @version      3.03
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/jovi%203/jovi3%204.js?token=GHSAT0AAAAAACVCFJDJ4QLQ2XQQHOTYLUX2ZWTJYFQ
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/jovi%203/jovi3%204.js?token=GHSAT0AAAAAACVCFJDJ4QLQ2XQQHOTYLUX2ZWTJYFQ
@@ -20,19 +20,19 @@
 /*======================================================================3copy tampermonkey==========================================================*/
 
 var namagroup1 = 'POMPA';
-var Comment1 = '#POMPA4D*TARON3*62*01*41*';
+var Comment1 = '#POMPA4D*TARON3*26*61*90*';
 
 var namagroup2 = 'K86';
-var Comment2 = 'K86TOTO ( TILOR1 ) : 94*74*48';
+var Comment2 = 'K86TOTO ( TILOR1 ) : 12*18*54';
 
 var namagroup3 = 'PUSAT LOMBA';
-var Comment3 = 'Shiotogel4d (TIBAX7) 52*36*51';
+var Comment3 = 'Shiotogel4d (TIBAX7) 15*81*84';
 
 var namagroup4 = 'TEMPO';
-var Comment4 = 'TELOPL4 : 47*59*31 #TEMPOTOTO';
+var Comment4 = 'TELOPL4 : 34*73*85 #TEMPOTOTO';
 
 var namagroup5 = 'RNR';
-var Comment5 = '‌#RNR303(TAVIX6) : 65*20*80';
+var Comment5 = '‌#RNR303(TAVIX6) : 17*44*79';
 
 var namagroup6 = 'DIVA4D';
 var Comment6 = '#DIVA4D (TOMEX2) = 82*56*55';
