@@ -38,7 +38,7 @@ var namagroup6 = 'DIVA4D';
 var Comment6 = '#DIVA4D (SYMON2) = 04*30*93';
 
 var namagroup7 = 'ORMAS';
-var Comment7 = 'ORMASTOTO(SORAN8) : 67*76*78';
+var Comment7 = 'ORMASTOTO(SORANG8) : 67*76*78';
 
 var namagroup8 = 'INFO';
 var Comment8 = 'Tok99Toto ( SIVAX5 ) : 06*22*91';
