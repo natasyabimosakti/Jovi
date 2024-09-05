@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 4
 // @namespace    http://tampermonkey.net/
-// @version      3.37
+// @version      3.38
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%202/Jovi%204.js?token=GHSAT0AAAAAACVCFJDIFVS5MIB2A5A3CVF4ZWV3RFA
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%202/Jovi%204.js?token=GHSAT0AAAAAACVCFJDIFVS5MIB2A5A3CVF4ZWV3RFA
@@ -102,13 +102,13 @@ var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
 
 var admin = ["Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia","andri","ayesha","aurel","alde","adm","audi","asmani","andy","ayesha","anggraini","arifin","arga",
-             "brian","boboho","bobby","bonar","bella","bastian","bungaps",
+             "brian","boboho","bobby","bonar","bella","bastian","bungaps","budi",
              "cinta","calvin","celsia","cila","cindy","chintya","carole","celine","chomsiati","corene","cheline",
-             "denis","dollar","dewa","dewi","dinda","dika","dea",
-             "echa","erika","elly","eugene","erwin","eugene", 
+             "denis","dollar","dewa","dewi","dinda","dika","dea","debby",
+             "echa","erika","elly","eugene","erwin","elmira", 
              "farah","febrian","fiana","farid","fahresa",
              "gretha",
-             "herfizah","hana","hoihai","hefi","habib",
+             "herfizah","hana","hoihai","hefi","habib","harry",
              "inisial","intan","icha","irfan","inves",
              "jhone","jess","jovanka","jenifer","jihan","jesika","je pe",
              "kumbara","kemon","katharina","kayla","katty","kendri","kembar","kotna","kiky","kapten",
@@ -117,7 +117,7 @@ var admin = ["Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia
              "nadila","neng","naura","nathaya","nick","nella","neman","novi",
              "oun","oscar","otong",
              "puput","primus","payton","pura","priyan",
-             "ratu","roy","rendy","ria","ruto","riko","rano","robby","rano","ropiq",
+             "ratu","roy","rendy","ria","ruto","riko","rano","robby","rano","ropiq","robby",
              "sanchez","selly","sutanti","siska","safar","sanjaya","san","sandiego","sloter","sinta","slooter","sabrina","salsabila","sintia","sejitu","Syaqeena",
              "tink","thonex","tiara","tania","tag",
              "ujen",
