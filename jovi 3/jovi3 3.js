@@ -20,52 +20,52 @@
 /*======================================================================3copy tampermonkey==========================================================*/
 
 var namagroup1 = 'POMPA';
-var Comment1 = '#POMPA4D*SALOR3*62*01*41*';
+var Comment1 = '#POMPA4D*SALOR3*33*68*96*';
 
 var namagroup2 = 'K86';
-var Comment2 = 'K86TOTO ( SERAK1 ) : 94*74*48';
+var Comment2 = 'K86TOTO ( SERAK1 ) : 60*77*99';
 
 var namagroup3 = 'PUSAT LOMBA';
-var Comment3 = 'Shiotogel4d (SIKON7) 52*36*51';
+var Comment3 = 'Shiotogel4d (SIKON7) 32*75*95';
 
 var namagroup4 = 'TEMPO';
-var Comment4 = 'SELUR4 : 47*59*31 #TEMPOTOTO';
+var Comment4 = 'SELUR4 : 11*24*69 #TEMPOTOTO';
 
 var namagroup5 = 'RNR';
-var Comment5 = '‌#RNR303(SAPIX6) : 65*20*80';
+var Comment5 = '‌#RNR303(SAPIX6) : 00*83*92';
 
 var namagroup6 = 'DIVA4D';
-var Comment6 = '#DIVA4D (SYMON2) = 82*56*55';
+var Comment6 = '#DIVA4D (SYMON2) = 04*30*93';
 
 var namagroup7 = 'ORMAS';
-var Comment7 = 'ORMASTOTO(SORAN8) : 37*27*07';
+var Comment7 = 'ORMASTOTO(SORAN8) : 67*76*78';
 
 var namagroup8 = 'INFO';
-var Comment8 = 'Tok99Toto ( SIVAX5 ) : 16*13*46';
+var Comment8 = 'Tok99Toto ( SIVAX5 ) : 06*22*91';
 
 var namagroup9 = 'OTU';
-var Comment9 = '#OTUSLOT*SIMEX9*94*74*48*BETTING';
+var Comment9 = '#OTUSLOT*SIMEX9*60*77*99*BETTING';
 
 var namagroup10 = 'LING';
-var Comment10 = 'LING77 (SENAR0) 47*59'; 
+var Comment10 = 'LING77 (SENAR0) 11*24'; 
 
 var namagroup11 = 'KEBAYA';
-var Comment11 = '(KEBAYA4D) = (SURTI4) 62*01*41s';
+var Comment11 = '(KEBAYA4D) = (SURTI4) 33*68*96';
 
 var namagroup12 = 'BESTOTO';
-var Comment12 = 'SAVON7 : 48*82*89 #BESTOTO88';
+var Comment12 = 'SAVON7 : 06*22*91 #BESTOTO88';
 
 var namagroup13 = 'GOHT0G3L';
-var Comment13 = 'GOHTOGEL=SULOR2=12*18*78';
+var Comment13 = 'GOHTOGEL=SULOR2=04*30*93';
 
 var namagroup14 = 'BLITAR';
-var Comment14 = '#BLITAR4D ( SIGRA1 ) : 17*23*49';
+var Comment14 = '#BLITAR4D ( SIGRA1 ) : 67*76*78';
 
 var namagroup15 = 'MAIN';
-var Comment15 = '#(MAINTOGEL365) (SOBAX3) : 05*83*92';
+var Comment15 = '#(MAINTOGEL365) (SOBAX3) : 00*83*92';
 
 var namagroup16 = 'KECERDASAN';
-var Comment16 = 'CITA4D*SOTAR6*01*39*67';
+var Comment16 = 'CITA4D*SOTAR6*32*75*95';
 
 /*======================================================================3copy tampermonkey==========================================================*/
 
