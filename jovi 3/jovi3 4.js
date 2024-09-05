@@ -35,28 +35,28 @@ var namagroup5 = 'RNR';
 var Comment5 = '‌#RNR303(TAVIX6) : 17*44*79';
 
 var namagroup6 = 'DIVA4D';
-var Comment6 = '#DIVA4D (TOMEX2) = 82*56*55';
+var Comment6 = '#DIVA4D (TOMEX2) = 03*35*98';
 
 var namagroup7 = 'ORMAS';
-var Comment7 = 'ORMASTOTO(TURAN8) : 37*27*07';
+var Comment7 = 'ORMASTOTO(TURAN8) : 57*86*97';
 
 var namagroup8 = 'INFO';
-var Comment8 = 'Tok99Toto ( TIRON5 ) : 16*13*46';
+var Comment8 = 'Tok99Toto ( TIRON5 ) : 42*43*70';
 
 var namagroup9 = 'OTU';
-var Comment9 = '#OTUSLOT*TENOR7*94*74*48*BETTING';
+var Comment9 = '#OTUSLOT*TENOR7*12*18*54*BETTING';
 
 var namagroup10 = 'LING';
-var Comment10 = 'LING77 (TUPAX4) 47*59'; 
+var Comment10 = 'LING77 (TUPAX4) 34*73'; 
 
 var namagroup11 = 'KEBAYA';
-var Comment11 = '(KEBAYA4D) = (TANUR7) 62*01*41s';
+var Comment11 = '(KEBAYA4D) = (TANUR7) 26*61*90';
 
 var namagroup12 = 'BESTOTO';
-var Comment12 = 'TIMAX9 : 48*82*89 #BESTOTO88';
+var Comment12 = 'TIMAX9 : 42*43*70 #BESTOTO88';
 
 var namagroup13 = 'GOHT0G3L';
-var Comment13 = 'GOHTOGEL=TIVAX2=12*18*78';
+var Comment13 = 'GOHTOGEL=TIVAX2=03*35*98';
 
 var namagroup14 = 'BLITAR';
 var Comment14 = '#BLITAR4D ( TIGRO1 ) : 17*23*49';
