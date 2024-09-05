@@ -20,16 +20,16 @@
 /*======================================================================3copy tampermonkey==========================================================*/
 
 var namagroup1 = 'POMPA';
-var Comment1 = '#POMPA4D*ULGT3*62*01*41*';
+var Comment1 = '#POMPA4D*ULGT3*08*29*53*';
 
 var namagroup2 = 'K86';
-var Comment2 = 'K86TOTO ( ULET7 ) : 94*74*48';
+var Comment2 = 'K86TOTO ( ULET7 ) : 02*23*50';
 
 var namagroup3 = 'PUSAT LOMBA';
-var Comment3 = 'Shiotogel4d (UNTOU8) 52*36*51';
+var Comment3 = 'Shiotogel4d (UNTOU8) 10*19*39';
 
 var namagroup4 = 'TEMPO';
-var Comment4 = 'UUDK9 : 47*59*31 #TEMPOTOTO';
+var Comment4 = 'UUDK9 : 45*66*89 #TEMPOTOTO';
 
 var namagroup5 = 'RNR';
 var Comment5 = '‌#RNR303(UZQLX1) : 65*20*80';
