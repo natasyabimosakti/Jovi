@@ -56,16 +56,16 @@ var namagroup12 = 'BESTOTO';
 var Comment12 = 'UIOPQ4 : 09*49*72 #BESTOTO88';
 
 var namagroup13 = 'GOHT0G3L';
-  var Comment13 = 'GOHTOGEL=UYYAT2=12*18*78';
+  var Comment13 = 'GOHTOGEL=UYYAT2=05*21*58';
 
 var namagroup14 = 'BLITAR';
-var Comment14 = '#BLITAR4D ( UWZWA1 ) : 17*23*49';
+var Comment14 = '#BLITAR4D ( UWZWA1 ) : 40*63*88';
 
 var namagroup15 = 'MAIN';
-var Comment15 = '#(MAINTOGEL365) (URWZI9) : 05*83*92';
+var Comment15 = '#(MAINTOGEL365) (URWZI9) : 14*28*87';
 
 var namagroup16 = 'KECERDASAN';
-var Comment16 = 'CITA4D*UMBFH5*01*39*67';
+var Comment16 = 'CITA4D*UMBFH5*10*19*39';
 
 /*======================================================================3copy tampermonkey==========================================================*/
 
