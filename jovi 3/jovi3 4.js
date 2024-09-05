@@ -59,13 +59,13 @@ var namagroup13 = 'GOHT0G3L';
 var Comment13 = 'GOHTOGEL=TIVAX2=03*35*98';
 
 var namagroup14 = 'BLITAR';
-var Comment14 = '#BLITAR4D ( TIGRO1 ) : 17*23*49';
+var Comment14 = '#BLITAR4D ( TIGRO1 ) : 57*86*97';
 
 var namagroup15 = 'MAIN';
-var Comment15 = '#(MAINTOGEL365) (TOLAN6) : 05*83*92';
+var Comment15 = '#(MAINTOGEL365) (TOLAN6) : 17*44*79';
 
 var namagroup16 = 'KECERDASAN';
-var Comment16 = 'CITA4D*TULANG6*01*39*67';
+var Comment16 = 'CITA4D*TULANG6*15*81*84';
 
 /*======================================================================3copy tampermonkey==========================================================*/
 
