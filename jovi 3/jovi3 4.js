@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 4
 // @namespace    http://tampermonkey.net/
-// @version      3.01
+// @version      3.02
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/jovi%203/jovi3%204.js?token=GHSAT0AAAAAACVCFJDJ4QLQ2XQQHOTYLUX2ZWTJYFQ
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/jovi%203/jovi3%204.js?token=GHSAT0AAAAAACVCFJDJ4QLQ2XQQHOTYLUX2ZWTJYFQ
@@ -44,16 +44,16 @@ var namagroup8 = 'INFO';
 var Comment8 = 'Tok99Toto ( TIRON5 ) : 16*13*46';
 
 var namagroup9 = 'OTU';
-var Comment9 = '#OTUSLOT*TIMAX9*94*74*48*BETTING';
+var Comment9 = '#OTUSLOT*TENOR7*94*74*48*BETTING';
 
 var namagroup10 = 'LING';
-var Comment10 = 'LING77 (TENOR7) 47*59'; 
+var Comment10 = 'LING77 (TUPAX4) 47*59'; 
 
 var namagroup11 = 'KEBAYA';
-var Comment11 = '(KEBAYA4D) = (TUPAX4) 62*01*41s';
+var Comment11 = '(KEBAYA4D) = (TANUR7) 62*01*41s';
 
 var namagroup12 = 'BESTOTO';
-var Comment12 = 'TANUR7 : 48*82*89 #BESTOTO88';
+var Comment12 = 'TIMAX9 : 48*82*89 #BESTOTO88';
 
 var namagroup13 = 'GOHT0G3L';
 var Comment13 = 'GOHTOGEL=TIVAX2=12*18*78';
@@ -65,7 +65,7 @@ var namagroup15 = 'MAIN';
 var Comment15 = '#(MAINTOGEL365) (TOLAN6) : 05*83*92';
 
 var namagroup16 = 'KECERDASAN';
-var Comment16 = 'CITA4D*TOLAN6*01*39*67';
+var Comment16 = 'CITA4D*TULANG6*01*39*67';
 
 /*======================================================================3copy tampermonkey==========================================================*/
 
