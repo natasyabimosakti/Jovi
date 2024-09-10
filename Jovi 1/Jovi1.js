@@ -110,7 +110,7 @@ var admin = ["Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia
              "echa","erika","elly","eugene","erwin","elmira", 
              "farah","febrian","fiana","farid","fahresa","fatimm",
              "gretha",
-             "herfizah","hana","hoihai","hefi","habib","harry","Hokii",
+             "herfizah","hana","hoihai","hefi","habib","harry","hokii",
              "inisial","intan","icha","irfan","inves",
              "jhone","jess","jovanka","jenifer","jihan","jesika","je pe",
              "kumbara","kemon","katharina","kayla","katty","kendri","kembar","kotna","kiky","kapten",
