@@ -23,7 +23,7 @@ var namagroup1 = 'POMPA';
 var Comment1 = '#POMPA4D*LATO9*01*41*62*';
 
 var namagroup2 = 'K86';
-var Comment2 = 'K86TOTO ( LINLY8 ) : 48*74*94';
+var Comment2 = 'K86TOTO ( LNLY8 ) : 48*74*94';
 
 var namagroup3 = 'PUSAT LOMBA';
 var Comment3 = 'Shiotogel4d (LIKOP1) 36*51*52';
