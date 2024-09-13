@@ -56,8 +56,8 @@ var Comment11 = '(KEBAYA4D) = (COMBROT78) 54*60*97';
 var namagroup12 = 'BESTOTO';
 var Comment12 = 'CD219KB : 03*19*63 #BESTOTO88'; 
 
-var namagroup13 = 'GOHT0G3L';
-var Comment13 = 'GOHTOGEL=CL824B1=29*66*83';
+var namagroup13 = 'Wellz';
+var Comment13 = 'SIJITOGEL CKZLT1 29*66*83';
 
 var namagroup14 = 'BLITAR';
 var Comment14 = '#BLITAR4D ( CEB689B ) : 01*30*85';
