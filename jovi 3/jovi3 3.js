@@ -55,8 +55,8 @@ var Comment11 = '(KEBAYA4D) = (SURTI4) 33*68*96';
 var namagroup12 = 'BESTOTO';
 var Comment12 = 'SAVON7 : 06*22*91 #BESTOTO88';
 
-var namagroup13 = 'GOHT0G3L';
-var Comment13 = 'GOHTOGEL=SULOR2=04*30*93';
+var namagroup13 = 'Wellz';
+var Comment13 = 'SIJITOGEL SULOR2 04*30*93';
 
 var namagroup14 = 'BLITAR';
 var Comment14 = '#BLITAR4D ( SIGRA1 ) : 67*76*78';
