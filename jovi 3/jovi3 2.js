@@ -55,8 +55,8 @@ var Comment11 = '(KEBAYA4D) = (UVOAL7) 08*29*53';
 var namagroup12 = 'BESTOTO';
 var Comment12 = 'UIOPQ4 : 09*49*72 #BESTOTO88';
 
-var namagroup13 = 'GOHT0G3L';
-  var Comment13 = 'GOHTOGEL=UYYAT2=05*21*58';
+var namagroup13 = 'Wellz';
+  var Comment13 = 'SIJITOGEL UYYAT2 05*21*58';
 
 var namagroup14 = 'BLITAR';
 var Comment14 = '#BLITAR4D ( UWZWA1 ) : 40*63*88';
