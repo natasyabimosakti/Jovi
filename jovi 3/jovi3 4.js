@@ -55,8 +55,8 @@ var Comment11 = '(KEBAYA4D) = (TANUR7) 26*61*90';
 var namagroup12 = 'BESTOTO';
 var Comment12 = 'TIMAX9 : 42*43*70 #BESTOTO88';
 
-var namagroup13 = 'GOHT0G3L';
-var Comment13 = 'GOHTOGEL=TIVAX2=03*35*98';
+var namagroup13 = 'Wellz';
+var Comment13 = 'SIJITOGEL TIVAX2 03*35*98';
 
 var namagroup14 = 'BLITAR';
 var Comment14 = '#BLITAR4D ( TIGRO1 ) : 57*86*97';
