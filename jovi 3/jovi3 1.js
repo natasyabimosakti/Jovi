@@ -55,8 +55,8 @@ var Comment11 = '(KEBAYA4D) = (LBZTV2) 01*41*62';
 var namagroup12 = 'BESTOTO';
 var Comment12 = 'LJORT6 : 13*16*46 #BESTOTO88';
 
-var namagroup13 = 'GOHT0G3L';
-var Comment13 = 'GOHTOGEL=LPAK3=55*56*82';
+var namagroup13 = 'Wellz';
+var Comment13 = 'SIJITOGEL LPAK3 55*56*82';
 
 var namagroup14 = 'BLITAR';
 var Comment14 = '#BLITAR4D ( LUPWI10 ) : 07*27*37';
