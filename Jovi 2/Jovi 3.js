@@ -55,8 +55,8 @@ var Comment11 = '(KEBAYA4D) = (JOKIAD8) 46*84*96';
 var namagroup12 = 'BESTOTO';
 var Comment12 = 'JELONN9 : 38*50*57 #BESTOTO88'; 
 
-var namagroup13 = 'GOHT0G3L';
-var Comment13 = 'GOHTOGEL=JBULL8=20*25*32';
+var namagroup13 = 'Wellz';
+var Comment13 = 'SIJITOGEL JBULL8 20*25*32';
 
 var namagroup14 = 'BLITAR';
 var Comment14 = '#BLITAR4D ( JODI64 ) : 07*34*97'; 
