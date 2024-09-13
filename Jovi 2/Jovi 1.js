@@ -55,8 +55,8 @@ var Comment11 = '(KEBAYA4D) = (MAUSS1) 30*77*80';
 var namagroup12 = 'BESTOTO';
 var Comment12 = 'MOMMOK0 : 48*82*89 #BESTOTO88';
 
-var namagroup13 = 'GOHT0G3L';
-var Comment13 = 'GOHTOGEL=MADLEN5=12*18*78';
+var namagroup13 = 'Wellz';
+var Comment13 = 'SIJITOGEL MADLEN5 12*18*78';
 
 var namagroup14 = 'BLITAR';
 var Comment14 = '#BLITAR4D ( MIRA95 ) : 17*23*49';
