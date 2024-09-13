@@ -55,8 +55,8 @@ var Comment11 = '(KEBAYA4D) = (THIYOKK7) 02*40*54';
 var namagroup12 = 'BESTOTO';
 var Comment12 = 'TDEREK8 : 19*69*81 #BESTOTO88';
 
-var namagroup13 = 'GOHT0G3L';
-var Comment13 = 'GOHTOGEL=TUMBLERR5=09*29*66';
+var namagroup13 = 'Wellz';
+var Comment13 = 'SIJITOGEL TUMBLERR5 09*29*66';
 
 var namagroup14 = 'BLITAR';
 var Comment14 = '#BLITAR4D ( TUTU12 ) : 56*61*73';
