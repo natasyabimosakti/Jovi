@@ -21,7 +21,7 @@
 /*======================================================================3copy tampermonkey==========================================================*/
 
 var namagroup1 = 'Hoho';
-var Comment1 = 'CTULA5 : 05*34*40 #HOHOTOGEL';
+var Comment1 = 'CH89JK : 05*34*40 #HOHOTOGEL';
 
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( CYLENK99 ) : 03*19*63'; 
