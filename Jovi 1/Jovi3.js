@@ -104,7 +104,7 @@ var id18 = await GM.getValue(18);
 
 var admin = ["Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia","andri","aurel","alde","adm","audi","asmani","andy","ayesha","anggraini","arifin","arga","asnah",
              "brian","boboho","bobby","bonar","bella","bastian","bungaps","budi",
-             "cinta","calvin","celsia","cila","cindy","chintya","carole","celine","chomsiati","corene","cheline",
+             "cinta","calvin","celsia","cila","cindy","chintya","carole","celine","chomsiati","corene","cheline","chikaku",
              "denis","dollar","dewa","dewi","dinda","dika","dea","debby",
              "echa","erika","elly","eugene","erwin","elmira","eleano","erna",
              "farah","febrian","fiana","farid","fahresa","fatimm",
