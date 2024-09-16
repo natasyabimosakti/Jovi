@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 4
 // @namespace    http://tampermonkey.net/
-// @version      3.07
+// @version      3.08
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/jovi%203/jovi3%204.js?token=GHSAT0AAAAAACVCFJDJ4QLQ2XQQHOTYLUX2ZWTJYFQ
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/jovi%203/jovi3%204.js?token=GHSAT0AAAAAACVCFJDJ4QLQ2XQQHOTYLUX2ZWTJYFQ
@@ -19,8 +19,8 @@
 
 /*======================================================================3copy tampermonkey==========================================================*/
 
-var namagroup1 = 'POMPA';
-var Comment1 = '#POMPA4D*TARON3*26*61*90*';
+var namagroup1 = 'Hoho';
+var Comment1 = 'TJDAL4 : 26*61*90 #HOHOTOGEL';
 
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( TILOR1 ) : 12*18*54';
