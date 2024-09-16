@@ -20,8 +20,8 @@
 
 /*======================================================================3copy tampermonkey==========================================================*/
 
-var namagroup1 = 'POMPA';
-var Comment1 = '#POMPA4D*ANTMG2*25*57*78*';
+var namagroup1 = 'Hoho';
+var Comment1 = 'ACLKK9 : 25*57*78 #HOHOTOGEL';
 
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( AISHH98 ) : 09*48*89';
