@@ -53,8 +53,8 @@ var Comment10 = 'LING77 (DVDCL33) : 38*53';
 var namagroup11 = 'KEBAYA';
 var Comment11 = '(KEBAYA4D) = (DUMADU10) 17*81*84';
 
-var namagroup12 = 'BESTOTO';
-var Comment12 = 'DKL32B : 06*11*94 #BESTOTO88';
+var namagroup12 = 'NEMO4D';
+var Comment12 = 'NEMO4D (DKL32B) : 06*11*94';
 
 var namagroup13 = 'Wellz';
 var Comment13 = 'SIJITOGEL DJXUM2 43*58*79';
