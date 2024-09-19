@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 2
 // @namespace    http://tampermonkey.net/
-// @version      3.69
+// @version      3.70
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi2.js?token=GHSAT0AAAAAACVCFJDIE3ACEDKEHZ5WBRSMZWV3MMQ
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi2.js?token=GHSAT0AAAAAACVCFJDIE3ACEDKEHZ5WBRSMZWV3MMQ
@@ -103,7 +103,7 @@ var id16 = await GM.getValue(16);
 var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
 
-var admin = ["Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia","andri","aurel","alde","adm","audi","asmani","andy","ayesha","anggraini","arifin","arga","asnah",
+var admin = ["Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia","andri","aurel","alde","adm","audi","asmani","andy","ayesha","anggraini","arifin","arga","asnah","aldy",
              "brian","boboho","bobby","bonar","bella","bastian","bungaps","budi",
              "cinta","calvin","celsia","cila","cindy","chintya","carole","celine","chomsiati","corene","cheline","chikaku",
              "denis","dollar","dewa","dewi","dinda","dika","dea","debby",
@@ -126,7 +126,7 @@ var admin = ["Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia
              "vonny","viona","virna",
              "wahid","wahzo","wok","wndt","wiena",
              "yoky","yasmine","yao","yohana",
-             "zurro","zurrotul"];
+             "zurro","zurrotul","zion"];
 
 
 
