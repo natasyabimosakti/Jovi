@@ -52,8 +52,8 @@ var Comment10 = 'LING77 (JDJS4) 85*90';
 var namagroup11 = 'KEBAYA';
 var Comment11 = '(KEBAYA4D) = (JOKIAD8) 46*84*96';
 
-var namagroup12 = 'BESTOTO';
-var Comment12 = 'JELONN9 : 38*50*57 #BESTOTO88'; 
+var namagroup12 = 'NEMO4D';
+var Comment12 = 'NEMO4D (JELONN9) : 38*50*57';
 
 var namagroup13 = 'Wellz';
 var Comment13 = 'SIJITOGEL JMQZE3 20*25*32';
