@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 1
 // @namespace    http://tampermonkey.net/
-// @version      3.70
+// @version      3.71
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi1.js?token=GHSAT0AAAAAACVCFJDJ2MSABLMJWRJLMETGZWV3FFQ
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi1.js?token=GHSAT0AAAAAACVCFJDJ2MSABLMJWRJLMETGZWV3FFQ
@@ -44,14 +44,14 @@ var Comment7 = 'ORMASTOTO(CENPO6) : 54*60*97';
 var namagroup8 = 'INFO';
 var Comment8 = 'Tok99Toto ( CUKILS2 ) : 02*15*68'; 
 
-var namagroup9 = 'OTU';
-var Comment9 = 'OTUSLOT*C698K3J*13*35*92*BETTING';
+var namagroup9 = 'CUYTOTO';
+var Comment9 = '#CUYTOTO*C698K3J*13*35*92';
 
 var namagroup10 = 'LING';
 var Comment10 = 'LING77 (CLOK12) : 05*34';
 
-var namagroup11 = 'KEBAYA';
-var Comment11 = '(KEBAYA4D) = (COMBROT78) 54*60*97'; 
+var namagroup11 = 'Pasar';
+var Comment11 = 'PAJAKTOTO(COMBROT78) : 54*60';
 
 var namagroup12 = 'NEMO4D';
 var Comment12 = 'NEMO4D (CD219KB) : 03*19*63'; 
@@ -116,7 +116,7 @@ var admin = ["Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia
              "kumbara","kemon","katharina","kayla","katty","kendri","kembar","kotna","kiky","kapten",
              "lehman","lianda","laura","leon","lidya","larissa","leksa","lina","lintangz","lehman","lidia",
              "manu","mesa","mardia","mila","maes","mad","miranda","melati","minion","mariana","mahendra","multi","megaways",
-             "nadila","neng","naura","nathaya","nick","nella","neman","novi",
+             "nadila","neng","naura","nathaya","nick","nella","neman","novi","nadhine",
              "oun","oscar","otong",
              "puput","primus","payton","pura","priyan",
              "ratu","roy","rendy","ria","ruto","riko","rano","robby","rano","ropiq","robby",
