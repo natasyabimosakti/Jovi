@@ -44,14 +44,14 @@ var Comment7 = 'ORMASTOTO(BDH79) : 12*44*45';
 var namagroup8 = 'INFO';
 var Comment8 = 'Tok99Toto ( BHYPOK7 ) : 46*47*62'; 
 
-var namagroup9 = 'OTU';
-var Comment9 = 'OTUSLOT*BJL89KA*55*70*74*BETTING';
+var namagroup9 = 'CUYTOTO';
+var Comment9 = '#CUYTOTO*BJL89KA*55*70*74';
 
 var namagroup10 = 'LING';
 var Comment10 = 'LING77 (ANXIK4) 08*41'; 
 
-var namagroup11 = 'KEBAYA';
-var Comment11 = '(KEBAYA4D) = (BPKSTV54) 12*44*45';
+var namagroup11 = 'Pasar';
+var Comment11 = 'PAJAKTOTO(BPKSTV54) : 12*44';
 
 var namagroup12 = 'NEMO4D';
 var Comment12 = 'NEMO4D (BKL5FCC) : 10*65*73';
