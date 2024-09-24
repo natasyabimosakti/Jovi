@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 2
 // @namespace    http://tampermonkey.net/
-// @version      3.09
+// @version      3.10
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/jovi%203/jovi3%202.js?token=GHSAT0AAAAAACVCFJDJRJEJRZPG3VQJ63QEZWTJVQA
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/jovi%203/jovi3%202.js?token=GHSAT0AAAAAACVCFJDJRJEJRZPG3VQJ63QEZWTJVQA
@@ -43,20 +43,20 @@ var Comment7 = 'ORMASTOTO(UBNAE3) : 40*63*88';
 var namagroup8 = 'INFO';
 var Comment8 = 'Tok99Toto ( ULVK7 ) : 09*49*72';
 
-var namagroup9 = 'OTU';
-var Comment9 = 'OTUSLOT*UOUXI2*02*23*50*BETTING';
+var namagroup9 = 'CUYTOTO';
+var Comment9 = '#CUYTOTO*UOUXI2*02*23*50';
 
 var namagroup10 = 'LING';
 var Comment10 = 'LING77 (UVXE8) 45*66'; 
 
-var namagroup11 = 'KEBAYA';
-var Comment11 = '(KEBAYA4D) = (UVOAL7) 08*29*53';
+var namagroup11 = 'Pasar';
+var Comment11 = 'PAJAKTOTO(UVOAL7) : 08*29';
 
 var namagroup12 = 'NEMO4D';
 var Comment12 = 'NEMO4D (UIOPQ4) : 09*49*72';
 
 var namagroup13 = 'Wellz';
-  var Comment13 = 'SIJITOGEL UAJY86 05*21*58';
+var Comment13 = 'SIJITOGEL UAJY86 05*21*58';
 
 var namagroup14 = 'BLITAR';
 var Comment14 = '#BLITAR4D ( UWZWA1 ) : 40*63*88';
