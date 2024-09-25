@@ -106,7 +106,7 @@ var admin = ["Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia
              "brian","boboho","bobby","bonar","bella","bastian","bungaps","budi",
              "cinta","calvin","celsia","cila","cindy","chintya","carole","celine","chomsiati","corene","cheline","chikaku",
              "denis","dollar","dewa","dewi","dinda","dika","dea","debby",
-             "echa","erika","elly","eugene","erwin","elmira","eleano","erna",
+             "echa","erika","elly","eugene","erwin","elmira","eleano","erna","elvina",
              "farah","febrian","fiana","farid","fahresa","fatimm",
              "gretha",
              "herfizah","hana","hoihai","hefi","habib","harry","hokii",
