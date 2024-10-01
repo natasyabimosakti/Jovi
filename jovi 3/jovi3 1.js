@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 1
 // @namespace    http://tampermonkey.net/
-// @version      3.14
+// @version      3.15
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/jovi%203/jovi3%201.js?token=GHSAT0AAAAAACVCFJDJT7B6YM63KWUTPFF4ZWTHLWA
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/jovi%203/jovi3%201.js?token=GHSAT0AAAAAACVCFJDJT7B6YM63KWUTPFF4ZWTHLWA
@@ -118,7 +118,7 @@ var admin = ["Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia
              "nadila","neng","naura","nathaya","nick","nella","neman","novi","nadhine",
              "oun","oscar","otong",
              "puput","primus","payton","pura","priyan","prediction",
-             "ratu","roy","rendy","ria","ruto","riko","rano","robby","rano","ropiq","robby",
+             "ratu","roy","rendy","ria","ruto","riko","rano","robby","rano","ropiq","robby","rohmanu",
              "sanchez","selly","sutanti","siska","safar","sanjaya","san","sandiego","sloter","sinta","slooter","sabrina","salsabila","sintia","sejitu","Syaqeena","saputra",
              "tink","thonex","tiara","tania","tag",
              "ujen",
