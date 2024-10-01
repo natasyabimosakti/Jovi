@@ -118,7 +118,7 @@ var admin = ["Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia
              "nadila","neng","naura","nathaya","nick","nella","neman","novi","nadhine",
              "oun","oscar","otong",
              "puput","primus","payton","pura","priyan","prediction",
-             "ratu","roy","rendy","ria","ruto","riko","rano","robby","rano","ropiq","robby",
+             "ratu","roy","rendy","ria","ruto","riko","rano","robby","rano","ropiq","robby","rohmanu",
              "sanchez","selly","sutanti","siska","safar","sanjaya","san","sandiego","sloter","sinta","slooter","sabrina","salsabila","sintia","sejitu","Syaqeena","saputra",
              "tink","thonex","tiara","tania","tag",
              "ujen",
