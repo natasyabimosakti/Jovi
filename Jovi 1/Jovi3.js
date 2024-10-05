@@ -125,7 +125,7 @@ var admin = ["Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia
              "vonny","viona","virna",
              "wahid","wahzo","wok","wndt","wiena",
              "yoky","yasmine","yao","yohana","yaya",
-             "zurro","zurrotul","zion","zefanyaa"];
+             "zurro","zurrotul","zion"];
 
 
 
