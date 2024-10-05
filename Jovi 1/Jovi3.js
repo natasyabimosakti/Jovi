@@ -148,7 +148,6 @@ var Backlist4 = "room lomba freebet";
 var Backlist5 = "prediksi";
 var Backlist6 = "result";
 var Backlist7 = "result";
-var Backlist8 = "3D 2LINE";
 
 var myrefresh = setInterval(function(){
   
