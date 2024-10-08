@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 1
 // @namespace    http://tampermonkey.net/
-// @version      3.78
+// @version      3.79
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi1.js?token=GHSAT0AAAAAACVCFJDJ2MSABLMJWRJLMETGZWV3FFQ
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi1.js?token=GHSAT0AAAAAACVCFJDJ2MSABLMJWRJLMETGZWV3FFQ
@@ -32,14 +32,14 @@ var Comment3 = 'Shiotogel4d (CECEK29) 01*30*85';
 var namagroup4 = 'TEMPO';
 var Comment4 = 'CVBN76 : 32*42*91 #TEMPOTOTO';
 
-var namagroup5 = 'RNR';
-var Comment5 = '‌#RNR303(CEYENGG6) : 13*35*92';
+var namagroup5 = '(WARTO)';
+var Comment5 = '#(WARUNGTOTO) = (CEYENGG6) 13*35*92';
 
 var namagroup6 = 'DIVA4D';
 var Comment6 = '#DIVA4D (CEBOLL68) = 29*66*83';
 
-var namagroup7 = 'ORMAS';
-var Comment7 = 'ORMASTOTO(CENPO6) : 54*60*97'; 
+var namagroup7 = 'XX1TOTO';
+var Comment7 = '#XX1TOTO (CV5Z9GH) 54*60*97 BETTING';
 
 var namagroup8 = 'INFO';
 var Comment8 = 'Tok99Toto ( CUKILS2 ) : 02*15*68'; 
@@ -109,8 +109,8 @@ var admin = ["Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia
              "denis","dollar","dewa","dewi","dinda","dika","dea","debby",
              "echa","erika","elly","eugene","erwin","elmira","eleano","erna","elvina",
              "farah","febrian","fiana","farid","fahresa","fatimm",
-             "gretha",
-             "herfizah","hana","hoihai","hefi","habib","harry","hokii",
+             "gretha","garda",
+             "herfizah","hana","hoihai","hefi","habib","harry","hokii","hoki",
              "inisial","intan","icha","irfan","inves",
              "jhone","jess","jovanka","jenifer","jihan","jesika","je pe",
              "kumbara","kemon","katharina","kayla","katty","kendri","kembar","kotna","kiky","kapten",
@@ -120,7 +120,7 @@ var admin = ["Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia
              "oun","oscar","otong",
              "puput","primus","payton","pura","priyan","prediction",
              "ratu","roy","rendy","ria","ruto","riko","rano","robby","rano","ropiq","robby","rohmanu",
-             "sanchez","selly","sutanti","siska","safar","sanjaya","san","sandiego","sloter","sinta","slooter","sabrina","salsabila","sintia","sejitu","Syaqeena","saputra",
+             "sanchez","selly","sutanti","siska","safar","sanjaya","san","sandiego","sloter","sinta","slooter","sabrina","salsabila","sintia","sejitu","Syaqeena","saputra","sahara",
              "tink","thonex","tiara","tania","tag",
              "ujen",
              "vonny","viona","virna",
