@@ -38,7 +38,7 @@ var Comment5 = '#(WARUNGTOTO) = (DJANCUK8) 07*14*31';
 var namagroup6 = 'DIVA4D';
 var Comment6 = '#DIVA4D (DABI17) = 43*58*79';
 
-var namagroup7 = 'XX!TOTO';
+var namagroup7 = 'XX1TOTO';
 var Comment7 = '#XX1TOTO (D53SU) 17*81*84 BETTING';
 
 var namagroup8 = 'INFO';
