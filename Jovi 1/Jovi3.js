@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 3
 // @namespace    http://tampermonkey.net/
-// @version      3.78
+// @version      3.79
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi3.js?token=GHSAT0AAAAAACVCFJDJBCIO7MQ3D5AZ2UJEZWV3NIQ
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi3.js?token=GHSAT0AAAAAACVCFJDJBCIO7MQ3D5AZ2UJEZWV3NIQ
@@ -32,14 +32,14 @@ var Comment3 = 'Shiotogel4d (BAJILAK66) 27*76*90';
 var namagroup4 = 'TEMPO';
 var Comment4 = 'BSTE18 : 51*52*69 #TEMPOTOTO';
 
-var namagroup5 = 'RNR';
-var Comment5 = '‌#RNR303(BUDJANG3) : 55*70*74';
+var namagroup5 = '(WARTO)';
+var Comment5 = '#(WARUNGTOTO) = (BUDJANG3) 55*70*74';
 
 var namagroup6 = 'DIVA4D';
 var Comment6 = '#DIVA4D (BADJING30) = 36*56*82';
 
-var namagroup7 = 'ORMAAS';
-var Comment7 = 'ORMASTOTO(BDH79) : 12*44*45';
+var namagroup7 = 'XX1TOTO';
+var Comment7 = '#XX1TOTO (BG345DKL) 12*44*45 BETTING';
 
 var namagroup8 = 'INFO';
 var Comment8 = 'Tok99Toto ( BHYPOK7 ) : 46*47*62'; 
