@@ -37,8 +37,8 @@ var Comment5 = '#(WARUNGTOTO) = (MUKBER2) 05*83*92';
 var namagroup6 = 'DIVA4D';
 var Comment6 = '#DIVA4D (MKKU1) = 12*18*78';
 
-var namagroup7 = 'XX1TOTO';
-var Comment7 = '#XX1TOTO (MUJIK3) 30*77*80 BETTING';
+var namagroup7 = 'MAYAPADA';
+var Comment7 = 'BETT*Mayapada4D(BO)*MUJIK3*30*77*80';
 
 var namagroup8 = 'INFO';
 var Comment8 = 'Tok99Toto ( MHGUA2 ) : 10*21*27';
