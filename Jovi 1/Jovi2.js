@@ -103,7 +103,7 @@ var id16 = await GM.getValue(16);
 var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
 
-var admin = ["Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia","andri","aurel","alde","adm","audi","asmani","andy","ayesha","anggraini","arifin","arga","asnah","aldy",
+var admin = ["Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia","andri","aurel","alde","adm","audi","asmani","andy","ayesha","anggraini","arifin","arga","asnah","aldy","ayunda","aurora",
              "brian","boboho","bobby","bonar","bella","bastian","bungaps","budi",
              "cinta","calvin","celsia","cila","cindy","chintya","carole","celine","chomsiati","corene","cheline","chikaku",
              "denis","dollar","dewa","dewi","dinda","dika","dea","debby",
@@ -114,11 +114,11 @@ var admin = ["Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia
              "inisial","intan","icha","irfan","inves",
              "jhone","jess","jovanka","jenifer","jihan","jesika","je pe",
              "kumbara","kemon","katharina","kayla","katty","kendri","kembar","kotna","kiky","kapten",
-             "lehman","lianda","laura","leon","lidya","larissa","leksa","lina","lintangz","lehman","lidia","langit",
+             "lehman","lianda","laura","leon","lidya","larissa","leksa","lina","lintangz","lidia","langit","leaderbrutallovely",
              "manu","mesa","mardia","mila","maes","mad","miranda","melati","minion","mariana","mahendra","multi","megaways","maleeqq",
              "nadila","neng","naura","nathaya","nick","nella","neman","novi","nadhine",
-             "oun","oscar","otong",
-             "puput","primus","payton","pura","priyan","prediction",
+             "oun","oscar","otong","over",
+             "puput","primus","payton","pura","priyan","prediction","pencari",
              "ratu","roy","rendy","ria","ruto","riko","rano","robby","rano","ropiq","robby","rohmanu",
              "sanchez","selly","sutanti","siska","safar","sanjaya","san","sandiego","sloter","sinta","slooter","sabrina","salsabila","sintia","sejitu","Syaqeena","saputra","sahara",
              "tink","thonex","tiara","tania","tag",
@@ -126,7 +126,7 @@ var admin = ["Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia
              "vonny","viona","virna",
              "wahid","wahzo","wok","wndt","wiena",
              "yoky","yasmine","yao","yohana","yaya",
-             "zurro","zurrotul","zion"];
+             "zurro","zefanyaa","zurrotul","zion","zimbabwe"];
 
 
 
