@@ -38,7 +38,7 @@ var namagroup6 = 'DIVA4D';
 var Comment6 = '#DIVA4D (MKKU1) = 12*18*78';
 
 var namagroup7 = 'MAYAPADA';
-var Comment7 = 'BETT*Mayapada4D(BO)*MUJIK3*30*77*80';
+var Comment7 = 'BETT*Mayapada4D(BO)*MKKU1*30*77*80';
 
 var namagroup8 = 'INFO';
 var Comment8 = 'Tok99Toto ( MHGUA2 ) : 10*21*27';
