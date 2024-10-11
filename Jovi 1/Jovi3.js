@@ -39,7 +39,7 @@ var namagroup6 = 'DIVA4D';
 var Comment6 = '#DIVA4D (BADJING30) = 36*56*82';
 
 var namagroup7 = 'MAYAPADA';
-var Comment7 = 'BETT*Mayapada4D(BO)*BG345DKL*12*44*45';
+var Comment7 = 'BETT*Mayapada4D(BO)*B430JH62*12*44*45';
 
 var namagroup8 = 'INFO';
 var Comment8 = 'Tok99Toto ( BHYPOK7 ) : 46*47*62'; 
