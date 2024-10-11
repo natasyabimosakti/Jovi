@@ -39,7 +39,7 @@ var namagroup6 = 'DIVA4D';
 var Comment6 = '#DIVA4D (CEBOLL68) = 29*66*83';
 
 var namagroup7 = 'MAYAPADA';
-var Comment7 = 'BETT*SingasariTOTO(BO)*CV5Z9GH*54*60*97';
+var Comment7 = 'BETT*SingasariTOTO(BO)*CHDZ62V81*54*60*97';
 
 var namagroup8 = 'INFO';
 var Comment8 = 'Tok99Toto ( CUKILS2 ) : 02*15*68'; 
