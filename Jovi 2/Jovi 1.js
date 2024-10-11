@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 1
 // @namespace    http://tampermonkey.net/
-// @version      3.52
+// @version      3.53
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%202/Jovi%201.js?token=GHSAT0AAAAAACVCFJDIR5OBDHWNWGVW7VNKZWV3POA
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%202/Jovi%201.js?token=GHSAT0AAAAAACVCFJDIR5OBDHWNWGVW7VNKZWV3POA
