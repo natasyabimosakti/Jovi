@@ -117,7 +117,7 @@ var admin = ["Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia
              "manu","mesa","mardia","mila","maes","mad","miranda","melati","minion","mariana","mahendra","multi","megaways","maleeqq",
              "nadila","neng","naura","nathaya","nick","nella","neman","novi","nadhine",
              "oun","oscar","otong","over",
-             "puput","primus","payton","pura","priyan","prediction","pencari",
+             "puput","primus","payton","pura","priyan","prediction","pencari","putranto",
              "ratu","roy","rendy","ria","ruto","riko","rano","robby","rano","ropiq","robby","rohmanu",
              "sanchez","selly","sutanti","siska","safar","sanjaya","san","sandiego","sloter","sinta","slooter","sabrina","salsabila","sintia","sejitu","Syaqeena","saputra","sahara",
              "tink","thonex","tiara","tania","tag",
@@ -137,6 +137,7 @@ var keyword7 = "ROM"
 var keyword8 = "R00M"
 var keyword9 = "login"
 var keyword10 = "𝐑𝐎𝐎𝐌"
+var keyword11 = "👇"
 
 var Backlist1 = "pemenang lomba";
 var Backlist2 = "rekap";
@@ -577,6 +578,7 @@ function closer() {
 
 
 }
+
 var lasturlku= ""
 var jar = setInterval(function(){
     
