@@ -53,8 +53,8 @@ var Comment10 = 'LING77 (BVNR45) 25*57';
 var namagroup11 = 'Pasar';
 var Comment11 = 'PAJAKTOTO(ANKCNDA96) : 37*93';
 
-var namagroup12 = 'NEMO4D';
-var Comment12 = 'NEMO4D (AKP3200) : 09*48*89';
+var namagroup12 = 'SILA';
+var Comment12 = '#SILATOGEL*AKP3200*09*48*89*BETTING';
 
 var namagroup13 = 'Wellz';
 var Comment13 = 'SIJITOGEL ALDVQ5 50*67*86';
@@ -62,8 +62,8 @@ var Comment13 = 'SIJITOGEL ALDVQ5 50*67*86';
 var namagroup14 = 'BLITAR';
 var Comment14 = '#BLITAR4D ( A7BKZX ) : 04*18*21';
 
-var namagroup15 = 'MAIN';
-var Comment15 = '#(MAINTOGEL365) (NBRA3) : 16*59*95';
+var namagroup15 = 'RNR';
+var Comment15 = '#RNR303(ASYEDEH4) : 16*59*95';
 
 var namagroup16 = 'KECERDASAN';
 var Comment16 = 'CITA4D*ANNUALREP*33*39*80';
