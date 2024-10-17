@@ -111,7 +111,7 @@ var admin = ["Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia
              "gretha","garda",
              "herfizah","hana","hoihai","hefi","habib","harry","hokii","hoki",
              "inisial","intan","icha","irfan","inves",
-             "jhone","jess","jovanka","jenifer","jihan","jesika","je pe",
+             "jhone","jess","jovanka","jenifer","jihan","jesika","je pe","jhing",
              "kumbara","kemon","katharina","kayla","katty","kendri","kembar","kotna","kiky","kapten",
              "lehman","lianda","laura","leon","lidya","larissa","leksa","lina","lintangz","lidia","langit","leaderbrutallovely",
              "manu","mesa","mardia","mila","maes","mad","miranda","melati","minion","mariana","mahendra","multi","megaways","maleeqq",
@@ -137,7 +137,6 @@ var keyword7 = "ROM"
 var keyword8 = "R00M"
 var keyword9 = "login"
 var keyword10 = "𝐑𝐎𝐎𝐌"
-var keyword11 = "👇"
 
 var Backlist1 = "pemenang lomba";
 var Backlist2 = "rekap";
