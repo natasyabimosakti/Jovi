@@ -52,8 +52,8 @@ var Comment10 = 'LING77 (VNTM57) 28*31';
 var namagroup11 = 'Pasar';
 var Comment11 = 'PAJAKTOTO(VGARLA5) : 47*79';
 
-var namagroup12 = 'NEMO4D';
-var Comment12 = 'NEMO4D (VARNOL8) : 03*24*99';
+var namagroup12 = 'SILA';
+var Comment12 = '#SILATOGEL*VARNOL8*03*24*99*BETTING';
 
 var namagroup13 = 'Wellz';
 var Comment13 = 'SIJITOGEL VNKZP4 08*68*74'; 
