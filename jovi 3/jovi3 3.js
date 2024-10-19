@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 3
 // @namespace    http://tampermonkey.net/
-// @version      3.22
+// @version      3.23
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/jovi%203/jovi3%203.js?token=GHSAT0AAAAAACVCFJDIWEYH56F7G3KWHUJSZWTJXFA
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/jovi%203/jovi3%203.js?token=GHSAT0AAAAAACVCFJDIWEYH56F7G3KWHUJSZWTJXFA
@@ -108,7 +108,7 @@ var admin = ["Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia
              "echa","erika","elly","eugene","erwin","elmira","eleano","erna","elvina",
              "farah","febrian","fiana","farid","fahresa","fatimm",
              "gretha","garda",
-             "herfizah","hana","hoihai","hefi","habib","harry","hokii","hoki",
+             "herfizah","hana","hoihai","hefi","habib","harry","hokii","hoki","har",
              "inisial","intan","icha","irfan","inves",
              "jhone","jess","jovanka","jenifer","jihan","jesika","je pe","jhing",
              "kumbara","kemon","katharina","kayla","katty","kendri","kembar","kotna","kiky","kapten",
@@ -117,8 +117,8 @@ var admin = ["Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia
              "nadila","neng","naura","nathaya","nick","nella","neman","novi","nadhine",
              "oun","oscar","otong","over",
              "puput","primus","payton","pura","priyan","prediction","pencari","putranto",
-             "ratu","roy","rendy","ria","ruto","riko","rano","robby","rano","ropiq","robby","rohmanu",
-             "sanchez","selly","sutanti","siska","safar","sanjaya","san","sandiego","sloter","sinta","slooter","sabrina","salsabila","sintia","sejitu","Syaqeena","saputra","sahara",
+             "ratu","roy","rendy","ria","ruto","riko","rano","robby","rano","ropiq","robby","rohmanu","rindi",
+             "sanchez","selly","sutanti","siska","safar","sanjaya","san","sandiego","sloter","sinta","slooter","sabrina","salsabila","sintia","sejitu","Syaqeena","saputra","sahara","shell",
              "tink","thonex","tiara","tania","tag",
              "ujen",
              "vonny","viona","virna",
