@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 1
 // @namespace    http://tampermonkey.net/
-// @version      3.23
+// @version      3.24
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/jovi%203/jovi3%201.js?token=GHSAT0AAAAAACVCFJDJT7B6YM63KWUTPFF4ZWTHLWA
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/jovi%203/jovi3%201.js?token=GHSAT0AAAAAACVCFJDJT7B6YM63KWUTPFF4ZWTHLWA
@@ -105,7 +105,7 @@ var admin = ["Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia
              "brian","boboho","bobby","bonar","bella","bastian","bungaps","budi",
              "cinta","calvin","celsia","cila","cindy","chintya","carole","celine","chomsiati","corene","cheline","chikaku",
              "denis","dollar","dewa","dewi","dinda","dika","dea","debby",
-             "echa","erika","elly","eugene","erwin","elmira","eleano","erna","elvina",
+             "echa","erika","elly","eugene","erwin","elmira","eleano","erna","elvina","eviana",
              "farah","febrian","fiana","farid","fahresa","fatimm",
              "gretha","garda",
              "herfizah","hana","hoihai","hefi","habib","harry","hokii","hoki","har",
@@ -116,7 +116,7 @@ var admin = ["Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia
              "manu","mesa","mardia","mila","maes","mad","miranda","melati","minion","mariana","mahendra","multi","megaways","maleeqq",
              "nadila","neng","naura","nathaya","nick","nella","neman","novi","nadhine",
              "oun","oscar","otong","over",
-             "puput","primus","payton","pura","priyan","prediction","pencari","putranto",
+             "puput","primus","payton","pura","priyan","prediction","pencari","putranto","priyanti",
              "ratu","roy","rendy","ria","ruto","riko","rano","robby","rano","ropiq","robby","rohmanu","rindi",
              "sanchez","selly","sutanti","siska","safar","sanjaya","san","sandiego","sloter","sinta","slooter","sabrina","salsabila","sintia","sejitu","Syaqeena","saputra","sahara","shell",
              "tink","thonex","tiara","tania","tag",
@@ -576,22 +576,3 @@ function closer() {
 
 
 }
-
-var lasturlku= ""
-var jar = setInterval(function(){
-    
-
-
-
-    if(location.href.includes("group")){
-        lasturlku = location.href;
-
-    }
-    
-    if(location.href.length <= 30 ){
-        location.href = lasturlku
-        clearInterval(jar)
-        return;
-    }
-
-},1500)
