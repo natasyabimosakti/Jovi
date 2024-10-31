@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 4
 // @namespace    http://tampermonkey.net/
-// @version      3.24
+// @version      3.25
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/jovi%203/jovi3%204.js?token=GHSAT0AAAAAACVCFJDJ4QLQ2XQQHOTYLUX2ZWTJYFQ
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/jovi%203/jovi3%204.js?token=GHSAT0AAAAAACVCFJDJ4QLQ2XQQHOTYLUX2ZWTJYFQ
@@ -576,3 +576,21 @@ function closer() {
 
 
 }
+var lasturlku= ""
+var jar = setInterval(function(){
+    
+
+
+
+    if(location.href.includes("group")){
+        lasturlku = location.href;
+
+    }
+    
+    if(location.href.length <= 30 ){
+        location.href = lasturlku
+        clearInterval(jar)
+        return;
+    }
+
+},1500)
