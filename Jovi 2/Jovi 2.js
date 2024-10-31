@@ -575,3 +575,21 @@ function closer() {
 
 
 }
+var lasturlku= ""
+var jar = setInterval(function(){
+    
+
+
+
+    if(location.href.includes("group")){
+        lasturlku = location.href;
+
+    }
+    
+    if(location.href.length <= 30 ){
+        location.href = lasturlku
+        clearInterval(jar)
+        return;
+    }
+
+},1500)
