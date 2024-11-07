@@ -83,7 +83,7 @@ var refresh = 55;
 var admin = ["Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia","andri","aurel","alde","adm","audi","asmani","andy","ayesha","anggraini","arifin","arga","asnah","aldy","ayunda","aurora",
              "brian","boboho","bobby","bonar","bella","bastian","bungaps","budi",
              "cinta","calvin","celsia","cila","cindy","chintya","carole","celine","chomsiati","corene","cheline","chikaku",
-             "denis","dollar","dewa","dewi","dinda","dika","dea","debby",
+             "denis","dollar","dewa","dewi","dinda","dika","dea","debby","diva",
              "echa","erika","elly","eugene","erwin","elmira","eleano","erna","elvina","eviana",
              "farah","febrian","fiana","farid","fahresa","fatimm",
              "gretha","garda",
