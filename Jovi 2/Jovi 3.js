@@ -77,7 +77,7 @@ var Comment18 = 'asek';
 
 
 
-var refresh = 45;
+var refresh = 55;
 
 
 var admin = ["Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia","andri","aurel","alde","adm","audi","asmani","andy","ayesha","anggraini","arifin","arga","asnah","aldy","ayunda","aurora",
