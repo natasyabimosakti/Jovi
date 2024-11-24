@@ -30,7 +30,7 @@ var namagroup3 = 'PUSAT LOMBA';
 var Comment3 = 'Shiotogel4d (CECEK29) 01*30*85';
 
 var namagroup4 = 'NEMO';
-var Comment4 = 'CVBN76 : 32*42*91 #TEMPOTOTO'; Nemo4d (BUKUAJAIB) : 25*41*74
+var Comment4 = 'Nemo4d (CD219KB) : 32*42*91';
 
 var namagroup5 = '(WARTO)';
 var Comment5 = '#(WARUNGTOTO) = (CEYENGG6) 13*35*92';
