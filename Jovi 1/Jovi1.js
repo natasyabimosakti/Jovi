@@ -29,8 +29,8 @@ var Comment2 = 'K86TOTO ( CYLENK99 ) : 03*19*63';
 var namagroup3 = 'PUSAT LOMBA';
 var Comment3 = 'Shiotogel4d (CECEK29) 01*30*85';
 
-var namagroup4 = 'TEMPO';
-var Comment4 = 'CVBN76 : 32*42*91 #TEMPOTOTO';
+var namagroup4 = 'NEMO';
+var Comment4 = 'CVBN76 : 32*42*91 #TEMPOTOTO'; Nemo4d (BUKUAJAIB) : 25*41*74
 
 var namagroup5 = '(WARTO)';
 var Comment5 = '#(WARUNGTOTO) = (CEYENGG6) 13*35*92';
@@ -82,7 +82,7 @@ var Comment18 = 'asek';
 var refresh = 45;
 
 
-var admin = ["Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia","andri","aurel","alde","adm","audi","asmani","andy","ayesha","anggraini","arifin","arga","asnah","aldy","ayunda","aurora",
+var admin = ["Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia","andri","aurel","alde","adm","audi","asmani","andy","ayesha","anggraini","arifin","arga","asnah","aldy","ayunda","aurora","adiatmika"
              "brian","boboho","bobby","bonar","bella","bastian","bungaps","budi",
              "cinta","calvin","celsia","cila","cindy","chintya","carole","celine","chomsiati","corene","cheline","chikaku",
              "denis","dollar","dewa","dewi","dinda","dika","dea","debby","diva",
@@ -92,9 +92,9 @@ var admin = ["Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia
              "herfizah","hana","hoihai","hefi","habib","harry","hokii","hoki","har",
              "inisial","intan","icha","irfan","inves",
              "jhone","jess","jovanka","jenifer","jihan","jesika","je pe","jhing",
-             "kumbara","kemon","katharina","kayla","katty","kendri","kembar","kotna","kiky","kapten",
+             "kumbara","kemon","katharina","kayla","katty","kendri","kembar","kotna","kiky","kapten","karla","kopi pait",
              "lehman","lianda","laura","leon","lidya","larissa","leksa","lina","lintangz","lidia","langit","leaderbrutallovely",
-             "manu","mesa","mardia","mila","maes","mad","miranda","melati","minion","mariana","mahendra","multi","megaways","maleeqq",
+             "manu","mesa","mardia","mila","maes","mad","miranda","melati","minion","mariana","mahendra","multi","megaways","maleeqq","melyska",
              "nadila","neng","naura","nathaya","nick","nella","neman","novi","nadhine",
              "oun","oscar","otong","over",
              "puput","primus","payton","pura","priyan","prediction","pencari","putranto","priyanti",
