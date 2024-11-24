@@ -118,7 +118,7 @@ var keyword8 = "R00M"
 var keyword9 = "2D 3LINE"
 var keyword10 = "𝐑𝐎𝐎𝐌"
 var keyword11 = "HONGKONG"
-var keyword12 = "SINGAPUR"
+var keyword12 = "SINGA"
 var keyword13 = "SYDNEY"
 var keyword14 = "❤️"
 
