@@ -29,8 +29,8 @@ var Comment2 = 'K86TOTO ( BBQISI22 ) : 10*65*73';
 var namagroup3 = 'PUSAT LOMBA';
 var Comment3 = 'Shiotogel4d (BAJILAK66) 27*76*90';
 
-var namagroup4 = 'TEMPO';
-var Comment4 = 'BSTE18 : 51*52*69 #TEMPOTOTO';
+var namagroup4 = 'NEMO';
+var Comment4 = 'Nemo4d (BKL5FCC) : 51*52*69';
 
 var namagroup5 = '(WARTO)';
 var Comment5 = '#(WARUNGTOTO) = (BUDJANG3) 55*70*74';
