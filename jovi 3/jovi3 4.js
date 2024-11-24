@@ -28,8 +28,8 @@ var Comment2 = 'K86TOTO ( TILOR1 ) : 12*18*54';
 var namagroup3 = 'PUSAT LOMBA';
 var Comment3 = 'Shiotogel4d (TIBAX7) 15*81*84';
 
-var namagroup4 = 'TEMPO';
-var Comment4 = 'TELOPL4 : 34*73*85 #TEMPOTOTO';
+var namagroup4 = 'NEMO';
+var Comment4 = 'Nemo4d (TIMAX9) : 34*73*85';
 
 var namagroup5 = '(WARTO)';
 var Comment5 = '#(WARUNGTOTO) = (TAVIX6) 17*44*79';
