@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 4
 // @namespace    http://tampermonkey.net/
-// @version      3.90
+// @version      3.91
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi4.js?token=GHSAT0AAAAAACVCFJDIQ6LH5GPAZWOZ3H42ZWV3OQA
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi4.js?token=GHSAT0AAAAAACVCFJDIQ6LH5GPAZWOZ3H42ZWV3OQA
@@ -82,7 +82,7 @@ var Comment18 = 'asek';
 var refresh = 45;
 
 
-var admin = ["Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia","andri","aurel","alde","adm","audi","asmani","andy","ayesha","anggraini","arifin","arga","asnah","aldy","ayunda","aurora",
+var admin = ["Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia","andri","aurel","alde","adm","audi","asmani","andy","ayesha","anggraini","arifin","arga","asnah","aldy","ayunda","aurora","adiatmika"
              "brian","boboho","bobby","bonar","bella","bastian","bungaps","budi",
              "cinta","calvin","celsia","cila","cindy","chintya","carole","celine","chomsiati","corene","cheline","chikaku",
              "denis","dollar","dewa","dewi","dinda","dika","dea","debby","diva",
@@ -92,14 +92,14 @@ var admin = ["Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia
              "herfizah","hana","hoihai","hefi","habib","harry","hokii","hoki","har",
              "inisial","intan","icha","irfan","inves",
              "jhone","jess","jovanka","jenifer","jihan","jesika","je pe","jhing",
-             "kumbara","kemon","katharina","kayla","katty","kendri","kembar","kotna","kiky","kapten",
+             "kumbara","kemon","katharina","kayla","katty","kendri","kembar","kotna","kiky","kapten","karla","kopi pait",
              "lehman","lianda","laura","leon","lidya","larissa","leksa","lina","lintangz","lidia","langit","leaderbrutallovely",
-             "manu","mesa","mardia","mila","maes","mad","miranda","melati","minion","mariana","mahendra","multi","megaways","maleeqq",
+             "manu","mesa","mardia","mila","maes","mad","miranda","melati","minion","mariana","mahendra","multi","megaways","maleeqq","melyska",
              "nadila","neng","naura","nathaya","nick","nella","neman","novi","nadhine",
              "oun","oscar","otong","over",
              "puput","primus","payton","pura","priyan","prediction","pencari","putranto","priyanti",
              "ratu","roy","rendy","ria","ruto","riko","rano","robby","rano","ropiq","robby","rohmanu","rindi",
-             "sanchez","selly","sutanti","siska","safar","sanjaya","san","sandiego","sloter","sinta","slooter","sabrina","salsabila","sintia","sejitu","Syaqeena","saputra","sahara","shell",
+             "sanchez","selly","sutanti","siska","safar","sanjaya","san","sandiego","sloter","sinta","slooter","sabrina","salsabila","sintia","sejitu","Syaqeena","saputra","sahara","shell","sundawa",
              "tink","thonex","tiara","tania","tag",
              "ujen",
              "vonny","viona","virna",
@@ -118,7 +118,7 @@ var keyword8 = "R00M"
 var keyword9 = "2D 3LINE"
 var keyword10 = "𝐑𝐎𝐎𝐌"
 var keyword11 = "HONGKONG"
-var keyword12 = "SINGAPUR"
+var keyword12 = "SINGA"
 var keyword13 = "SYDNEY"
 var keyword14 = "❤️"
 
