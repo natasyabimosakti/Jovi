@@ -28,8 +28,8 @@ var Comment2 = 'K86TOTO ( SERAK1 ) : 60*77*99';
 var namagroup3 = 'PUSAT LOMBA';
 var Comment3 = 'Shiotogel4d (SIKON7) 32*75*95';
 
-var namagroup4 = 'TEMPO';
-var Comment4 = 'SELUR4 : 11*24*69 #TEMPOTOTO';
+var namagroup4 = 'NEMO';
+var Comment4 = 'Nemo4d (SAVON7) : 11*24*69';
 
 var namagroup5 = '(WARTO)';
 var Comment5 = '‌#(WARUNGTOTO) = (SAPIX6) 00*83*92';
