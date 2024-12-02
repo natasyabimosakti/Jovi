@@ -53,8 +53,8 @@ var Comment10 = 'LING77 (CLOK12) : 05*34';
 var namagroup11 = 'Pasar';
 var Comment11 = 'PAJAKTOTO(COMBROT78) : 54*60';
 
-var namagroup12 = 'SILA';
-var Comment12 = '#SILATOGEL*CD219KB*03*19*63*BETTING';
+var namagroup12 = 'KINGDOM';
+var Comment12 = 'JANGKAUTOTO(CD219KB) : 03*19*63';
 
 var namagroup13 = 'Wellz';
 var Comment13 = 'SIJITOGEL CKZLT1 29*66*83';
