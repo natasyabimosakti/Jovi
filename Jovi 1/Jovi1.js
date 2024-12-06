@@ -71,67 +71,9 @@ var Comment16 = 'CITA4D*CYUCUKBERUK*32*42*91';
 /*======================================================================3copy tampermonkey==========================================================*/
 
 
-var namagroup17 = 'popok';
-var Comment17 = 'wewe';
-
-var namagroup18 = 'colt';
-var Comment18 = 'wewe';
-
-
-
-var refresh = 45;
-
-
-var admin = ["Siâo","ayesha","aqisya","asyati","andinincy","andy",
-             "boboho","bonar",
-             "chikaku",
-             "denis","debby","diva","dewa",
-             "erwin",
-             "ferlita",
-             "gretha","garda",
-             "hokii","hoki","har",
-             "inisial","ishaura",
-             "jovanka","jenifer",
-             "karla","kumbara",
-             "langit","leaderbrutallovely","laura","lidya","lusiana",
-             "manu","mas har","manu roh","mad rm","mad",
-             "nadila","neng","naura","nathaya","nick","nella","neman","novi","nadhine",
-             "oscar","otong",
-             "panambang","pram",
-             "rohmanu","rungkad","riko",
-             "sanchez","syaqeena","sundawa","sidebar","sam","saputra","shell",
-             "tink","thonex","tiara","tania","tag",
-             "ujen",
-             "vonny","viona","virna",
-             "wijaya",
-             "yoky","yaya",
-             "zion","zhelonk","zimbabwe"];
-
-var keyword1 = "ROOM"
-var keyword2 = "𝗥𝗢𝗢𝗠"
-var keyword3 = "LOMBA"
-var keyword4 = "𝗟𝗢𝗠𝗕𝗔"
-var keyword5 = "𝐋𝐎𝐌𝐁𝐀"
-var keyword6 = "2D 2LINE"
-var keyword7 = "ROM"
-var keyword8 = "R00M"
-var keyword9 = "2D 3LINE"
-var keyword10 = "𝐑𝐎𝐎𝐌"
-var keyword11 = "HONGKONG"
-var keyword12 = "SINGA"
-var keyword13 = "SYDNEY"
-var keyword14 = "❤️"
-
-var Backlist1 = "pemenang lomba";
-var Backlist2 = "rekap";
-var Backlist3 = "hasil";
-var Backlist4 = "room lomba freebet";
-var Backlist5 = "prediksi";
-var Backlist6 = "result";
-var Backlist7 = "result";
-
-
 var myrefresh = setInterval(function(){
+
+
     if (tm == "" || tm == undefined || tm == null) {
         GM.setValue("time", hour);
     }
@@ -205,7 +147,9 @@ var myInterval = setInterval(function(){
                    ||postingan.textContent.toLowerCase().includes(keyword7.toLowerCase())
                    ||postingan.textContent.toLowerCase().includes(keyword8.toLowerCase())
                    ||postingan.textContent.toLowerCase().includes(keyword9.toLowerCase())
-                   ||postingan.textContent.toLowerCase().includes(keyword10.toLowerCase())){
+                   ||postingan.textContent.toLowerCase().includes(keyword10.toLowerCase())
+                   ||postingan.textContent.toLowerCase().includes(keyword11.toLowerCase())
+                   ||postingan.textContent.toLowerCase().includes(keyword12.toLowerCase())){
                     console.log("Keyword Ditemukan " + postingan.textContent);
                     // Cek Backlist
                     if(postingan.textContent.toLowerCase().includes(Backlist1.toLowerCase())
@@ -616,8 +560,8 @@ var jar = setInterval(function(){
         lasturlku = location.href;
        
     }
-    if(location.href.length <= 30 ){
+    if(location.href.length <= 40 ){
         location.href = lasturlku
-    }
+    }
 
 },1000)
