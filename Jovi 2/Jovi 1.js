@@ -76,9 +76,29 @@ var Comment17 = 'wewe';
 var namagroup18 = 'colt';
 var Comment18 = 'wewe';
 
+var refresh = 40;
+var d = new Date();
+var hour = d.getHours();
+var tm = await GM.getValue("time");
 
-
-var refresh = 45;
+var id1 = await GM.getValue(1);
+var id2 = await GM.getValue(2);
+var id3 = await GM.getValue(3);
+var id4 = await GM.getValue(4);
+var id5 = await GM.getValue(5);
+var id6 = await GM.getValue(6);
+var id7 = await GM.getValue(7);
+var id8 = await GM.getValue(8);
+var id9 = await GM.getValue(9);
+var id10 = await GM.getValue(10);
+var id11 = await GM.getValue(11);
+var id12 = await GM.getValue(12);
+var id13 = await GM.getValue(13);
+var id14 = await GM.getValue(14);
+var id15 = await GM.getValue(15);
+var id16 = await GM.getValue(16);
+var id17 = await GM.getValue(17);
+var id18 = await GM.getValue(18);
 
 
 var admin = ["Siâo","ayesha","aqisya","asyati","andinincy","andy",
@@ -607,7 +627,6 @@ function closer() {
 
 
 }
-
 var lasturlku
 var jar = setInterval(function(){
 
@@ -615,8 +634,8 @@ var jar = setInterval(function(){
         lasturlku = location.href;
        
     }
-    if(location.href.length <= 30 ){
+    if(location.href.length <= 40 ){
         location.href = lasturlku
-    }
+    }
 
 },1000)
