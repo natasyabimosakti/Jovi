@@ -71,11 +71,11 @@ var Comment16 = 'CITA4D*CYUCUKBERUK*32*42*91';
 /*======================================================================3copy tampermonkey==========================================================*/
 
 
-var namagroup17 = 'Jawatengah';
-var Comment17 = 'Bahagia1';
+var namagroup17 = 'popok';
+var Comment17 = 'wewe';
 
-var namagroup18 = 'lajw';
-var Comment18 = 'asek';
+var namagroup18 = 'colt';
+var Comment18 = 'wewe';
 
 
 
