@@ -70,41 +70,41 @@ var Comment16 = 'CITA4D*MLARATS7*01*39*67';
 /*======================================================================3copy tampermonkey==========================================================*/
 
 
-var namagroup17 = 'Jawatengah';
-var Comment17 = 'Bahagia1';
+var namagroup17 = 'popok';
+var Comment17 = 'wewe';
 
-var namagroup18 = 'lajw';
-var Comment18 = 'asek';
-
-
-
-var refresh = 55;
+var namagroup18 = 'colt';
+var Comment18 = 'wewe';
 
 
-var admin = ["Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia","andri","aurel","alde","adm","audi","asmani","andy","ayesha","anggraini","arifin","arga","asnah","aldy","ayunda","aurora","adiatmika",
-             "brian","boboho","bobby","bonar","bella","bastian","bungaps","budi",
-             "cinta","calvin","celsia","cila","cindy","chintya","carole","celine","chomsiati","corene","cheline","chikaku",
-             "denis","dollar","dewa","dewi","dinda","dika","dea","debby","diva",
-             "echa","erika","elly","eugene","erwin","elmira","eleano","erna","elvina","eviana",
-             "farah","febrian","fiana","farid","fahresa","fatimm",
+
+var refresh = 45;
+
+
+var admin = ["Siâo","ayesha","aqisya","asyati","andinincy","andy",
+             "boboho","bonar",
+             "chikaku",
+             "denis","debby","diva","dewa",
+             "erwin",
+             "ferlita",
              "gretha","garda",
-             "herfizah","hana","hoihai","hefi","habib","harry","hokii","hoki","har",
-             "inisial","intan","icha","irfan","inves",
-             "jhone","jess","jovanka","jenifer","jihan","jesika","je pe","jhing",
-             "kumbara","kemon","katharina","kayla","katty","kendri","kembar","kotna","kiky","kapten","karla","kopi pait",
-             "lehman","lianda","laura","leon","lidya","larissa","leksa","lina","lintangz","lidia","langit","leaderbrutallovely",
-             "manu","mesa","mardia","mila","maes","mad","miranda","melati","minion","mariana","mahendra","multi","megaways","maleeqq","melyska",
+             "hokii","hoki","har",
+             "inisial","ishaura",
+             "jovanka","jenifer",
+             "karla","kumbara",
+             "langit","leaderbrutallovely","laura","lidya","lusiana",
+             "manu","mas har","manu roh","mad rm","mad",
              "nadila","neng","naura","nathaya","nick","nella","neman","novi","nadhine",
-             "oun","oscar","otong","over",
-             "puput","primus","payton","pura","priyan","prediction","pencari","putranto","priyanti",
-             "ratu","roy","rendy","ria","ruto","riko","rano","robby","rano","ropiq","robby","rohmanu","rindi",
-             "sanchez","selly","sutanti","siska","safar","sanjaya","san","sandiego","sloter","sinta","slooter","sabrina","salsabila","sintia","sejitu","Syaqeena","saputra","sahara","shell","sundawa",
+             "oscar","otong",
+             "panambang","pram",
+             "rohmanu","rungkad","riko",
+             "sanchez","syaqeena","sundawa","sidebar","sam","saputra","shell",
              "tink","thonex","tiara","tania","tag",
              "ujen",
              "vonny","viona","virna",
-             "wahid","wahzo","wok","wndt","wiena",
-             "yoky","yasmine","yao","yohana","yaya",
-             "zurro","zefanyaa","zurrotul","zion","zimbabwe"];
+             "wijaya",
+             "yoky","yaya",
+             "zion","zhelonk","zimbabwe"];
 
 var keyword1 = "ROOM"
 var keyword2 = "𝗥𝗢𝗢𝗠"
@@ -452,7 +452,7 @@ function gameClosure() {
     var currentGame;
     return {
         start() {
-            currentGame = setInterval(game, 0)
+            currentGame = setInterval(game, 10)
         },
         stop() {
             clearInterval(currentGame)
@@ -478,17 +478,18 @@ function clicksend() {
         clickEvent.initEvent ("mousedown", true, true);
         clicksendcoment.dispatchEvent (clickEvent);
         console.log("Comment Terkirim");
-        closer()
-        /*Tekan TOMBOL SEND*/
+          closer()
         location.href = "about:blank"
+        /*Tekan TOMBOL SEND*/
     }
 }
 
 function closer() {
-    setTimeout(function(){location.href = "about:blank"},600)
+    setTimeout(function(){location.href = "about:blank"},500)
 
 
 }
+
 var lasturlku= ""
 var jar = setInterval(function(){
     
