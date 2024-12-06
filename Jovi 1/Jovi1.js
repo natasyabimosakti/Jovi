@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 1
 // @namespace    http://tampermonkey.net/
-// @version      3.94
+// @version      3.95
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi1.js?token=GHSAT0AAAAAACVCFJDJ2MSABLMJWRJLMETGZWV3FFQ
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi1.js?token=GHSAT0AAAAAACVCFJDJ2MSABLMJWRJLMETGZWV3FFQ
@@ -97,7 +97,7 @@ var admin = ["Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia
              "manu","mesa","mardia","mila","maes","mad","miranda","melati","minion","mariana","mahendra","multi","megaways","maleeqq","melyska",
              "nadila","neng","naura","nathaya","nick","nella","neman","novi","nadhine",
              "oun","oscar","otong","over",
-             "puput","primus","payton","pura","priyan","prediction","pencari","putranto","priyanti",
+             "puput","primus","payton","pura","priyan","prediction","pencari","putranto","priyanti","panambang",
              "ratu","roy","rendy","ria","ruto","riko","rano","robby","rano","ropiq","robby","rohmanu","rindi",
              "sanchez","selly","sutanti","siska","safar","sanjaya","san","sandiego","sloter","sinta","slooter","sabrina","salsabila","sintia","sejitu","Syaqeena","saputra","sahara","shell","sundawa",
              "tink","thonex","tiara","tania","tag",
