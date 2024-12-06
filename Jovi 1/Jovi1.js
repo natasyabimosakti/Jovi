@@ -70,6 +70,84 @@ var Comment16 = 'CITA4D*CYUCUKBERUK*32*42*91';
 
 /*======================================================================3copy tampermonkey==========================================================*/
 
+var namagroup17 = 'popok';
+var Comment17 = 'wewe';
+
+var namagroup18 = 'colt';
+var Comment18 = 'wewe';
+
+var refresh = 40;
+var d = new Date();
+var hour = d.getHours();
+var tm = await GM.getValue("time");
+
+var id1 = await GM.getValue(1);
+var id2 = await GM.getValue(2);
+var id3 = await GM.getValue(3);
+var id4 = await GM.getValue(4);
+var id5 = await GM.getValue(5);
+var id6 = await GM.getValue(6);
+var id7 = await GM.getValue(7);
+var id8 = await GM.getValue(8);
+var id9 = await GM.getValue(9);
+var id10 = await GM.getValue(10);
+var id11 = await GM.getValue(11);
+var id12 = await GM.getValue(12);
+var id13 = await GM.getValue(13);
+var id14 = await GM.getValue(14);
+var id15 = await GM.getValue(15);
+var id16 = await GM.getValue(16);
+var id17 = await GM.getValue(17);
+var id18 = await GM.getValue(18);
+
+
+var admin = ["Siâo","ayesha","aqisya","asyati","andinincy","andy",
+             "boboho","bonar",
+             "chikaku",
+             "denis","debby","diva","dewa",
+             "erwin",
+             "ferlita",
+             "gretha","garda",
+             "hokii","hoki","har",
+             "inisial","ishaura",
+             "jovanka","jenifer",
+             "karla","kumbara",
+             "langit","leaderbrutallovely","laura","lidya","lusiana",
+             "manu","mas har","manu roh","mad rm","mad",
+             "nadila","neng","naura","nathaya","nick","nella","neman","novi","nadhine",
+             "oscar","otong",
+             "panambang","pram",
+             "rohmanu","rungkad","riko",
+             "sanchez","syaqeena","sundawa","sidebar","sam","saputra","shell",
+             "tink","thonex","tiara","tania","tag",
+             "ujen",
+             "vonny","viona","virna",
+             "wijaya",
+             "yoky","yaya",
+             "zion","zhelonk","zimbabwe"];
+
+var keyword1 = "ROOM"
+var keyword2 = "𝗥𝗢𝗢𝗠"
+var keyword3 = "LOMBA"
+var keyword4 = "𝗟𝗢𝗠𝗕𝗔"
+var keyword5 = "𝐋𝐎𝐌𝐁𝐀"
+var keyword6 = "2D 2LINE"
+var keyword7 = "ROM"
+var keyword8 = "R00M"
+var keyword9 = "2D 3LINE"
+var keyword10 = "𝐑𝐎𝐎𝐌"
+var keyword11 = "HONGKONG"
+var keyword12 = "SINGA"
+var keyword13 = "SYDNEY"
+var keyword14 = "❤️"
+
+var Backlist1 = "pemenang lomba";
+var Backlist2 = "rekap";
+var Backlist3 = "hasil";
+var Backlist4 = "room lomba freebet";
+var Backlist5 = "prediksi";
+var Backlist6 = "result";
+var Backlist7 = "result";
 
 var myrefresh = setInterval(function(){
     if (tm == "" || tm == undefined || tm == null) {
