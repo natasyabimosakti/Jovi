@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 4
 // @namespace    http://tampermonkey.net/
-// @version      3.50
+// @version      3.51
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi4.js?token=GHSAT0AAAAAACVCFJDIQ6LH5GPAZWOZ3H42ZWV3OQA
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%201/Jovi4.js?token=GHSAT0AAAAAACVCFJDIQ6LH5GPAZWOZ3H42ZWV3OQA
@@ -77,9 +77,29 @@ var Comment17 = 'wewe';
 var namagroup18 = 'colt';
 var Comment18 = 'wewe';
 
+var refresh = 40;
+var d = new Date();
+var hour = d.getHours();
+var tm = await GM.getValue("time");
 
-
-var refresh = 45;
+var id1 = await GM.getValue(1);
+var id2 = await GM.getValue(2);
+var id3 = await GM.getValue(3);
+var id4 = await GM.getValue(4);
+var id5 = await GM.getValue(5);
+var id6 = await GM.getValue(6);
+var id7 = await GM.getValue(7);
+var id8 = await GM.getValue(8);
+var id9 = await GM.getValue(9);
+var id10 = await GM.getValue(10);
+var id11 = await GM.getValue(11);
+var id12 = await GM.getValue(12);
+var id13 = await GM.getValue(13);
+var id14 = await GM.getValue(14);
+var id15 = await GM.getValue(15);
+var id16 = await GM.getValue(16);
+var id17 = await GM.getValue(17);
+var id18 = await GM.getValue(18);
 
 
 var admin = ["Siâo","ayesha","aqisya","asyati","andinincy","andy",
@@ -130,10 +150,7 @@ var Backlist5 = "prediksi";
 var Backlist6 = "result";
 var Backlist7 = "result";
 
-
 var myrefresh = setInterval(function(){
-
-
     if (tm == "" || tm == undefined || tm == null) {
         GM.setValue("time", hour);
     }
@@ -207,9 +224,7 @@ var myInterval = setInterval(function(){
                    ||postingan.textContent.toLowerCase().includes(keyword7.toLowerCase())
                    ||postingan.textContent.toLowerCase().includes(keyword8.toLowerCase())
                    ||postingan.textContent.toLowerCase().includes(keyword9.toLowerCase())
-                   ||postingan.textContent.toLowerCase().includes(keyword10.toLowerCase())
-                   ||postingan.textContent.toLowerCase().includes(keyword11.toLowerCase())
-                   ||postingan.textContent.toLowerCase().includes(keyword12.toLowerCase())){
+                   ||postingan.textContent.toLowerCase().includes(keyword10.toLowerCase())){
                     console.log("Keyword Ditemukan " + postingan.textContent);
                     // Cek Backlist
                     if(postingan.textContent.toLowerCase().includes(Backlist1.toLowerCase())
@@ -612,7 +627,6 @@ function closer() {
 
 
 }
-
 var lasturlku
 var jar = setInterval(function(){
 
