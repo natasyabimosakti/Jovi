@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 4
 // @namespace    http://tampermonkey.net/
-// @version      3.65
+// @version      3.66
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%202/Jovi%204.js?token=GHSAT0AAAAAACVCFJDIFVS5MIB2A5A3CVF4ZWV3RFA
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/Jovi%202/Jovi%204.js?token=GHSAT0AAAAAACVCFJDIFVS5MIB2A5A3CVF4ZWV3RFA
@@ -112,7 +112,7 @@ var admin = ["Siâo","ayesha","aqisya","asyati","andinincy","andy",
              "jovanka","jenifer",
              "karla","kumbara",
              "langit","leaderbrutallovely","laura","lidya","lusiana",
-             "manu","mas har","manu roh","mad rm","mad",
+             "manu","mas har","manu roh","mad rm","mad","monica",
              "nadila","neng","naura","nathaya","nick","nella","neman","novi","nadhine",
              "oscar","otong",
              "panambang","pram",
@@ -123,7 +123,7 @@ var admin = ["Siâo","ayesha","aqisya","asyati","andinincy","andy",
              "vonny","viona","virna",
              "wijaya",
              "yoky","yaya",
-             "zion","zhelonk","zimbabwe"];
+             "zion","zhelonk","zimbabwe","zhie"];
 
 var keyword1 = "ROOM"
 var keyword2 = "𝗥𝗢𝗢𝗠"
