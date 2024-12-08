@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 2
 // @namespace    http://tampermonkey.net/
-// @version      3.30
+// @version      3.31
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/jovi%203/jovi3%202.js?token=GHSAT0AAAAAACVCFJDJRJEJRZPG3VQJ63QEZWTJVQA
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/jovi%203/jovi3%202.js?token=GHSAT0AAAAAACVCFJDJRJEJRZPG3VQJ63QEZWTJVQA
@@ -113,7 +113,7 @@ var admin = ["Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia
              "jhone","jess","jovanka","jenifer","jihan","jesika","je pe","jhing",
              "kumbara","kemon","katharina","kayla","katty","kendri","kembar","kotna","kiky","kapten","karla","kopi pait",
              "lehman","lianda","laura","leon","lidya","larissa","leksa","lina","lintangz","lidia","langit","leaderbrutallovely",
-             "manu","mesa","mardia","mila","maes","mad","miranda","melati","minion","mariana","mahendra","multi","megaways","maleeqq","melyska",
+             "manu","mesa","mardia","mila","maes","mad","miranda","melati","minion","mariana","mahendra","multi","megaways","maleeqq","melyska","monica",
              "nadila","neng","naura","nathaya","nick","nella","neman","novi","nadhine",
              "oun","oscar","otong","over",
              "puput","primus","payton","pura","priyan","prediction","pencari","putranto","priyanti",
@@ -124,7 +124,7 @@ var admin = ["Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia
              "vonny","viona","virna",
              "wahid","wahzo","wok","wndt","wiena",
              "yoky","yasmine","yao","yohana","yaya",
-             "zurro","zefanyaa","zurrotul","zion","zimbabwe"];
+             "zurro","zefanyaa","zurrotul","zion","zimbabwe","zhie"];
 
 var keyword1 = "ROOM"
 var keyword2 = "𝗥𝗢𝗢𝗠"
