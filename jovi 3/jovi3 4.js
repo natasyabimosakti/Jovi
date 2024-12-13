@@ -49,8 +49,8 @@ var Comment9 = '#TOYIBSLOT ( TENOR7 ) : 12*18*54';
 var namagroup10 = 'LING';
 var Comment10 = 'LING77 (TUPAX4) 34*73'; 
 
-var namagroup11 = 'Pasar';
-var Comment11 = 'PAJAKTOTO(TANUR7) : 26*61';
+var namagroup11 = 'TASIKTOTO';
+var Comment11 = '#TASIKTOTO(TANUR7) = 26*61';
 
 var namagroup12 = 'KAGET';
 var Comment12 = 'DAGELAN4D(TIMAX9) : 42*43';
