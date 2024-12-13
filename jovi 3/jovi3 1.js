@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 1
 // @namespace    http://tampermonkey.net/
-// @version      3.31
+// @version      3.32
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/jovi%203/jovi3%201.js?token=GHSAT0AAAAAACVCFJDJT7B6YM63KWUTPFF4ZWTHLWA
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/main/jovi%203/jovi3%201.js?token=GHSAT0AAAAAACVCFJDJT7B6YM63KWUTPFF4ZWTHLWA
@@ -59,7 +59,7 @@ var namagroup13 = 'Wellz';
 var Comment13 = 'SIJITOGEL LKOM6 55*56*82';
 
 var namagroup14 = 'BLITAR';
-var Comment14 = '#BLITAR4D ( LUPWI10 ) : 07*27*37';
+var Comment14 = '#BLITAR4D ( LUPWI10 ) : 07*27';
 
 var namagroup15 = 'RNR';
 var Comment15 = '#RNR303(LKTDM8) : 20*65*80';
