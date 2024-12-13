@@ -49,8 +49,8 @@ var Comment9 = '#TOYIBSLOT ( SIMEX9 ) : 60*77*99';
 var namagroup10 = 'LING';
 var Comment10 = 'LING77 (SENAR0) 11*24'; 
 
-var namagroup11 = 'Pasar';
-var Comment11 = 'PAJAKTOTO(SURTI4) : 33*68'; 
+var namagroup11 = 'TASIKTOTO';
+var Comment11 = '#TASIKTOTO(SURTI4) = 33*68';
 
 var namagroup12 = 'KAGET';
 var Comment12 = 'DAGELAN4D(SAVON7) : 06*22';
