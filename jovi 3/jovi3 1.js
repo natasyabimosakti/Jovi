@@ -49,8 +49,8 @@ var Comment9 = '#TOYIBSLOT ( LOLGS6 ) : 48*74*94';
 var namagroup10 = 'LING';
 var Comment10 = 'LING77 (LPECR3) 31*47'; 
 
-var namagroup11 = 'Pasar';
-var Comment11 = 'PAJAKTOTO(LBZTV2) : 01*41';
+var namagroup11 = 'TASIKTOTO';
+var Comment11 = '#TASIKTOTO(LBZTV2) = 01*41';
 
 var namagroup12 = 'KAGET';
 var Comment12 = 'DAGELAN4D(LJORT6) : 13*16';
