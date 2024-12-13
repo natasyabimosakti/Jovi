@@ -50,8 +50,8 @@ var Comment9 = '#TOYIBSLOT ( C698K3J ) : 13*35*92';
 var namagroup10 = 'LING';
 var Comment10 = 'LING77 (CLOK12) : 05*34';
 
-var namagroup11 = 'Pasar';
-var Comment11 = 'PAJAKTOTO(COMBROT78) : 54*60';
+var namagroup11 = 'TASIKTOTO';
+var Comment11 = '#TASIKTOTO(COMBROT78) = 54*60';
 
 var namagroup12 = 'KAGET';
 var Comment12 = 'DAGELAN4D(CD219KB) : 03*19';
@@ -113,7 +113,7 @@ var admin = ["Siâo","ayesha","aqisya","asyati","andinincy","andy",
              "jovanka","jenifer",
              "karla","kumbara",
              "langit","leaderbrutallovely","laura","lidya","lusiana",
-             "manu","mas har","manu roh","mad rm","mad","monica",
+             "manu","mas har","manu roh","mad rm","mad","monica","mersya",
              "nadila","neng","naura","nathaya","nick","nella","neman","novi","nadhine",
              "oscar","otong",
              "panambang","pram",
