@@ -49,8 +49,8 @@ var Comment9 = '#TOYIBSLOT ( UOUXI2 ) : 02*23*50';
 var namagroup10 = 'LING';
 var Comment10 = 'LING77 (UVXE8) 45*66'; 
 
-var namagroup11 = 'Pasar';
-var Comment11 = 'PAJAKTOTO(UVOAL7) : 08*29';
+var namagroup11 = 'TASIKTOTO';
+var Comment11 = '#TASIKTOTO(UVOAL7) = 08*29';
 
 var namagroup12 = 'KAGET';
 var Comment12 = 'DAGELAN4D(UIOPQ4) : 09*49';
