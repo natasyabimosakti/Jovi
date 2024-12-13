@@ -49,8 +49,8 @@ var Comment9 = '#TOYIBSLOT ( MUNROH6 ) : 10*21*27';
 var namagroup10 = 'LING';
 var Comment10 = 'LING77 (MEMX22) 43*53'; 
 
-var namagroup11 = 'Pasar';
-var Comment11 = 'PAJAKTOTO(MAUSS1) : 30*77';
+var namagroup11 = 'TASIKTOTO';
+var Comment11 = '#TASIKTOTO(MAUSS1) = 30*77';
 
 var namagroup12 = 'KAGET';
 var Comment12 = 'DAGELAN4D(MOMMOK0) : 48*82';
