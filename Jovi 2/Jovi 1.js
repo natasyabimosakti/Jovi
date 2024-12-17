@@ -105,7 +105,7 @@ var admin = ["Siâo","ayesha","aqisya","asyati","andinincy","andy","ardiansyah",
              "boboho","bonar",
              "chikaku",
              "denis","debby","diva","dewa",
-             "erwin",
+             "erwin","eryna",
              "ferlita",
              "gretha","garda",
              "hokii","hoki","har",
@@ -139,8 +139,6 @@ var keyword10 = "𝐑𝐎𝐎𝐌"
 var keyword11 = "HONGKONG"
 var keyword12 = "SINGA"
 var keyword13 = "SYDNEY"
-var keyword14 = "❤️"
-var keyword15 = "Info Daftar"
 
 var Backlist1 = "pemenang lomba";
 var Backlist2 = "rekap";
