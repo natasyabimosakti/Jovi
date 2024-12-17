@@ -69,7 +69,6 @@ var Comment16 = 'CITA4D*MLARATS7*01*39*67';
 
 /*======================================================================3copy tampermonkey==========================================================*/
 
-
 var namagroup17 = 'popok';
 var Comment17 = 'wewe';
 
@@ -103,7 +102,7 @@ var id18 = await GM.getValue(18);
 
 var admin = ["Siâo","ayesha","aqisya","asyati","andinincy","andy","ardiansyah",
              "boboho","bonar",
-             "chikaku",
+             "chikaku","chinostia",
              "denis","debby","diva","dewa",
              "erwin","eryna",
              "ferlita",
@@ -140,6 +139,7 @@ var keyword11 = "HONGKONG"
 var keyword12 = "SINGA"
 var keyword13 = "SYDNEY"
 
+
 var Backlist1 = "pemenang lomba";
 var Backlist2 = "rekap";
 var Backlist3 = "hasil";
@@ -147,7 +147,6 @@ var Backlist4 = "room lomba freebet";
 var Backlist5 = "prediksi";
 var Backlist6 = "result";
 var Backlist7 = "result";
-
 
 var myrefresh = setInterval(function(){
     if (tm == "" || tm == undefined || tm == null) {
@@ -223,7 +222,10 @@ var myInterval = setInterval(function(){
                    ||postingan.textContent.toLowerCase().includes(keyword7.toLowerCase())
                    ||postingan.textContent.toLowerCase().includes(keyword8.toLowerCase())
                    ||postingan.textContent.toLowerCase().includes(keyword9.toLowerCase())
-                   ||postingan.textContent.toLowerCase().includes(keyword10.toLowerCase())){
+                   ||postingan.textContent.toLowerCase().includes(keyword10.toLowerCase())
+                   ||postingan.textContent.toLowerCase().includes(keyword11.toLowerCase())
+                   ||postingan.textContent.toLowerCase().includes(keyword12.toLowerCase())
+                   ||postingan.textContent.toLowerCase().includes(keyword13.toLowerCase())){
                     console.log("Keyword Ditemukan " + postingan.textContent);
                     // Cek Backlist
                     if(postingan.textContent.toLowerCase().includes(Backlist1.toLowerCase())
