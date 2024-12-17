@@ -49,8 +49,8 @@ var Comment9 = '#TOYIBSLOT ( JJWALI5 ) : 04*36*51';
 var namagroup10 = 'LING';
 var Comment10 = 'LING77 (JDJS4) 85*90';
 
-var namagroup11 = 'TASIKTOTO';
-var Comment11 = '#TASIKTOTO(JOKIAD8) = 46*84';
+var namagroup11 = 'JOGJATOTO';
+var Comment11 = '#JOGJATOTO (JOKIAD8)= 46*84';
   
 var namagroup12 = 'KAGET';
 var Comment12 = 'DAGELAN4D(JELONN9) : 38*50';
