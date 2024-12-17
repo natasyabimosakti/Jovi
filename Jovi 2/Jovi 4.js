@@ -49,8 +49,8 @@ var Comment9 = '#TOYIBSLOT ( VOHFX7 ) : 45*55*65';
 var namagroup10 = 'LING';
 var Comment10 = 'LING77 (VNTM57) 28*31';
 
-var namagroup11 = 'TASIKTOTO';
-var Comment11 = '#TASIKTOTO(VGARLA5) = 47*79';
+var namagroup11 = 'JOGJATOTO';
+var Comment11 = '#JOGJATOTO (VGARLA5)= 47-79';
 
 var namagroup12 = 'KAGET';
 var Comment12 = 'DAGELAN4D(VARNOL8) : 03*24';
