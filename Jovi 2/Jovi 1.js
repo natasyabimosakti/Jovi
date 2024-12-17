@@ -140,6 +140,7 @@ var keyword11 = "HONGKONG"
 var keyword12 = "SINGA"
 var keyword13 = "SYDNEY"
 var keyword14 = "❤️"
+var keyword15 = "Info Daftar"
 
 var Backlist1 = "pemenang lomba";
 var Backlist2 = "rekap";
