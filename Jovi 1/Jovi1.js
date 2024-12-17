@@ -51,7 +51,7 @@ var namagroup10 = 'LING';
 var Comment10 = 'LING77 (CLOK12) : 05*34';
 
 var namagroup11 = 'JOGJATOTO';
-var Comment11 = '#TASIKTOTO(COMBROT78) = 54*60';
+var Comment11 = '#JOGJATOTO (COMBROT78)= 54-60';
 
 var namagroup12 = 'KAGET';
 var Comment12 = 'DAGELAN4D(CD219KB) : 03*19';
