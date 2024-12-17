@@ -69,7 +69,6 @@ var Comment16 = 'CITA4D*LQOTP3*36*51*52';
 
 /*======================================================================3copy tampermonkey==========================================================*/
 
-
 var namagroup17 = 'popok';
 var Comment17 = 'wewe';
 
@@ -101,30 +100,30 @@ var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
 
 
-var admin = ["Siâo","aldi","aprilia","alenta","artha","adelia","ananda","aditia","andri","aurel","alde","adm","audi","asmani","andy","ayesha","anggraini","arifin","arga","asnah","aldy","ayunda","aurora","adiatmika","ardiansyah",
-             "brian","boboho","bobby","bonar","bella","bastian","bungaps","budi",
-             "cinta","calvin","celsia","cila","cindy","chintya","carole","celine","chomsiati","corene","cheline","chikaku",
-             "denis","dollar","dewa","dewi","dinda","dika","dea","debby","diva",
-             "echa","erika","elly","eugene","erwin","elmira","eleano","erna","elvina","eviana",
-             "farah","febrian","fiana","farid","fahresa","fatimm",
+var admin = ["Siâo","ayesha","aqisya","asyati","andinincy","andy","ardiansyah",
+             "boboho","bonar",
+             "chikaku","chinostia",
+             "denis","debby","diva","dewa",
+             "erwin","eryna",
+             "ferlita",
              "gretha","garda",
-             "herfizah","hana","hoihai","hefi","habib","harry","hokii","hoki","har",
-             "inisial","intan","icha","irfan","inves",
-             "jhone","jess","jovanka","jenifer","jihan","jesika","je pe","jhing",
-             "kumbara","kemon","katharina","kayla","katty","kendri","kembar","kotna","kiky","kapten","karla","kopi pait",
-             "lehman","lianda","laura","leon","lidya","larissa","leksa","lina","lintangz","lidia","langit","leaderbrutallovely",
-             "manu","mesa","mardia","mila","maes","mad","miranda","melati","minion","mariana","mahendra","multi","megaways","maleeqq","melyska","monica","mersya",
+             "hokii","hoki","har",
+             "inisial","ishaura",
+             "jovanka","jenifer",
+             "karla","kumbara",
+             "langit","leaderbrutallovely","laura","lidya","lusiana",
+             "manu","mas har","manu roh","mad rm","mad","monica","mersya",
              "nadila","neng","naura","nathaya","nick","nella","neman","novi","nadhine",
-             "oun","oscar","otong","over",
-             "puput","primus","payton","pura","priyan","prediction","pencari","putranto","priyanti",
-             "ratu","roy","rendy","ria","ruto","riko","rano","robby","rano","ropiq","robby","rohmanu","rindi",
-             "sanchez","selly","sutanti","siska","safar","sanjaya","san","sandiego","sloter","sinta","slooter","sabrina","salsabila","sintia","sejitu","Syaqeena","saputra","sahara","shell","sundawa",
+             "oscar","otong",
+             "panambang","pram",
+             "rohmanu","rungkad","riko",
+             "sanchez","syaqeena","sundawa","sidebar","sam","saputra","shell",
              "tink","thonex","tiara","tania","tag",
              "ujen",
              "vonny","viona","virna",
-             "wahid","wahzo","wok","wndt","wiena",
-             "yoky","yasmine","yao","yohana","yaya",
-             "zurro","zefanyaa","zurrotul","zion","zimbabwe","zhie"];
+             "wijaya",
+             "yoky","yaya",
+             "zion","zhelonk","zimbabwe","zhie"];
 
 var keyword1 = "ROOM"
 var keyword2 = "𝗥𝗢𝗢𝗠"
@@ -139,7 +138,7 @@ var keyword10 = "𝐑𝐎𝐎𝐌"
 var keyword11 = "HONGKONG"
 var keyword12 = "SINGA"
 var keyword13 = "SYDNEY"
-var keyword14 = "❤️"
+
 
 var Backlist1 = "pemenang lomba";
 var Backlist2 = "rekap";
@@ -148,7 +147,6 @@ var Backlist4 = "room lomba freebet";
 var Backlist5 = "prediksi";
 var Backlist6 = "result";
 var Backlist7 = "result";
-
 
 var myrefresh = setInterval(function(){
     if (tm == "" || tm == undefined || tm == null) {
@@ -224,7 +222,10 @@ var myInterval = setInterval(function(){
                    ||postingan.textContent.toLowerCase().includes(keyword7.toLowerCase())
                    ||postingan.textContent.toLowerCase().includes(keyword8.toLowerCase())
                    ||postingan.textContent.toLowerCase().includes(keyword9.toLowerCase())
-                   ||postingan.textContent.toLowerCase().includes(keyword10.toLowerCase())){
+                   ||postingan.textContent.toLowerCase().includes(keyword10.toLowerCase())
+                   ||postingan.textContent.toLowerCase().includes(keyword11.toLowerCase())
+                   ||postingan.textContent.toLowerCase().includes(keyword12.toLowerCase())
+                   ||postingan.textContent.toLowerCase().includes(keyword13.toLowerCase())){
                     console.log("Keyword Ditemukan " + postingan.textContent);
                     // Cek Backlist
                     if(postingan.textContent.toLowerCase().includes(Backlist1.toLowerCase())
