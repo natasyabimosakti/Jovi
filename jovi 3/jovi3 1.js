@@ -27,7 +27,7 @@ var Comment2 = 'K86TOTO ( LNLY8 ) : 48*74*94';
 
 var namagroup3 = 'PUSAT LOMBA';
 var Comment3 = 'Shiotogel4d (LIKOP1) 36*51*52';
-// @version      3.NaN
+
 var namagroup4 = 'NEMO';
 var Comment4 = 'Nemo4d (LJORT6) : 31*47*59';
 
