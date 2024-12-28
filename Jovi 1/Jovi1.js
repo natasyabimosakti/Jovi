@@ -71,10 +71,10 @@ var Comment16 = 'CITA4D*CYUCUKBERUK*32*42*91';
 /*======================================================================3copy tampermonkey==========================================================*/
 
 var namagroup17 = 'Jawatengah';
-var Comment17 = 'fb 1 line 1';
+var Comment17 = 'tab 1 line1';
 
 var namagroup18 = 'colt';
-var Comment18 = 'fb 1 line 1';
+var Comment18 = 'tab 1 line1';
 
 var refresh = 40;
 var d = new Date();
