@@ -74,7 +74,7 @@ var namagroup17 = 'Jawatengah';
 var Comment17 = 'tab 1 line2';
 
 var namagroup18 = 'colt';
-var Comment18 = 'tab 1 line2;
+var Comment18 = 'tab 1 line2';
 
 var refresh = 40;
 var d = new Date();
