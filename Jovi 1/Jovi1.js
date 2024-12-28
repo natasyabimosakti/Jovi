@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 1
 // @namespace    http://tampermonkey.net/
-// @version      3.56
+// @version      3.57
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL  	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/Jovi%201/Jovi1.js
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/Jovi%201/Jovi1.js
@@ -70,11 +70,11 @@ var Comment16 = 'CITA4D*CYUCUKBERUK*32*42*91';
 
 /*======================================================================3copy tampermonkey==========================================================*/
 
-var namagroup17 = 'popok';
-var Comment17 = 'wewe';
+var namagroup17 = 'Jawatengah';
+var Comment17 = 'fb 1 line 1';
 
 var namagroup18 = 'colt';
-var Comment18 = 'wewe';
+var Comment18 = 'fb 1 line 1';
 
 var refresh = 40;
 var d = new Date();
@@ -101,7 +101,7 @@ var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
 
 
-var admin = ["Siâo","ayesha","aqisya","asyati","andinincy","andy","ardiansyah",
+var admin = ["Siâo","nabila","ayesha","aqisya","asyati","andinincy","andy","ardiansyah",
              "boboho","bonar",
              "chikaku","chinostia",
              "denis","debby","diva","dewa",
