@@ -41,7 +41,7 @@ var Comment6 = '#DIVA4D (CEBOLL68) = 29*66*83';
 var namagroup7 = 'MAYAPADA';
 var Comment7 = 'BETT*SingasariTOTO(BO)*CHDZ62V81*54*60*97';
 
-var namagroup8 = 'ALLPAS';
+var namagroup8 = '𝐀𝐋𝐋𝐏𝐀𝐒';
 var Comment8 = 'Tok99Toto ( CUKILS2 ) : 02*15*68'; 
 
 var namagroup9 = 'TOYIBSLOT';
