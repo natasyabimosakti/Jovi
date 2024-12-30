@@ -70,10 +70,10 @@ var Comment16 = 'CITA4D*UMBFH5*10*19*39';
 /*======================================================================3copy tampermonkey==========================================================*/
 
 var namagroup17 = 'Jawatengah';
-var Comment17 = 'Jivi3 2';
+var Comment17 = 'tab 3 line2';
 
 var namagroup18 = 'colt';
-var Comment18 = 'wewe';
+var Comment18 = 'tab 3 line2';
 
 var refresh = 40;
 var d = new Date();
