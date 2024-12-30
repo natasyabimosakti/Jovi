@@ -41,7 +41,7 @@ var Comment6 = '#DIVA4D (DABI17) = 43*58*79';
 var namagroup7 = 'MAYAPADA';
 var Comment7 = 'BETT*SingasariTOTO(BO)*D78HKI*17*81*84';
 
-var namagroup8 = 'ALLPAS';
+var namagroup8 = '𝐀𝐋𝐋𝐏𝐀𝐒';
 var Comment8 = 'Tok99Toto ( DDUKOL5 ) : 26*61*72';
 
 var namagroup9 = 'TOYIBSLOT';
