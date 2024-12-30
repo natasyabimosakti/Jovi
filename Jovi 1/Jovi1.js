@@ -101,7 +101,7 @@ var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
 
 
-var admin = ["Siâo","nabila","ayesha","aqisya","asyati","andinincy","andy","ardiansyah",
+var admin = ["Siâo","nabila","ayesha","aqisya","asyati","andinincy","andy","ardiansyah","arsyah",
              "boboho","bonar",
              "chikaku","chinostia",
              "denis","debby","diva","dewa",
@@ -122,7 +122,7 @@ var admin = ["Siâo","nabila","ayesha","aqisya","asyati","andinincy","andy","ard
              "tink","thonex","tiara","tania","tag",
              "ujen",
              "vonny","viona","virna",
-             "wijaya",
+             "wijaya","widya",
              "yoky","yaya",
              "zion","zhelonk","zimbabwe","zhie"];
 
