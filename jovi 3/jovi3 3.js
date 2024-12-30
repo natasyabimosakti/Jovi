@@ -40,7 +40,7 @@ var Comment6 = '#DIVA4D (SYMON2) = 04*30*93';
 var namagroup7 = 'MAYAPADA';
 var Comment7 = 'BETT*SingasariTOTO(BO)*SORANG8*67*76*78';
 
-var namagroup8 = 'ALLPAS';
+var namagroup8 = '𝐀𝐋𝐋𝐏𝐀𝐒';
 var Comment8 = 'Tok99Toto ( SIVAX5 ) : 06*22*91';
 
 var namagroup9 = 'TOYIBSLOT';
