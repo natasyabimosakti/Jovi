@@ -117,7 +117,7 @@ var admin = ["Siâo","nabila","ayesha","aqisya","asyati","andinincy","andy","ard
              "oscar","otong",
              "panambang","pram",
              "rohmanu","rungkad","riko",
-             "sanchez","syaqeena","sundawa","sidebar","sam","saputra","shell",
+             "sanchez","syaqeena","sundawa","sidebar","sam","saputra","shell","suzanawati",
              "tink","thonex","tiara","tania","tag",
              "ujen",
              "vonny","viona","virna",
