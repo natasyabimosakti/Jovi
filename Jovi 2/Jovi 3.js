@@ -40,7 +40,7 @@ var Comment6 = '#DIVA4D (JHEO24) = 20*25*32';
 var namagroup7 = 'MAYAPADA';
 var Comment7 = 'BETT*SingasariTOTO(BO)*JVIVI6*46*84*96';
 
-var namagroup8 = 'ALLPAS';
+var namagroup8 = '𝐀𝐋𝐋𝐏𝐀𝐒';
 var Comment8 = 'Tok99Toto ( JXUPING8 ) : 04*36*51';
 
 var namagroup9 = 'TOYIBSLOT';
