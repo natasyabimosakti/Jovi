@@ -41,7 +41,7 @@ var Comment6 = '#DIVA4D (BADJING30) = 36*56*82';
 var namagroup7 = 'MAYAPADA';
 var Comment7 = 'BETT*SingasariTOTO(BO)*B430JH62*12*44*45';
 
-var namagroup8 = 'ALLPAS';
+var namagroup8 = '𝐀𝐋𝐋𝐏𝐀𝐒';
 var Comment8 = 'Tok99Toto ( BHYPOK7 ) : 46*47*62'; 
 
 var namagroup9 = 'TOYIBSLOT';
