@@ -40,7 +40,7 @@ var Comment6 = '#DIVA4D (TRUKKS4) = 09*29*66';
 var namagroup7 = 'MAYAPADA';
 var Comment7 = 'BETT*SingasariTOTO(BO)*TSUKMA3*02*40*54'; 
 
-var namagroup8 = 'ALLPAS';
+var namagroup8 = '𝐀𝐋𝐋𝐏𝐀𝐒';
 var Comment8 = 'Tok99Toto ( TCUKE2 ) : 13*16*42';
 
 var namagroup9 = 'TOYIBSLOT';
