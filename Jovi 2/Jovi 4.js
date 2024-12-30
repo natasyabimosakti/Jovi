@@ -40,7 +40,7 @@ var Comment6 = '#DIVA4D (VTOPA7) = 08*68*74';
 var namagroup7 = 'MAYAPADA';
 var Comment7 = 'BETT*SingasariTOTO(BO)*VJVON0*47*79*86';
 
-var namagroup8 = 'ALLPAS';
+var namagroup8 = '𝐀𝐋𝐋𝐏𝐀𝐒';
 var Comment8 = 'Tok99Toto ( VODEX1 ) : 45*55*65';
 
 var namagroup9 = 'TOYIBSLOT';
