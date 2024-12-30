@@ -40,7 +40,7 @@ var Comment6 = '#DIVA4D (LLGLM6) = 55*56*82';
 var namagroup7 = 'MAYAPADA';
 var Comment7 = 'BETT*SingasariTOTO(BO)*LMKMI4*07*27*37';
 
-var namagroup8 = 'ALLPAS';
+var namagroup8 = '𝐀𝐋𝐋𝐏𝐀𝐒';
 var Comment8 = 'Tok99Toto ( LOPXE2 ) : 13*16*46';
 
 var namagroup9 = 'TOYIBSLOT';
