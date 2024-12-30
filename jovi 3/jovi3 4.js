@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 4
 // @namespace    http://tampermonkey.net/
-// @version      3.36
+// @version      3.37
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/jovi%203/jovi3%204.js
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/jovi%203/jovi3%204.js
@@ -31,8 +31,8 @@ var Comment3 = 'Shiotogel4d (TIBAX7) 15*81*84';
 var namagroup4 = 'NEMO';
 var Comment4 = 'Nemo4d (TIMAX9) : 34*73*85';
 
-var namagroup5 = '(WARTO)';
-var Comment5 = '#(WARUNGTOTO) = (TAVIX6) 17*44*79';
+var namagroup5 = 'LICIN4D';
+var Comment5 = '#LICIN4D (TAVIX6) 17*44*79';
 
 var namagroup6 = 'DIVA4D';
 var Comment6 = '#DIVA4D (TOMEX2) = 03*35*98';
@@ -70,10 +70,10 @@ var Comment16 = 'CITA4D*TULANG6*15*81*84';
 /*======================================================================3copy tampermonkey==========================================================*/
 
 var namagroup17 = 'Jawatengah';
-var Comment17 = 'Jivi3 4';
+var Comment17 = 'tab 3 line4';
 
 var namagroup18 = 'colt';
-var Comment18 = 'wewe';
+var Comment18 = 'tab 3 line4';
 
 var refresh = 40;
 var d = new Date();
@@ -100,7 +100,7 @@ var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
 
 
-var admin = ["Siâo","ayesha","aqisya","asyati","andinincy","andy","ardiansyah","nabila",
+var admin = ["Siâo","ayesha","aqisya","asyati","andinincy","andy","ardiansyah","nabila","arsyah",
              "boboho","bonar",
              "chikaku","chinostia",
              "denis","debby","diva","dewa",
@@ -121,7 +121,7 @@ var admin = ["Siâo","ayesha","aqisya","asyati","andinincy","andy","ardiansyah",
              "tink","thonex","tiara","tania","tag",
              "ujen",
              "vonny","viona","virna",
-             "wijaya",
+             "wijaya","widya",
              "yoky","yaya",
              "zion","zhelonk","zimbabwe","zhie"];
 
