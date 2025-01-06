@@ -26,7 +26,7 @@ var Comment1 = 'B7HA9DD : 08*41*88 #HOHOTOGEL';
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( BBQISI22 ) : 10*65*73';  
 
-var namagroup3 = 'PUSAT LOMBA';
+var namagroup3 = '(WARTO)';
 var Comment3 = 'Shiotogel4d (BAJILAK66) 27*76*90';
 
 var namagroup4 = 'NEMO';
