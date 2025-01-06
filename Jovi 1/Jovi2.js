@@ -26,8 +26,8 @@ var Comment1 = 'DC78V9A : 38*53*87 #HOHOTOGEL';
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( DGMSBR66 ) : 06*11*94';
 
-var namagroup3 = 'PUSAT LOMBA';
-var Comment3 = 'Shiotogel4d (DUMBASH8) 23*24*71';
+var namagroup3 = '(WARTO)';
+var Comment3 = '#(WARUNGTOTO) = (DJANCUK8) 23*24*71';
 
 var namagroup4 = 'NEMO';
 var Comment4 = 'Nemo4d (DKL32B) : 20*49*64';
