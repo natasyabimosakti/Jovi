@@ -60,7 +60,7 @@ var namagroup13 = 'Wellz';
 var Comment13 = 'SIJITOGEL CKZLT1 29*66*83';
 
 var namagroup14 = 'BLITAR';
-var Comment14 = '#BLITAR4D ( CEB689B ) : 01*30';
+var Comment14 = '#BLITAR4D (CEB689B) = 01*30';
 
 var namagroup15 = 'BENIHTOTO';
 var Comment15 = '#BENIHTOTO(CEYENGG6) : 02*15*68';
