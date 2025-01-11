@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 3
 // @namespace    http://tampermonkey.net/
-// @version      3.43
+// @version      3.44
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/jovi%203/jovi3%203.js
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/jovi%203/jovi3%203.js
@@ -225,8 +225,7 @@ var myInterval = setInterval(function(){
                    ||postingan.textContent.toLowerCase().includes(keyword10.toLowerCase())
                    ||postingan.textContent.toLowerCase().includes(keyword11.toLowerCase())
                    ||postingan.textContent.toLowerCase().includes(keyword12.toLowerCase())
-                   ||postingan.textContent.toLowerCase().includes(keyword13.toLowerCase())
-                   ||postingan.textContent.toLowerCase().includes(keyword14.toLowerCase())){
+                   ||postingan.textContent.toLowerCase().includes(keyword13.toLowerCase())){
                     console.log("Keyword Ditemukan " + postingan.textContent);
                     // Cek Backlist
                     if(postingan.textContent.toLowerCase().includes(Backlist1.toLowerCase())
