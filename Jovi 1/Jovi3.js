@@ -29,7 +29,7 @@ var Comment2 = 'K86TOTO ( BBQISI22 ) : 10*65*73';
 var namagroup3 = '(WARTO)';
 var Comment3 = '#(WARUNGTOTO) = (BUDJANG3) 27*76*90';
 
-var namagroup4 = 'NEMO';
+var namagroup4 = 'Nemo4d';
 var Comment4 = 'Nemo4d (BKL5FCC) : 51*52*69';
 
 var namagroup5 = 'LICIN4D';
@@ -106,7 +106,7 @@ var admin = ["Siâo","nabila","ayesha","aqisya","asyati","andinincy","andy","ard
              "chikaku","chinostia",
              "denis","debby","diva","dewa",
              "erwin","eryna",
-             "ferlita",
+             "ferlita","fillea",
              "gretha","garda",
              "hokii","hoki","har",
              "inisial","ishaura",
