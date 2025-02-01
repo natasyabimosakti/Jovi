@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 2
 // @namespace    http://tampermonkey.net/
-// @version      3.48
+// @version      3.49
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/jovi%203/jovi3%202.js
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/jovi%203/jovi3%202.js
@@ -52,8 +52,8 @@ var Comment10 = 'LING77 (UVXE8) 45*66';
 var namagroup11 = 'JOGJATOTO';
 var Comment11 = '#JOGJATOTO (UVOAL7)= 08-29';
 
-var namagroup12 = 'KAGET';
-var Comment12 = 'DAGELAN4D(UIOPQ4) : 09*49';
+var namagroup12 = 'TARUNG';
+var Comment12 = '#TARUNGTOTO (UIOPQ4)=09_49';
 
 var namagroup13 = 'Wellz';
 var Comment13 = 'SIJITOGEL UAJY86 05*21*58';
@@ -61,8 +61,8 @@ var Comment13 = 'SIJITOGEL UAJY86 05*21*58';
 var namagroup14 = 'BLITAR';
 var Comment14 = '#BLITAR4D (UWZWA1) = 40*63';
 
-var namagroup15 = 'BENIHTOTO';
-var Comment15 = '#BENIHTOTO(UZQLX1) : 14*28*87';
+var namagroup15 = 'PEDRO';
+var Comment15 = '#PEDRO4D (UZQLX1*14*28*87)';
 
 var namagroup16 = 'KECERDASAN';
 var Comment16 = 'CITA4D*UMBFH5*10*19*39';
@@ -99,7 +99,7 @@ var id16 = await GM.getValue(16);
 var id17 = await GM.getValue(17);
 var id18 = await GM.getValue(18);
 
-var admin = ["Siâo","nabila","ayesha","aqisya","asyati","andinincy","andy","ardiansyah","arsyah",
+var admin = ["Siâo","nabila","ayesha","aqisya","asyati","andinincy","andy","ardiansyah","arsyah","azahra",
              "boboho","bonar",
              "chikaku","chinostia",
              "denis","debby","diva","dewa",
