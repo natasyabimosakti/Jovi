@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 2
 // @namespace    http://tampermonkey.net/
-// @version      3.49
+// @version      3.50
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/jovi%203/jovi3%202.js
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/jovi%203/jovi3%202.js
@@ -139,6 +139,7 @@ var keyword11 = "HONGKONG"
 var keyword12 = "SINGA"
 var keyword13 = "SYDNEY"
 
+
 var Backlist1 = "pemenang lomba";
 var Backlist2 = "rekap";
 var Backlist3 = "hasil";
@@ -146,6 +147,7 @@ var Backlist4 = "room lomba freebet";
 var Backlist5 = "prediksi";
 var Backlist6 = "result";
 var Backlist7 = "result";
+var Backlist8 = "totomacau";
 
 var jitter = 0
 var Cutter = 0
@@ -193,7 +195,8 @@ var myrefresh = setInterval(function(){
                        ||postingan.textContent.toLowerCase().includes(Backlist4.toLowerCase())
                        ||postingan.textContent.toLowerCase().includes(Backlist5.toLowerCase())
                        ||postingan.textContent.toLowerCase().includes(Backlist6.toLowerCase())
-                       ||postingan.textContent.toLowerCase().includes(Backlist7.toLowerCase())){
+                       ||postingan.textContent.toLowerCase().includes(Backlist7.toLowerCase())
+                       ||postingan.textContent.toLowerCase().includes(Backlist8.toLowerCase())){
                         console.log("Terdaftar Backlist...!  ");
                         return;
                     }
