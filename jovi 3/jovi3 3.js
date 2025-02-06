@@ -105,7 +105,7 @@ var admin = ["Siâo","nabila","ayesha","aqisya","asyati","andinincy","andy","ard
              "denis","debby","diva","dewa",
              "erwin","eryna","erlangga",
              "ferlita","fillea",
-             "gretha","garda",
+             "gretha","garda","givano",
              "hokii","hoki","har",
              "inisial","ishaura",
              "jovanka","jenifer",
