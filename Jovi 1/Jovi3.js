@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 3
 // @namespace    http://tampermonkey.net/
-// @version      3.69
+// @version      3.70
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/Jovi%201/Jovi3.js
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/Jovi%201/Jovi3.js
@@ -118,7 +118,7 @@ var admin = ["Siâo","nabila","ayesha","aqisya","asyati","andinincy","andy","ard
              "oscar","otong",
              "panambang","pram","pengurus",
              "rohmanu","rungkad","riko",
-             "sanchez","syaqeena","sundawa","sidebar","sam","saputra","shell","suzanawati",
+             "sanchez","syaqeena","sundawa","sidebar","sam","saputra","shell","suzanawati","sahara",
              "tink","thonex","tiara","tania","tag",
              "ujen",
              "vonny","viona","virna",
