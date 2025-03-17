@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 1
 // @namespace    http://tampermonkey.net/
-// @version      3.54
+// @version      3.55
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/jovi%203/jovi3%201.js
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/jovi%203/jovi3%201.js
@@ -49,8 +49,8 @@ var Comment9 = '#TOYIBSLOT ( LOLGS6 ) : 48*74*94';
 var namagroup10 = 'LING';
 var Comment10 = 'LING77 (LPECR3) 31*47'; 
 
-var namagroup11 = 'JOGJATOTO';
-var Comment11 = '#JOGJATOTO (LBZTV2)= 01-41';
+var namagroup11 = 'TEMPAT';
+var Comment11 = '#AMAVI5D ( LBZTV2 ) : 01*41*62';
 
 var namagroup12 = 'TARUNG';
 var Comment12 = '#TARUNGTOTO (LJORT6)=13*16';
@@ -116,7 +116,7 @@ var admin = ["Siâo","nabila","ayesha","aqisya","asyati","andinincy","andy","ard
              "oscar","otong",
              "panambang","pram","pengurus",
              "rohmanu","rungkad","riko",
-             "sanchez","syaqeena","sundawa","sidebar","sam","saputra","shell","suzanawati","sahara",
+             "sanchez","syaqeena","sundawa","sidebar","sam","saputra","shell","suzanawati","sahara","sintya",
              "tink","thonex","tiara","tania","tag",
              "ujen",
              "vonny","viona","virna",
