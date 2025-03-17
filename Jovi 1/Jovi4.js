@@ -50,8 +50,8 @@ var Comment9 = '#TOYIBSLOT ( A8JKD329 ) : 28*75*96';
 var namagroup10 = 'LING';
 var Comment10 = 'LING77 (BVNR45) 25*57';
 
-var namagroup11 = 'JOGJATOTO';
-var Comment11 = '#JOGJATOTO (ANKCNDA96)= 37-93';
+var namagroup11 = 'TEMPAT';
+var Comment11 = '#AMAVI5D ( ANKCNDA96 ) : 37*93*98';
 
 var namagroup12 = 'TARUNG';
 var Comment12 = '#TARUNGTOTO (AKP3200)=09_48';
