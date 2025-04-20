@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 3
 // @namespace    http://tampermonkey.net/
-// @version      3.59
+// @version      3.60
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/jovi%203/jovi3%203.js
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/jovi%203/jovi3%203.js
@@ -52,8 +52,8 @@ var Comment10 = 'LING77 (SENAR0) 11*24';
 var namagroup11 = 'AMAVI5D';
 var Comment11 = '#AMAVI5D ( SURTI4 ) : 33*68*96';
 
-var namagroup12 = 'TARUNG';
-var Comment12 = '#TARUNGTOTO (SAVON7)=06_22';
+var namagroup12 = 'KASTOTO';
+var Comment12 = '#KASTOTO(SAVON7) = 06*22*91 #AGENTOGELTERPERCAYA';
 
 var namagroup13 = 'TAFSIR';
 var Comment13 = 'SIJITOGEL SLURS3 04*30*93';
@@ -111,7 +111,7 @@ var admin = ["Siâo","nabila","ayesha","aqisya","asyati","andinincy","andy","ard
              "jovanka","jenifer",
              "karla","kumbara",
              "langit","leaderbrutallovely","laura","lidya","lusiana",
-             "manu","mas har","manu roh","mad rm","mad","monica","mersya",
+             "manu","mas har","manu roh","mad rm","mad","monica","mersya","maley",
              "nadila","neng","naura","nathaya","nick","nella","neman","novi","nadhine",
              "oscar","otong",
              "panambang","pram","pengurus",
