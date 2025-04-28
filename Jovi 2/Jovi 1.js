@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 1
 // @namespace    http://tampermonkey.net/
-// @version      3.34
+// @version      3.35
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/Jovi%202/Jovi%201.jsA
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/Jovi%202/Jovi%201.js
@@ -46,8 +46,8 @@ var Comment8 = 'Tok99Toto ( MHGUA2 ) : 10*21*27';
 var namagroup9 = 'TOYIBSLOT';
 var Comment9 = '#TOYIBSLOT ( MUNROH6 ) : 10*21*27';
 
-var namagroup10 = 'LING';
-var Comment10 = 'LING77 (MEMX22) 43*53'; 
+var namagroup10 = 'RIATOTO';
+var Comment10 = '#RIATOTO MEMX22 = 43*53*60';
 
 var namagroup11 = 'AMAVI5D';
 var Comment11 = '#AMAVI5D ( MAUSS1 ) : 30*77*80';
@@ -103,7 +103,7 @@ var id18 = await GM.getValue(18);
 var admin = ["Siâo","nabila","ayesha","aqisya","asyati","andinincy","andy","ardiansyah","arsyah","azahra","aurora","anisa",
              "boboho","bonar","Bogard",
              "chikaku","chinostia",
-             "denis","debby","diva","dewa","done",
+             "denis","debby","diva","dewa","done","damara",
              "erwin","eryna","erlangga",
              "ferlita","fillea",
              "gretha","garda","givano",
@@ -113,7 +113,7 @@ var admin = ["Siâo","nabila","ayesha","aqisya","asyati","andinincy","andy","ard
              "karla","kumbara",
              "langit","leaderbrutallovely","laura","lidya","lusiana",
              "manu","mas har","manu roh","mad rm","mad","monica","mersya","maley",
-             "nadila","neng","naura","nathaya","nick","nella","neman","novi","nadhine",
+             "nadila","neng","naura","nathaya","nick","nella","neman","novi","nadhine","new9eneration",
              "oscar","otong",
              "panambang","pram","pengurus",
              "rohmanu","rungkad","riko","ratuliu",
