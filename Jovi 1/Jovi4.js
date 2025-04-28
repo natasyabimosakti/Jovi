@@ -123,7 +123,7 @@ var admin = ["Siâo","nabila","ayesha","aqisya","asyati","andinincy","andy","ard
              "sanchez","syaqeena","sundawa","sidebar","sam","saputra","shell","suzanawati","sahara","sintya","sellia",
              "tink","thonex","tiara","tania","tag",
              "ujen",
-             "vonny","viona","virna",
+             "vonny","viona","virna","valencia",
              "wijaya","widya","wijaya",
              "yoky","yaya",
              "zion","zhelonk","zimbabwe","zhie"];
