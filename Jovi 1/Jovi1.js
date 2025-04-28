@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 1
 // @namespace    http://tampermonkey.net/
-// @version      3.79
+// @version      3.80
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL  	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/Jovi%201/Jovi1.js
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/Jovi%201/Jovi1.js
@@ -47,8 +47,8 @@ var Comment8 = 'Tok99Toto ( CUKILS2 ) : 02*15*68';
 var namagroup9 = 'TOYIBSLOT';
 var Comment9 = '#TOYIBSLOT ( C698K3J ) : 13*35*92';
 
-var namagroup10 = 'LING';
-var Comment10 = 'LING77 (CLOK12) : 05*34';
+var namagroup10 = 'RIATOTO';
+var Comment10 = '#RIATOTO CLOK12 = 05*34*40';
 
 var namagroup11 = 'AMAVI5D';
 var Comment11 = '#AMAVI5D ( COMBROT78 ) : 54*60*97';
@@ -105,7 +105,7 @@ var refresh = 40;
 var admin = ["Siâo","nabila","ayesha","aqisya","asyati","andinincy","andy","ardiansyah","arsyah","azahra","aurora","anisa",
              "boboho","bonar","Bogard",
              "chikaku","chinostia",
-             "denis","debby","diva","dewa","done",
+             "denis","debby","diva","dewa","done","damara",
              "erwin","eryna","erlangga",
              "ferlita","fillea",
              "gretha","garda","givano",
@@ -115,7 +115,7 @@ var admin = ["Siâo","nabila","ayesha","aqisya","asyati","andinincy","andy","ard
              "karla","kumbara",
              "langit","leaderbrutallovely","laura","lidya","lusiana",
              "manu","mas har","manu roh","mad rm","mad","monica","mersya","maley",
-             "nadila","neng","naura","nathaya","nick","nella","neman","novi","nadhine",
+             "nadila","neng","naura","nathaya","nick","nella","neman","novi","nadhine","new9eneration",
              "oscar","otong",
              "panambang","pram","pengurus",
              "rohmanu","rungkad","riko","ratuliu",
