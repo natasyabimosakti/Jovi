@@ -99,7 +99,7 @@ var adminList = ["Siâo","nabila","ayesha","aqisya","asyati","andinincy","andy",
              "tink","thonex","tiara","tania","tag",
              "ujen",
              "vonny","viona","virna","valencia",
-             "wijaya","widya","wijaya","wawan",
+             "wijaya","widya","wijaya",
              "yoky","yaya",
              "zion","zhelonk","zimbabwe","zhie"];
 
