@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 3
 // @namespace    http://tampermonkey.net/
-// @version      3.64
+// @version      3.65
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/jovi%203/jovi3%203.js
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/jovi%203/jovi3%203.js
@@ -49,8 +49,8 @@ var Comment9 = '#TOYIBSLOT ( SIMEX9 ) : 60*77*99';
 var namagroup10 = 'RIATOTO';
 var Comment10 = '#RIATOTO SENAR0 = 11*24*69';
 
-var namagroup11 = 'AMAVI5D';
-var Comment11 = '#AMAVI5D ( SURTI4 ) : 33*68*96';
+var namagroup11 = 'Moveon8';
+var Comment11 = '# ( SURTI4 ) : 33*68*96';
 
 var namagroup12 = 'OPUNG';
 var Comment12 = 'OPUNG4D ( SAVON7 ) : 06*22*91';
@@ -64,8 +64,8 @@ var Comment14 = '#BLITAR4D (SIGRA1) = 67*76';
 var namagroup15 = 'PEDRO';
 var Comment15 = '#PEDRO4D (SAPIX6*00*83*92)';
 
-var namagroup16 = 'KECERDASAN';
-var Comment16 = 'CITA4D*SOTAR6*32*75*95';
+var namagroup16 = 'GTO';
+var Comment16 = '(GUDANGTOTO) = (SOTAR6) 32*75*95';
 
 /*======================================================================3copy tampermonkey==========================================================*/
 
@@ -78,9 +78,9 @@ var Comment18 = 'tab 3 line3';
 
 var refresh = 40;
 
-var adminList = ["Siâo","nabila","ayesha","aqisya","asyati","andinincy","andy","ardiansyah","arsyah","azahra","aurora","anisa",
-             "boboho","bonar","Bogard",
-             "chikaku","chinostia",
+var adminList = ["Siâo","nabila","ayesha","aqisya","asyati","andinincy","andy","ardiansyah","arsyah","azahra","aurora","anisa","amelia",
+             "boboho","bonar","Bogard","ban nee",
+             "chikaku","chinostia","chaow",
              "denis","debby","diva","dewa","done","damara",
              "erwin","eryna","erlangga",
              "ferlita","fillea",
@@ -93,14 +93,14 @@ var adminList = ["Siâo","nabila","ayesha","aqisya","asyati","andinincy","andy",
              "manu","mas har","manu roh","mad rm","mad","monica","mersya","maley","megaways",
              "nadila","neng","naura","nathaya","nick","nella","neman","novi","nadhine","new9eneration",
              "oscar","otong",
-             "panambang","pram","pengurus",
+             "panambang","pram","pengurus","payung","pertama",
              "rohmanu","rungkad","riko","ratuliu",
              "sanchez","syaqeena","sundawa","sidebar","sam","saputra","shell","suzanawati","sahara","sintya","sellia",
              "tink","thonex","tiara","tania","tag",
              "ujen",
              "vonny","viona","virna","valencia",
-             "wijaya","widya","wijaya",
-             "yoky","yaya",
+             "wijaya","widya","wijaya","wawan",
+             "yoky","yaya","yansah",
              "zion","zhelonk","zimbabwe","zhie"];
 
 
