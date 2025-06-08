@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 1
 // @namespace    http://tampermonkey.net/
-// @version      3.84
+// @version      3.85
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL  	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/Jovi%201/Jovi1.js
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/Jovi%201/Jovi1.js
@@ -87,7 +87,7 @@ var Comment18 = 'asek';
 
 
 var refresh = 40;
-var URLADMIN = "https://raw.githubusercontent.com/natasyabimosakti/ADMIN/main/Admin_group_Jovi_123.json"
+var URLADMIN = "https://raw.githubusercontent.com/natasyabimosakti/ADMIN/refs/heads/main/Admin_Jovi_123.json"
 var keyword = ["ROOM","𝗥𝗢𝗢𝗠","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","login","𝐑𝐎𝐎𝐌","HONGKONG","SINGAPUR","nemo"]
 var Backlist =["pemenang lomba","rekap","natidulu","room lomba freebet","prediksi","result","juara lomba"]
 var isCommenting = false;
