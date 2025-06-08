@@ -28,7 +28,7 @@ var Comment2 = 'K86TOTO ( TUTUKI9 ) : 19*69*81';
 var namagroup3 = '(WARTO)';
 var Comment3 = '#(WARUNGTOTO) = (TROMOL1) 56*61*73';
 
-var namagroup4 = 'Nemo4d';
+var namagroup4 = 'NEMO4D';
 var Comment4 = 'Nemo4d (TDEREK8) : 00*41*94';
 
 var namagroup5 = 'INTERNASIONAL';
