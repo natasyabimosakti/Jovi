@@ -28,7 +28,7 @@ var Comment2 = 'K86TOTO ( MUKEL3 ) : 48*82*89';
 var namagroup3 = '(WARTO)';
 var Comment3 = '#(WARUNGTOTO) = (MUKBER2) 17*23*49';
 
-var namagroup4 = 'Nemo4d';
+var namagroup4 = 'NEMO4D';
 var Comment4 = 'Nemo4d (MOMMOK0) : 01*67*88';
 
 var namagroup5 = 'INTERNASIONAL';
