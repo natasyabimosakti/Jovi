@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 1
 // @namespace    http://tampermonkey.net/
-// @version      3.43
+// @version      3.44
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/Jovi%202/Jovi%201.jsA
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/Jovi%202/Jovi%201.js
@@ -53,7 +53,7 @@ var namagroup10 = 'RIATOTO';
 var Comment10 = '#RIATOTO MEMX22 = 43*53*60';
 
 var namagroup11 = 'Moveon8';
-var Comment11 = '# ( MAUSS1 ) : 30*77*80';
+var Comment11 = '# ( MAUSS1 ) : 30*77';
 
 var namagroup12 = 'OPUNG';
 var Comment12 = 'OPUNG4D ( MOMMOK0 ) : 48*82*89';
