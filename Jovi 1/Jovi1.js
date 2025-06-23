@@ -78,14 +78,6 @@ var Comment17 = 'tab 1 line1';
 var namagroup18 = 'colt';
 var Comment18 = 'tab 1 line1';
 
-
-var namagroup17 = 'Jawatengah';
-var Comment17 = 'Baru Sampo 1';
-
-var namagroup18 = 'lajw';
-var Comment18 = 'asek';
-
-
 var refresh = 40;
 var URLADMIN = "https://raw.githubusercontent.com/natasyabimosakti/ADMIN/refs/heads/main/Admin_Jovi_123.json"
 var keyword = ["ROOM","𝗥𝗢𝗢𝗠","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","login","𝐑𝐎𝐎𝐌","HONGKONG","SINGAPUR","nemo"]
