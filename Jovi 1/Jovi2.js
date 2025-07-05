@@ -31,7 +31,7 @@ var Comment2 = 'K86TOTO ( DGMSBR66 ) : 06*11*94';
 var namagroup3 = '(WARTO)';
 var Comment3 = '#(WARUNGTOTO) = (DJANCUK8) 23*24*71';
 
-var namagroup4 = 'Nemo4d';
+var namagroup4 = 'NEMO4D';
 var Comment4 = 'Nemo4d (DKL32B) : 20*49*64';
 
 var namagroup5 = 'INTERNASIONAL';
