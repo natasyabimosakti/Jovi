@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 3
 // @namespace    http://tampermonkey.net/
-// @version      3.47
+// @version      3.48
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/Jovi%202/Jovi%203.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/Jovi%202/Jovi%203.js
@@ -31,7 +31,7 @@ var Comment2 = 'K86TOTO ( JEHOASYU7 ) : 38*50*57';
 var namagroup3 = '(WARTO)';
 var Comment3 = '#(WARUNGTOTO) = (JONAHHF9) 07*34*97';
 
-var namagroup4 = 'Nemo4d';
+var namagroup4 = 'NEMO4D';
 var Comment4 = 'Nemo4d (JELONN9) : 52*64*93';
 
 var namagroup5 = 'INTERNASIONAL';
@@ -43,7 +43,7 @@ var Comment6 = '#DIVA4D (JHEO24) = 20*25*32';
 var namagroup7 = 'MAYAPADA';
 var Comment7 = 'BETT*Mayapada4D(BO)*JVIVI6*46*84*96';
 
-var namagroup8 = 'TOK99';
+var namagroup8 = '𝐀𝐋𝐋𝐏𝐀𝐒';
 var Comment8 = 'Tok99Toto ( JXUPING8 ) : 04*36*51';
 
 var namagroup9 = 'TOYIBSLOT';
@@ -81,7 +81,7 @@ var Comment18 = 'tab 2 line3';
 
 var refresh = 40;
 var URLADMIN = "https://raw.githubusercontent.com/natasyabimosakti/ADMIN/refs/heads/main/Admin_Jovi_123.json"
-var keyword = ["ROOM","𝗥𝗢𝗢𝗠","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","login","𝐑𝐎𝐎𝐌","HONGKONG","SINGAPUR","nemo"]
+var keyword = ["ROOM","𝗥𝗢𝗢𝗠","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","login","𝐑𝐎𝐎𝐌","HONGKONG","SINGAPUR","nemo","RUM"]
 var Backlist =["pemenang lomba","rekap","natidulu","room lomba freebet","prediksi","result","juara lomba"]
 var isCommenting = false;
 var EXPIRATION_MS = 8 * 60 * 1000; // 5 minutes
