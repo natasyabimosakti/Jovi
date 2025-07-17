@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 2
 // @namespace    http://tampermonkey.net/
-// @version      3.72
+// @version      3.73
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/jovi%203/jovi3%202.js
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/jovi%203/jovi3%202.js
@@ -52,8 +52,8 @@ var Comment9 = '#TOYIBSLOT ( UOUXI2 ) : 02*23*50';
 var namagroup10 = 'UPINSLOT';
 var Comment10 = '#UPINSLOT ( UVXE88 ) 45*66*89 BETTING'; 
 
-var namagroup11 = 'UDANG';
-var Comment11 = 'UDANGBET ( UVOAL7 ) = 08*29*53'; 
+var namagroup11 = 'MELATI';
+var Comment11 = '#( MELATI188 ) ( UVOAL7 ) 08*29 #BETTING #TOGELONLINE'; 
 
 var namagroup12 = 'OPUNG4D';
 var Comment12 = 'OPUNG4D ( UIOPQ4 ) : 09*49*72';
