@@ -23,52 +23,52 @@
 /*======================================================================3copy tampermonkey==========================================================*/
 
 var namagroup1 = 'Hoho';
-var Comment1 = 'CH89JK : 05*34*40 #HOHOTOGEL';
+var Comment1 = 'Y3P9DX : 35*46*69 #HOHOTOGEL';
 
 var namagroup2 = 'K86';
-var Comment2 = 'K86TOTO ( CYLENK99 ) : 03*19*63'; 
+var Comment2 = 'K86TOTO ( YL7Q1Z ) : 30*74*96'; 
 
 var namagroup3 = '(WARTO)';
-var Comment3 = '#(WARUNGTOTO) = (CEYENGG6) 01*30*85'; 
+var Comment3 = '#(WARUNGTOTO) = (YVF4N2) 16*67*94'; 
 
 var namagroup4 = 'NEMO4D';
-var Comment4 = 'Nemo4d (CD219KB) : 32*42*91';
+var Comment4 = 'Nemo4d (YA2K0T) : 07*49*51';
 
 var namagroup5 = 'INTERNASIONAL';
-var Comment5 = 'DAGELAN4D(CD219KB) : 13*35*92';
+var Comment5 = 'DAGELAN4D(Y7XW9E) : 15*40*97';
 
 var namagroup6 = 'DIVA4D';
-var Comment6 = '#DIVA4D (CEBOLL68) = 29*66*83';
+var Comment6 = '#DIVA4D (YZ2QV8) = 22*53*56';
 
 var namagroup7 = 'MAYAPADA';
-var Comment7 = 'BETT*Mayapada4D(BO)*CHDZ62V81*54*60*97';
+var Comment7 = 'BETT*Mayapada4D(BO)*YU5M7C*37*62*83';
 
 var namagroup8 = '𝐀𝐋𝐋𝐏𝐀𝐒';
-var Comment8 = 'Tok99Toto ( CUKILS2 ) : 02*15*68'; 
+var Comment8 = 'Tok99Toto ( YJ6P1Q ) : 58*79*86'; 
 
 var namagroup9 = 'TOYIBSLOT';
-var Comment9 = '#TOYIBSLOT ( C698K3J ) : 13*35*92';
+var Comment9 = '#TOYIBSLOT ( YR9Z8B ) : 30*74*96';
 
 var namagroup10 = 'UPINSLOT';
-var Comment10 = '#UPINSLOT ( CLOK12 ) 05*34*40 BETTING'; 
+var Comment10 = '#UPINSLOT ( YC3W0K ) 35*46*69 BETTING'; 
 
 var namagroup11 = 'MELATI';
-var Comment11 = '#( MELATI188 ) ( COMBROT78 ) 54*60 #BETTING #TOGELONLINE'; 
+var Comment11 = '#( MELATI188 ) ( YN1A6M ) 07*49 #BETTING #TOGELONLINE'; 
 
 var namagroup12 = 'OPUNG';
-var Comment12 = 'OPUNG4D ( CD219KB ) : 03*19*63';
+var Comment12 = 'OPUNG4D ( YM2R7P ) : 16*67*94';
 
 var namagroup13 = 'TAFSIR';
-var Comment13 = 'SIJITOGEL CKZLT1 29*66*83';
+var Comment13 = 'SIJITOGEL YO0T3D 22*53*56';
 
 var namagroup14 = 'BLITAR';
-var Comment14 = '#BLITAR4D (CEB689B) = 01*30';
+var Comment14 = '#BLITAR4D (YB9L2H) = 15*40';
 
 var namagroup15 = 'PEDRO';
-var Comment15 = '#PEDRO4D (CEYENGG6*02*15*68) '; 
+var Comment15 = '#PEDRO4D (YX6U8J*13*79*86) '; 
 
 var namagroup16 = 'GTO';
-var Comment16 = '(GUDANGTOTO) = (CYUCUKBERUK) 32*42*91';
+var Comment16 = '(GUDANGTOTO) = (YQ5E4L) 37*62*83';
 
 /*======================================================================3copy tampermonkey==========================================================*/
 
