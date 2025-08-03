@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 1
 // @namespace    http://tampermonkey.net/
-// @version      3.00
+// @version      3.01
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL  	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/Jovi%204/Jovi%201.js
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/Jovi%204/Jovi%201.js
@@ -73,10 +73,10 @@ var Comment16 = '(GUDANGTOTO) = (YQ5E4L) 37*62*83';
 /*======================================================================3copy tampermonkey==========================================================*/
 
 var namagroup17 = 'Jawatengah';
-var Comment17 = 'tab 1 line1';
+var Comment17 = 'tab 4 line1';
 
 var namagroup18 = 'colt';
-var Comment18 = 'tab 1 line1';
+var Comment18 = 'tab 4 line1';
 
 var SCRIPT_NAME = Comment17
 var refresh = 40;
@@ -559,7 +559,7 @@ var TELEGRAM_TOKEN = '7479985104:AAF-ISIxbf18g_mOasLoubBwBKgkfSFzzAw'; // GANTI
 var TELEGRAM_CHAT_ID = '-1002717306025'; // GANTI
 
 let lastMessageSent = ""; // lokal per tab/browser
-// @version      3.NaN
+var sudahkirim = false
 function normalizeText(text) {
     return text
         .trim()
