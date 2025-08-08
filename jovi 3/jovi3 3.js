@@ -43,8 +43,8 @@ var Comment5 = 'DAGELAN4D(SAVON7) : 00*83*92';
 var namagroup6 = 'DIVA4D';
 var Comment6 = '#DIVA4D (SYMON2) = 04*30*93';
 
-var namagroup7 = 'MAYAPADA';
-var Comment7 = 'BETT*Mayapada4D(BO)*SORANG8*67*76*78';
+var namagroup7 = 'MASTER KUY';
+var Comment7 = 'TOGELKUY SORANG8 67*76*78'; 
 
 var namagroup8 = '𝐀𝐋𝐋𝐏𝐀𝐒';
 var Comment8 = 'Tok99Toto ( SIVAX5 ) : 06*22*91';
