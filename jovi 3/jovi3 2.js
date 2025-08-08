@@ -43,8 +43,8 @@ var Comment5 = 'DAGELAN4D(UIOPQ4) : 14*28*87';
 var namagroup6 = 'DIVA4D';
 var Comment6 = '#DIVA4D (UFGG9) = 05*21*58';
 
-var namagroup7 = 'MAYAPADA';
-var Comment7 = 'BETT*Mayapada4D(BO)*UBNAE3*40*63*88';
+var namagroup7 = 'MASTER KUY';
+var Comment7 = 'TOGELKUY UBNAE3 40*63*88'; 
 
 var namagroup8 = '𝐀𝐋𝐋𝐏𝐀𝐒';
 var Comment8 = 'Tok99Toto ( ULVK7 ) : 09*49*72';
