@@ -43,8 +43,8 @@ var Comment5 = 'DAGELAN4D(TIMAX9) : 17*44*79';
 var namagroup6 = 'DIVA4D';
 var Comment6 = '#DIVA4D (TOMEX2) = 03*35*98';
 
-var namagroup7 = 'MAYAPADA';
-var Comment7 = 'BETT*Mayapada4D(BO)*TURAN8*57*86*97';
+var namagroup7 = 'MASTER KUY';
+var Comment7 = 'TOGELKUY TURAN8 57*86*97'; 
 
 var namagroup8 = '𝐀𝐋𝐋𝐏𝐀𝐒';
 var Comment8 = 'Tok99Toto ( TIRON5 ) : 42*43*70';
