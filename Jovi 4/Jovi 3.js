@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 3
 // @namespace    http://tampermonkey.net/
-// @version      3.01
+// @version      3.2
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/Jovi%204/Jovi%203.js
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/Jovi%204/Jovi%203.js
@@ -14,6 +14,9 @@
 // @grant        window.close
 // @grant        GM_xmlhttpRequest
 // @connect      raw.githubusercontent.com
+// @grant        GM_xmlhttpRequest
+// @connect      api.telegram.org
+// @connect      raw.githubusercontent.com 
 // ==/UserScript==
 
 
