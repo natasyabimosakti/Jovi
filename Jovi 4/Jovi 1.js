@@ -56,7 +56,7 @@ var namagroup10 = 'UPINSLOT';
 var Comment10 = '#UPINSLOT ( YC3W0K ) 35*46*69 BETTING'; 
 
 var namagroup11 = 'MELATI';
-var Comment11 = '#( MELATI188 ) ( YN1A6M ) 07*49 #BETTING #TOGELONLINE'; 
+var Comment11 = '*MELATI188 (YN1A6M) : 07*49 *BETTING';
 
 var namagroup12 = 'OPUNG';
 var Comment12 = 'OPUNG4D ( YM2R7P ) : 16*67*94';
