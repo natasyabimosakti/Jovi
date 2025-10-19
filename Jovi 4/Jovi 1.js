@@ -31,8 +31,8 @@ var Comment1 = 'Y3P9DX : 35*46*69 #HOHOTOGEL';
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( YL7Q1Z ) : 30*74*96'; 
 
-var namagroup3 = '(WARTO)';
-var Comment3 = '#(WARUNGTOTO) = (YVF4N2) 16*67'; 
+var namagroup3 = '453P';
+var Comment3 = 'ASEPTOGEL YVF4N2 16*67*94'; 
 
 var namagroup4 = 'ASIA';
 var Comment4 = '#ASIATOTO = {YA2K0T} = 07*49'; 
