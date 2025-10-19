@@ -34,8 +34,8 @@ var Comment2 = 'K86TOTO ( DGMSBR66 ) : 06*11*94';
 var namagroup3 = '453P';
 var Comment3 = 'ASEPTOGEL DJANCUK8 23*24*71'; 
 
-var namagroup4 = 'ASIA';
-var Comment4 = '#ASIATOTO = {DKL32B} = 20*49';
+var namagroup4 = 'TREX';
+var Comment4 = '#HATORIBET*DKL32B*20*49*64'; 
 
 var namagroup5 = 'DAGELAN4D';
 var Comment5 = 'DAGELAN4D(DKL32B) : 07*14*31';
