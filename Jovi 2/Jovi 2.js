@@ -31,8 +31,8 @@ var Comment1 = 'TOWAR0 : 14*44*59 #HOHOTOGEL';
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( TUTUKI9 ) : 19*69*81';
 
-var namagroup3 = '(WARTO)';
-var Comment3 = '#(WARUNGTOTO) = (TROMOL1) 56*61';
+var namagroup3 = '453P';
+var Comment3 = 'ASEPTOGEL TROMOL1 56*61*73'; 
 
 var namagroup4 = 'ASIA';
 var Comment4 = '#ASIATOTO = {TDEREK8} = 00*41'; 
