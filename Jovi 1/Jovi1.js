@@ -34,8 +34,8 @@ var Comment2 = 'K86TOTO ( CYLENK99 ) : 03*19*63';
 var namagroup3 = '453P';
 var Comment3 = 'ASEPTOGEL CEYENGG6 01*30*85';
 
-var namagroup4 = 'ASIA';
-var Comment4 = '#ASIATOTO = {CD219KB} = 32*42';
+var namagroup4 = 'TREX';
+var Comment4 = '#HATORIBET*CD219KB*32*42*91'; 
 
 var namagroup5 = 'DAGELAN4D';
 var Comment5 = 'DAGELAN4D(CD219KB) : 13*35*92';
