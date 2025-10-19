@@ -31,8 +31,8 @@ var Comment1 = 'MSULO9 : 43*53*60 #HOHOTOGEL';
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( MUKEL3 ) : 48*82*89';
 
-var namagroup3 = '(WARTO)';
-var Comment3 = '#(WARUNGTOTO) = (MUKBER2) 17*23';
+var namagroup3 = '453P';
+var Comment3 = 'ASEPTOGEL MUKBER2 17*23*49'; 
 
 var namagroup4 = 'ASIA';
 var Comment4 = '#ASIATOTO = {MOMMOK0} = 01*67'; 
