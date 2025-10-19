@@ -31,8 +31,8 @@ var Comment1 = 'TJDAL4 : 26*61*90 #HOHOTOGEL';
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( TILOR1 ) : 12*18*54';
 
-var namagroup3 = '(WARTO)';
-var Comment3 = '#(WARUNGTOTO) = (TAVIX6) 15*81';
+var namagroup3 = '453P';
+var Comment3 = 'ASEPTOGEL TAVIX6 15*81*84'; 
 
 var namagroup4 = 'ASIA';
 var Comment4 = '#ASIATOTO = {TIMAX9} = 34*73'; 
