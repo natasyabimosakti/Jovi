@@ -31,8 +31,8 @@ var Comment1 = 'ULAW3 : 08*29*53 #HOHOTOGEL';
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( ULET7 ) : 02*23*50';
 
-var namagroup3 = '(WARTO)';
-var Comment3 = '#(WARUNGTOTO) = (UZQLX1) 10*19';
+var namagroup3 = '453P';
+var Comment3 = 'ASEPTOGEL UZQLX1 10*19*39'; 
 
 var namagroup4 = 'ASIA';
 var Comment4 = '#ASIATOTO = {UIOPQ4} = 45*66'; 
