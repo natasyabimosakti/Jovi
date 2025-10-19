@@ -34,8 +34,8 @@ var Comment2 = 'K86TOTO ( BBQISI22 ) : 10*65*73';
 var namagroup3 = '453P';
 var Comment3 = 'ASEPTOGEL BUDJANG3 27*76*90'; 
 
-var namagroup4 = 'ASIA';
-var Comment4 = '#ASIATOTO = {BKL5FCC} = 51*52'; 
+var namagroup4 = 'TREX';
+var Comment4 = '#HATORIBET*BKL5FCC*51*52*69'; 
 
 var namagroup5 = 'DAGELAN4D';
 var Comment5 = 'DAGELAN4D(BKL5FCC) : 55*70*74';
