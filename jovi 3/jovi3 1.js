@@ -31,8 +31,8 @@ var Comment1 = 'LAORJ2 : 01*41*62 #HOHOTOGEL';
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( LNLY8 ) : 48*74*94';
 
-var namagroup3 = '(WARTO)';
-var Comment3 = '#(WARUNGTOTO) = (LKTDM8) 36*51';
+var namagroup3 = '453P';
+var Comment3 = 'ASEPTOGEL LKTDM8 36*51*52'; 
 
 var namagroup4 = 'ASIA';
 var Comment4 = '#ASIATOTO = {LJORT6} = 31*47'; 
