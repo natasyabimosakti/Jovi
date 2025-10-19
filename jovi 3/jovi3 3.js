@@ -31,8 +31,8 @@ var Comment1 = 'SALKA7 : 33*68*96 #HOHOTOGEL';
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( SERAK1 ) : 60*77*99';
 
-var namagroup3 = '(WARTO)';
-var Comment3 = '#(WARUNGTOTO) = (SAPIX6) 32*75';
+var namagroup3 = '453P';
+var Comment3 = 'ASEPTOGEL SAPIX6 32*75*95'; 
 
 var namagroup4 = 'ASIA';
 var Comment4 = '#ASIATOTO = {SAVON7} = 11*24'; 
