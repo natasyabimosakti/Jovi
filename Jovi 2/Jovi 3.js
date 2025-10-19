@@ -31,8 +31,8 @@ var Comment1 = 'JEFFRE2 : 85*90*95 #HOHOTOGEL';
 var namagroup2 = 'K86';
 var Comment2 = 'K86TOTO ( JEHOASYU7 ) : 38*50*57'; 
 
-var namagroup3 = '(WARTO)';
-var Comment3 = '#(WARUNGTOTO) = (JONAHHF9) 07*34';
+var namagroup3 = '453P';
+var Comment3 = 'ASEPTOGEL JONAHHF9 07*34*97'; 
 
 var namagroup4 = 'ASIA';
 var Comment4 = '#ASIATOTO = {JELONN9} = 52*64'; 
