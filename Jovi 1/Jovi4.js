@@ -34,8 +34,8 @@ var Comment2 = 'K86TOTO ( AISHH98 ) : 09*48*89';
 var namagroup3 = '453P';
 var Comment3 = 'ASEPTOGEL ASYEDEH4 04*18*21'; 
 
-var namagroup4 = 'ASIA';
-var Comment4 = '#ASIATOTO = {AKP3200} = 33*39'; 
+var namagroup4 = 'TREX';
+var Comment4 = '#HATORIBET*AKP3200*33*39*80'; 
 
 var namagroup5 = 'DAGELAN4D';
 var Comment5 = 'DAGELAN4D(AKP3200) : 28*75*96';
