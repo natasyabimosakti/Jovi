@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 3
 // @namespace    http://tampermonkey.net/
-// @version      3.66
+// @version      3.67
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/Jovi%202/Jovi%203.js
 // @downloadURL  https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/Jovi%202/Jovi%203.js
@@ -26,52 +26,52 @@
 /*======================================================================3copy tampermonkey==========================================================*/
 
 var namagroup1 = 'Hoho';
-var Comment1 = 'JEFFRE2 : 85*90*95 #HOHOTOGEL';
+var Comment1 = 'JOKIS1 : 85*90*95 #HOHOTOGEL';
 
 var namagroup2 = 'K86';
-var Comment2 = 'K86TOTO ( JEHOASYU7 ) : 38*50*57'; 
+var Comment2 = 'K86TOTO ( JONAT5 ) : 38*50*57'; 
 
 var namagroup3 = '453P';
-var Comment3 = 'ASEPTOGEL JONAHHF9 07*34*97'; 
+var Comment3 = 'ASEPTOGEL JOHAN7 07*34*97'; 
 
 var namagroup4 = 'HAT0R1';
-var Comment4 = '#HATORIBET*JELONN9*52*64*93'; 
+var Comment4 = '#HATORIBET*JEVEVE2*52*64*93'; 
 
 var namagroup5 = 'DAGELAN4D';
-var Comment5 = 'DAGELAN4D(JELONN9) : 15*33*71';
+var Comment5 = 'DAGELAN4D(JELEL9) : 15*33*71';
 
 var namagroup6 = 'DIVA4D';
-var Comment6 = '#DIVA4D (JHEO24) = 20*25*32';
+var Comment6 = '#DIVA4D (JONIE3) = 20*25*32';
 
 var namagroup7 = 'MASTER KUY';
-var Comment7 = 'TOGELKUY JVIVI6 46*84*96'; 
+var Comment7 = 'TOGELKUY JOSJOS2 46*84*96'; 
 
 var namagroup8 = '𝐀𝐋𝐋𝐏𝐀𝐒';
-var Comment8 = 'Tok99Toto ( JXUPING8 ) : 04*36*51';
+var Comment8 = 'Tok99Toto ( JUNIA8 ) : 04*36*51';
 
 var namagroup9 = 'TOYIBSLOT';
-var Comment9 = '#TOYIBSLOT ( JJWALI5 ) : 04*36*51';
+var Comment9 = '#TOYIBSLOT ( JEDONG2 ) : 04*36*51';
 
 var namagroup10 = 'UPINSLOT';
-var Comment10 = '#UPINSLOT ( JADEMM3 ) 85*90*95 BETTING'; 
+var Comment10 = '#UPINSLOT ( JOLIN3 ) 85*90*95 BETTING'; 
 
 var namagroup11 = 'VESPA7093L';
-var Comment11 = 'VESPATOGEL (JOKIAD8) 46*84*96'; 
+var Comment11 = 'VESPATOGEL (JIMIN9) 46*84*96'; 
   
 var namagroup12 = 'OPUNG';
-var Comment12 = 'OPUNG4D ( JELONN9 ) : 38*50*57';
+var Comment12 = 'OPUNG4D ( JTETE4 ) : 38*50*57';
 
 var namagroup13 = 'TAFSIR';
-var Comment13 = 'SIJITOGEL JMQZE3 20*25*32';
+var Comment13 = 'SIJITOGEL JEBULA4 20*25*32';
 
 var namagroup14 = 'BLITAR';
-var Comment14 = '#BLITAR4D (JODI64) = 07*34';
+var Comment14 = '#BLITAR4D (JOLON4) = 07*34';
 
 var namagroup15 = 'PEDRO';
-var Comment15 = '#PEDRO4D (JONAHHF9*15*33*71)'; 
+var Comment15 = '#PEDRO4D (JOYKO2*15*33*71)'; 
 
 var namagroup16 = 'BUKU MIMPI';
-var Comment16 = 'IYATOTO JFEKK8 52*64*72'; 
+var Comment16 = 'IYATOTO JURIT6 52*64*72'; 
 
 /*======================================================================3copy tampermonkey==========================================================*/
 
