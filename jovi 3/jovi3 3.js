@@ -46,7 +46,7 @@ var Comment6 = '#DIVA4D (SYMON2) = 04*30*93';
 var namagroup7 = 'MASTER KUY';
 var Comment7 = 'TOGELKUY SORANG8 67*76*78'; 
 
-var namagroup8 = '𝐀𝐋𝐋𝐏𝐀𝐒';
+var namagroup8 = 'TOK99';
 var Comment8 = 'Tok99Toto ( SIVAX5 ) : 06*22*91';
 
 var namagroup9 = 'TOYIBSLOT';
