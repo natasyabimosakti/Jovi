@@ -46,7 +46,7 @@ var Comment6 = '#DIVA4D (TOMEX2) = 03*35*98';
 var namagroup7 = 'MASTER KUY';
 var Comment7 = 'TOGELKUY TURAN8 57*86*97'; 
 
-var namagroup8 = '𝐀𝐋𝐋𝐏𝐀𝐒';
+var namagroup8 = 'TOK99';
 var Comment8 = 'Tok99Toto ( TIRON5 ) : 42*43*70';
 
 var namagroup9 = 'TOYIBSLOT';
