@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 3
 // @namespace    http://tampermonkey.net/
-// @version      3.19
+// @version      3.20
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/Jovi%204/Jovi%203.js
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/Jovi%204/Jovi%203.js
@@ -608,7 +608,7 @@ async function Mutation_cekArticle() {
                     artikelBaruSet.add(node);
                     if (parsePost(node)) {
                         setTimeout(() => {
-                            const textComponents = node.querySelectorAll('[data-type="text"]');
+                            const textComponents = node.querySelectorAll('[data-action-id]');
                             if (textComponents.length > 0) {
                                 const target = textComponents[textComponents.length - 1];
                                 if (target) {
