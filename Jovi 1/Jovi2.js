@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 2
 // @namespace    http://tampermonkey.net/
-// @version      3.117
+// @version      3.118
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/Jovi%201/Jovi2.js
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/Jovi%201/Jovi2.js
@@ -29,9 +29,9 @@ var Comment18 = 'tab12';
 
 var URLGROUP = `https://raw.githubusercontent.com/natasyabimosakti/Novi91/main/Comment/${Comment18}.json`;
 var SCRIPT_NAME = Comment18
-var refresh = 30;
+var refresh = 20;
 var URLADMIN = "https://raw.githubusercontent.com/natasyabimosakti/ADMIN/refs/heads/main/Admin_Jovi_123.json"
-var keyword = ["ROOM", "𝗥𝗢𝗢𝗠", "LOMBA", "𝗟𝗢𝗠𝗕𝗔", "𝐋𝐎𝐌𝐁𝐀", "LIMBA", "ROM", "R00M", "login", "𝐑𝐎𝐎𝐌", "HONGKONG", "SINGAPUR", "nemo", "l0mb4", "lomb4", "l0mba", "𝗥𝟬𝟬𝗠", "𝗟𝟬𝗠𝗕𝗔", "𝘙𝘖𝘖𝘔", "hatori", "klikh4tori001"]
+var keyword = ["ROOM", "𝗥𝗢𝗢𝗠", "LOMBA", "𝗟𝗢𝗠𝗕𝗔", "𝐋𝐎𝐌𝐁𝐀", "LIMBA", "ROM", "R00M", "login", "𝐑𝐎𝐎𝐌", "HONGKONG", "SINGAPUR", "nemo", "l0mb4", "lomb4", "l0mba", "𝗥𝟬𝟬𝗠", "𝗟𝟬𝗠𝗕𝗔", "𝘙𝘖𝘖𝘔", "hatori", "klikh4tori001","🅻🅾🅼🅱🅰"]
 var Backlist = ["pemenang lomba", "rekap", "natidulu", "room lomba freebet", "prediksi", "result", "juara lomba", "r3k4p", "r3kap", "rek4p", "undang"]
 let adminPrefixSet = null;
 
@@ -46,7 +46,7 @@ const VERSION_KEY = "cachedAdminVersion";
 var commentToPost = '';
 var grouptToPost = '';
 var now = Date.now();
-var EXPIRATION_MS = 1 * 60 * 1000; // 5 minutes
+var EXPIRATION_MS = 5 * 60 * 1000; // 5 minutes
 var URLINI = "";
 // Global arrays / variabel yang sebelumnya hardcode
 var groupNames = [];
@@ -127,15 +127,29 @@ async function fetchGroupsFromGitHub() {
 
 function getCommentForGroup() {
     const commentMap = {};
+    let ceknamagroup = "";
+    let ceknamagroup1 = "";
+    let ceknamagroup2 = "";
+    let ceknamagroup3 = "";
+    let ceknamagroup4 = "";
     for (let i = 0; i < groupNames.length; i++) {
         commentMap[groupNames[i]] = normalizeToBasicLatin(CommentList[i]);
     }
+    if (document.location.href.includes("user")) {
+        ceknamagroup = document.querySelectorAll("[data-action-id][role='link'][data-focusable='true']")[0]?.textContent || '';
+        ceknamagroup1 = document.querySelectorAll("[data-action-id][role='link']")[0]?.textContent || '';
+        ceknamagroup2 = document.querySelectorAll("[data-action-id][role='link'][data-focusable='true']")[1]?.textContent || '';
+        ceknamagroup3 = document.querySelectorAll("[data-action-id][role='link'][data-focusable='true']")[2]?.textContent || '';
+        ceknamagroup4 = document.querySelectorAll("[data-action-id][role='link'][data-focusable='true']")[3]?.textContent || '';
+    } else {
+        ceknamagroup = document.getElementsByClassName("fixed-container")[0]?.textContent || '';
+        ceknamagroup1 = document.getElementsByClassName('native-text')[5]?.textContent || '';
+        ceknamagroup2 = document.getElementsByClassName('native-text')[6]?.textContent || '';
+        ceknamagroup3 = document.getElementsByClassName('native-text')[7]?.textContent || '';
+        ceknamagroup4 = document.getElementsByClassName('native-text')[8]?.textContent || '';
 
-    const ceknamagroup = document.getElementsByClassName("fixed-container")[0]?.textContent || '';
-    const ceknamagroup1 = document.getElementsByClassName('native-text')[5]?.textContent || '';
-    const ceknamagroup2 = document.getElementsByClassName('native-text')[6]?.textContent || '';
-    const ceknamagroup3 = document.getElementsByClassName('native-text')[7]?.textContent || '';
-    const ceknamagroup4 = document.getElementsByClassName('native-text')[8]?.textContent || '';
+    }
+
 
     const allGroups = [
         normalizeToBasicLatin(ceknamagroup).toLowerCase(),
@@ -286,6 +300,65 @@ function klikTombolByText(teks) {
 }
 
 // ===== Tunggu tombol URUTKAN muncul =====
+function simulateHumanPullToRefresh(distance = 700) {
+    console.log("🚀 Menjalankan simulasi tarik layar...");
+    window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+    });
+    // Gunakan penamaan variabel yang sangat unik agar tidak bentrok
+    const _startX = window.innerWidth / 2;
+    const _startY = 150;
+    const _steps = 25;
+    const _duration = 600;
+    const _identifier = Date.now();
+
+    // 1. Fungsi pembantu untuk membuat Touch Event
+    const createTouchEvent = (type, x, y) => {
+        const touchObj = new Touch({
+            identifier: _identifier,
+            target: document.body,
+            clientX: x,
+            clientY: y,
+            pageY: y,
+            radiusX: 2.5,
+            radiusY: 2.5,
+            force: 0.5,
+        });
+
+        return new TouchEvent(type, {
+            cancelable: true,
+            bubbles: true,
+            touches: [touchObj],
+            targetTouches: [touchObj],
+            changedTouches: [touchObj]
+        });
+    };
+
+    // 2. Kirim Touch Start
+    document.dispatchEvent(createTouchEvent('touchstart', _startX, _startY));
+
+    // 3. Jalankan Gerakan Menarik (Interval)
+    let _currentStep = 0;
+    const _moveInterval = setInterval(() => {
+        _currentStep++;
+
+        // Kalkulasi posisi Y saat ini (makin besar makin ke bawah)
+        const _currentY = _startY + (distance * (_currentStep / _steps));
+
+        document.dispatchEvent(createTouchEvent('touchmove', _startX, _currentY));
+
+        // Jika sudah mencapai jarak target
+        if (_currentStep >= _steps) {
+            clearInterval(_moveInterval);
+
+            // 4. Kirim Touch End
+            document.dispatchEvent(createTouchEvent('touchend', _startX, _currentY));
+            console.log("✅ Simulasi Pull-to-Refresh Selesai.");
+            Mutation_cekArticle()
+        }
+    }, _duration / _steps);
+}
 
 
 
@@ -501,6 +574,28 @@ function parsePost(artikels) {
 
     return true;
 }
+
+
+function parsePost2(artikels) {
+    if (commentDone) return;
+
+    console.log("Cek Content")
+
+    const postingan = artikels.textContent || "";
+    const texts = postingan
+    const isBaru = texts.includes("Baru saja") || texts.includes("Baru");
+    const isMenit = /\b[0-9]\s*menit\b/.test(texts);
+
+    if (!(isBaru || isMenit)) return false;
+    if (CekBacklist(postingan.toLowerCase())) {
+        console.log("❌ ada Backlist")
+        return false;
+    }
+    if (!CekKeyword(postingan.toLowerCase())) return false;
+
+    return true;
+}
+
 async function tungguGroupAsync() {
     const start = Date.now();
     while (Date.now() - start < 15000) { // 15 detik timeout
@@ -524,6 +619,8 @@ async function tungguGroupAsync() {
 
 var sudahDiPanggil = false
 async function manageGroups() {
+    if (window.isManaging) return;
+    window.isManaging = true;
     const now = Date.now(); // update timestamp terbaru
     for (const { groupId, defaultValue } of groups) {
         const key = `group_${groupId}`;
@@ -539,13 +636,18 @@ async function manageGroups() {
     }
 
     const groupKey = `group_${grouptToPost}`;
-    if (groupKey === "group_") return;
+    if (groupKey === "group_") {
+        window.isManaging = false;
+        return;
+    }
     const sudahKomentar = await GM.getValue(groupKey, false);
     if (sudahKomentar) {
+        window.isManaging = false;
         console.log(`Sudah Komentar  ${now}`)
         location.href = "about:blank";
         return;
     }
+    window.isManaging = false; // Buka kunci jika proses selesai
 }
 
 function CekBacklist(postinganBL) {
@@ -603,26 +705,28 @@ async function Mutation_cekArticle() {
         await waitNoDialog();
         for (const mutation of mutationsList) {
             for (const node of mutation.addedNodes) {
-                if (node.nodeType !== 1) continue;
-                if (node.matches?.('[data-tracking-duration-id]')) {
-                    artikelBaruSet.add(node);
-                    if (parsePost(node)) {
-                        setTimeout(() => {
-                            const textComponents = node.querySelectorAll('[data-action-id]');
-                            if (textComponents.length > 0) {
-                                const target = textComponents[textComponents.length - 1];
-                                if (target) {
-                                    target.click();
-                                    console.time("⚡ Scan-to-Click");
-                                }
-                            }
-                        }, 0);
-                        return;
+                const descendants = document.querySelectorAll?.('[data-tracking-duration-id]');
 
+                if (node.nodeType !== 1) continue;
+                if (descendants) {
+                    for (const poster of descendants) {
+                        if (parsePost2(poster)) {
+                            setTimeout(() => {
+                                const textComponents = poster.querySelectorAll('[data-type="text"]');
+                                if (textComponents.length > 0) {
+                                    const target = textComponents[textComponents.length - 1];
+                                    if (target) {
+                                        target.click();
+                                        console.time("⚡ Scan-to-Click");
+                                    }
+                                }
+                            }, 0);
+                            return;
+
+                        }
                     }
                 }
 
-                const descendants = node.querySelectorAll?.('[data-tracking-duration-id]');
                 if (descendants) {
                     descendants.forEach(el => artikelBaruSet.add(el));
                 }
@@ -681,7 +785,12 @@ async function cek_artikel(setArtikel) {
     if (!found_artikle) {
         console.log("Tidak ada artikel valid, tunggu dialog hilang lalu klik URUTKAN...");
         await waitNoDialog();
-        klikTombolByText("URUTKAN");
+        if (document.location.href.includes("user")) {
+            simulateHumanPullToRefresh()
+        } else {
+            klikTombolByText("URUTKAN");
+
+        }
     }
 }
 
@@ -730,13 +839,12 @@ async function komentari() {
     ObserverCekMasalah();
     let myObservere = new MutationObserver((mutations) => {
         if (commentDone) return;
-
         // Gunakan getElementById jika ada, atau keep querySelector jika hanya ini yang unik
         for (const mutation of mutations) {
+
             for (const node of mutation.addedNodes) {
                 // Pastikan ini adalah element (nodeType 1)
-                if (node.nodeType !== 1) continue;
-
+                if (commentDone || node.nodeType !== 1) continue;
                 // Langsung cari di dalam node yang baru muncul saja (scoping)
                 // Ini jauh lebih cepat daripada document.querySelector
                 const textarea = node.classList?.contains("multi-line-floating-textbox")
@@ -745,21 +853,16 @@ async function komentari() {
 
                 const sendBtn = node.querySelector(".textbox-submit-button");
 
-
                 if (textarea && sendBtn) {
+                    commentDone = true;
+                    myObservere.disconnect();
                     console.timeEnd("⚡ Scan-to-Click");
                     console.time("⚡ Koment");
-
-
                     // 1. Sinkronisasi Fokus & Isi (Tanpa jeda)
                     textarea.value = commentToPost;
-                    // 2. ATOMIC CLICK: Jangan beri waktu bagi FB untuk menonaktifkan tombol
-                    // Kita bypass pengecekan internal FB dengan memaksa status & event
                     sendBtn.disabled = false;
-
                     sendBtn.dispatchEvent(mDown);
                     sendBtn.click();
-                    myObservere.disconnect();
                     clearInterval(intervalURUTKAN);
                     console.timeEnd("⚡ Koment");
 
@@ -767,9 +870,39 @@ async function komentari() {
 
                     if (window.runBypassTurbo) window.runBypassTurbo();
                     handlePostSuccess();
+                    return;
+                }
+
+                const textarea2 = node.classList?.contains(".internal-input")
+                    ? node
+                    : node.querySelector(".internal-input");
+
+                const sendBtn2 = document.querySelector("[aria-label='Posting komentar']");
+
+
+                if (textarea2 && sendBtn2) {
+                    commentDone = true;
+                    myObservere.disconnect();
+                    console.timeEnd("⚡ Scan-to-Click");
+                    console.time("⚡ Koment");
+                    // 1. Sinkronisasi Fokus & Isi (Tanpa jeda)
+                    textarea2.focus();
+                    textarea2.value = commentToPost;
+                    sendBtn2.disabled = false;
+                    sendBtn2.dispatchEvent(mDown);
+                    sendBtn2.click();
+                    clearInterval(intervalURUTKAN);
+                    console.timeEnd("⚡ Koment");
+
+                    // Timer berakhir tepat setelah perintah kirim keluar
+
+                    if (window.runBypassTurbo) window.runBypassTurbo();
+                    handlePostSuccess();
+                    return;
                 }
 
             }
+            if (commentDone) break;
         }
     });
 
@@ -779,31 +912,18 @@ async function komentari() {
 
 // Pisahkan fungsi pengecekan agar tidak membebani Observer
 function handlePostSuccess() {
-    let cekout = 0;
-    let cekkiment = setInterval(() => {
-        cekout++;
-        if (cekout >= 70) { // Turunkan ke 50 (5 detik) agar bot cepat pindah tugas
-            clearInterval(cekkiment);
+    // Cari snackbar atau tanda berhasil
+    // Simpan data GM secara asinkron
+    Promise.all([
+        GM.setValue("group_" + grouptToPost, true),
+        GM.setValue("group_" + grouptToPost + "_expire", Date.now() + EXPIRATION_MS)
+    ]).then(() => {
+        console.log("✅ SESSION SAVED");
+        setTimeout(() => {
             location.href = "about:blank";
-        }
+        }, 5000);
+    });
 
-        // Cari snackbar atau tanda berhasil
-        if (document.querySelector(".snackbar-container, .loading-overlay")) {
-            clearInterval(cekkiment);
-            commentDone = true;
-
-            // Simpan data GM secara asinkron
-            Promise.all([
-                GM.setValue("group_" + grouptToPost, true),
-                GM.setValue("group_" + grouptToPost + "_expire", Date.now() + EXPIRATION_MS)
-            ]).then(() => {
-                console.log("✅ SESSION SAVED");
-                setTimeout(() => {
-                    location.href = "about:blank";
-                }, 5000);
-            });
-        }
-    }, 500);
 }
 
 
@@ -1089,13 +1209,24 @@ function stopObserver() {
         Mutation_cekArticle()
         komentari();
         observeDialog();
-        observeAktivitas();
-        klikTombolByText("URUTKAN");
+        if (document.location.href.includes("user")) {
+            simulateHumanPullToRefresh()
+        } else {
+            observeAktivitas();
+            klikTombolByText("URUTKAN");
+
+
+        }
         intervalURUTKAN = setInterval(() => {
             const nowurl = location.href;
             if (nowurl !== URLINI) {
                 URLINI = nowurl;
-                klikTombolByText("URUTKAN");
+                if (document.location.href.includes("user")) {
+                    simulateHumanPullToRefresh()
+                } else {
+                    klikTombolByText("URUTKAN");
+
+                }
                 console.log("jalan");
             }
         }, 1000);
