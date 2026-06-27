@@ -36,10 +36,11 @@ setInterval(() => {
         let limitCari = 0;
         const sinkronUI = setInterval(() => {
             limitCari++;
+            const itemLoaded = document.querySelector('div[role="listitem"]');
             const checkbox = document.querySelector(".stardust-checkbox__box");
             const btnCheckout = document.querySelector(".shopee-button-solid");
 
-            if (checkbox && btnCheckout) {
+            if (itemLoaded && checkbox && btnCheckout) {
                 clearInterval(sinkronUI);
 
                 checkbox.click();
@@ -92,6 +93,16 @@ var checkoutPoller = setInterval(() => {
                 if (wadahPilihanBca) {
                     simulateClick(wadahPilihanBca);
                 }
+            }
+        }
+
+        // Mengecek apakah ada popup dialog barang habis
+        const popupDialog = document.querySelector(".stardust-popup__dialog");
+        if (popupDialog && popupDialog.textContent.toLowerCase().includes("habis")) {
+            const btnOk = popupDialog.querySelector(".stardust-popup-button--main");
+            if (btnOk) {
+                simulateClick(btnOk);
+                console.log("%c[INFO] Popup barang habis terdeteksi, menekan tombol OK!", "background: orange; color: white; padding: 5px; font-weight: bold;");
             }
         }
 
@@ -225,10 +236,11 @@ async function eksekusiOrderOtomatis() {
                 let limitCari = 0;
                 const sinkronUI = setInterval(() => {
                     limitCari++;
+                    const itemLoaded = document.querySelector('div[role="listitem"]');
                     const checkbox = document.querySelector(".stardust-checkbox__box");
                     const btnCheckout = document.querySelector(".shopee-button-solid");
 
-                    if (checkbox && btnCheckout) {
+                    if (itemLoaded && checkbox && btnCheckout) {
                         clearInterval(sinkronUI);
 
                         checkbox.click();
