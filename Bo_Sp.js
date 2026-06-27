@@ -72,15 +72,32 @@ var checkoutPoller = setInterval(() => {
     if (!window.location.href.includes('/payment')) {
         const qrisBtn = document.querySelector('button[aria-label="QRIS"]') ||
             Array.from(document.querySelectorAll('button')).find(b => b.textContent.includes('QRIS'));
+        const bankBtn = document.querySelector('button[aria-label="Transfer Bank"]') ||
+            Array.from(document.querySelectorAll('button')).find(b => b.textContent.includes('Transfer Bank'));
 
         const btnBuatPesanan = Array.from(document.querySelectorAll('button.stardust-button--primary'))
             .find(btn => btn.textContent.trim().includes('Buat Pesanan'));
 
+        if (qrisBtn && !qrisBtn.disabled) {
+            simulateClick(qrisBtn);
+        } else if (bankBtn) {
+            simulateClick(bankBtn);
 
-        if (btnBuatPesanan && !btnBuatPesanan.disabled && qrisBtn) {
+            // Memilih Bank BCA jika muncul pilihan bank
+            const pilihanBca = Array.from(document.querySelectorAll('.checkout-bank-transfer-item__title'))
+                .find(el => el.textContent.trim().includes('Bank BCA'));
+
+            if (pilihanBca) {
+                const wadahPilihanBca = pilihanBca.closest('.checkout-bank-transfer-item');
+                if (wadahPilihanBca) {
+                    simulateClick(wadahPilihanBca);
+                }
+            }
+        }
+
+        if (btnBuatPesanan && !btnBuatPesanan.disabled) {
             simulateClick(btnBuatPesanan);
             console.log("%c[SUKSES] Tombol 'Buat Pesanan' diklik!", "background: green; color: white; padding: 5px; font-weight: bold;");
-            clearInterval(checkoutPoller);
         }
     }
 }, 200);
