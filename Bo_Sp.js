@@ -17,13 +17,44 @@ let riwayatStok = {};
 
 
 var TARGET_MODEL_NAME = "Gardenia"; // Nama varian yang ingin dicari
-var TARGET_MIN_STOK = 3;  // Bot otomatis bergerak jika stok >= 3
-var JUMLAH_BELI = 3;      // Jumlah item yang langsung diorder
+var TARGET_MIN_STOK = 1;  // Bot otomatis bergerak jika stok >= 3
+var JUMLAH_BELI = 1;      // Jumlah item yang langsung diorder
 // ========================================================
 
 
 
+setInterval(() => {
+    if (window.location.href.includes('/cart')) {
 
+        if (document.querySelector(".shopee-alert-popup")) {
+            document.location.reload()
+        }
+        const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+
+        console.log("Klik berhasil disimulasikan!");
+
+        let limitCari = 0;
+        const sinkronUI = setInterval(() => {
+            limitCari++;
+            const checkbox = document.querySelector(".stardust-checkbox__box");
+            const btnCheckout = document.querySelector(".shopee-button-solid");
+
+            if (checkbox && btnCheckout) {
+                clearInterval(sinkronUI);
+
+                checkbox.click();
+                console.log("✅ Item berhasil di-checklist!");
+
+                setTimeout(() => {
+                    btnCheckout.click();
+                    console.log("🚀 Tombol Checkout ditekan! Mengalihkan ke pembayaran...");
+                }, 100);
+            }
+
+            if (limitCari > 200) clearInterval(sinkronUI);
+        }, 100);
+    }
+}, 200);
 
 
 
@@ -60,10 +91,10 @@ var checkoutPoller = setInterval(() => {
 // ========================================================
 function ambilConfigProdukOtomatis() {
     try {
+        if (window.location.href.includes('/cart')) { return null }
         const elemenData = document.querySelector("[data-module]");
 
         if (!elemenData) {
-            console.error("%c[ERROR] Elemen MFE Data tidak ditemukan! Pastikan kamu berada di halaman produk Shopee.", "color: red; font-weight: bold;");
             return null;
         }
 
@@ -197,6 +228,7 @@ async function eksekusiOrderOtomatis() {
             })();
         } else {
             console.log(`%c[GAGAL] Server Shopee menolak order: ${hasil.message || JSON.stringify(hasil)}`, "color: red;");
+            document.location.href = "https://shopee.co.id/cart";
             sudahBeli = false;
         }
     } catch (err) {
@@ -271,6 +303,7 @@ async function pantauStokOtomatis() {
         console.log("Koneksi API terganggu, mencoba kembali...");
     }
 }
+
 
 let jalankanBot;
 if (CONFIG) {
