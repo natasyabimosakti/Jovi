@@ -16,7 +16,7 @@ let riwayatStok = {};
 
 
 
-var TARGET_MODEL_NAME = "Gardenia"; // Nama varian yang ingin dicari
+var TARGET_MODEL_NAME = "100 ml"; // Nama varian yang ingin dicari
 var TARGET_MIN_STOK = 1;  // Bot otomatis bergerak jika stok >= 3
 var JUMLAH_BELI = 1;      // Jumlah item yang langsung diorder
 // ========================================================
