@@ -385,7 +385,7 @@ function handleAktivitasNode(node) {
     // Jika sudah 3 klik, klik Aktivitas Terbaru
     if (!clicked) {
         setTimeout(() => {
-            const t = [...node.querySelectorAll("[role='button']")].find(b => b.textContent.includes("Aktivitas terbaru") && b.offsetParent !== null);
+            const t = [...node.querySelectorAll("[role='button']")].find(b => b.textContent.includes("Aktivitas") && b.offsetParent !== null);
             if (t) {
                 t.click();
                 countA = 0;
