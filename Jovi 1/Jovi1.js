@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 1
 // @namespace    http://tampermonkey.net/
-// @version      3.124
+// @version      3.125
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL  	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/Jovi%201/Jovi1.js
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/Jovi%201/Jovi1.js
@@ -363,7 +363,7 @@ function simulateHumanPullToRefresh(distance = 700) {
 
 
 
-// ===== Observasi tombol Aktivitas terbaru / Postingan baru =====
+// ===== Observasi tombol Aktivitas terkini / Postingan baru =====
 function handleAktivitasNode(node) {
     if (commentDone) return;
 
@@ -382,7 +382,7 @@ function handleAktivitasNode(node) {
         }
     }
 
-    // Jika sudah 3 klik, klik Aktivitas Terbaru
+    // Jika sudah 3 klik, klik Aktivitas terkini
     if (!clicked) {
         setTimeout(() => {
             const t = [...node.querySelectorAll("[role='button']")].find(b => b.textContent.includes("Aktivitas") && b.offsetParent !== null);
@@ -401,7 +401,7 @@ function handleAktivitasNode(node) {
 
 }
 
-// ===== Observasi Aktivitas terbaru =====
+// ===== Observasi Aktivitas terkini =====
 function observeAktivitas() {
 
     let myObserver = null;
