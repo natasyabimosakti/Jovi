@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOVI 1
 // @namespace    http://tampermonkey.net/
-// @version      3.125
+// @version      3.126
 // @description  Script Metode Terbaru, Cari Semua Keyword
 // @updateURL  	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/Jovi%201/Jovi1.js
 // @downloadURL	 https://raw.githubusercontent.com/natasyabimosakti/Jovi/refs/heads/main/Jovi%201/Jovi1.js
@@ -24,7 +24,6 @@
 
 var namagroup18 = 'Jawatengah';
 var Comment18 = 'tab11';
-
 
 
 
@@ -363,7 +362,7 @@ function simulateHumanPullToRefresh(distance = 700) {
 
 
 
-// ===== Observasi tombol Aktivitas terkini / Postingan baru =====
+// ===== Observasi tombol Aktivitas terbaru / Postingan baru =====
 function handleAktivitasNode(node) {
     if (commentDone) return;
 
@@ -382,7 +381,7 @@ function handleAktivitasNode(node) {
         }
     }
 
-    // Jika sudah 3 klik, klik Aktivitas terkini
+    // Jika sudah 3 klik, klik Aktivitas (sebelumnya "Aktivitas terbaru")
     if (!clicked) {
         setTimeout(() => {
             const t = [...node.querySelectorAll("[role='button']")].find(b => b.textContent.includes("Aktivitas") && b.offsetParent !== null);
@@ -401,7 +400,7 @@ function handleAktivitasNode(node) {
 
 }
 
-// ===== Observasi Aktivitas terkini =====
+// ===== Observasi Aktivitas =====
 function observeAktivitas() {
 
     let myObserver = null;
@@ -413,7 +412,7 @@ function observeAktivitas() {
                 for (const node of mutation.addedNodes) {
                     if (node.nodeType !== 1) continue; // Bukan elemen
                     const text = node.textContent || "";
-                    if (text.includes("Aktivitas")) {
+                    if (text.includes("Aktivitas")) {  // diubah dari "Aktivitas terbaru"
                         const tombol = node.querySelectorAll("[role='button']");
                         if (tombol.length >= 2) {
                             tombol.forEach(btn => {
@@ -424,7 +423,7 @@ function observeAktivitas() {
                                     }
                                 } else {
                                     setTimeout(() => {
-                                        if (btn.textContent.includes("Aktivitas")) {
+                                        if (btn.textContent.includes("Aktivitas")) {  // diubah dari "Aktivitas terbaru"
                                             btn.click();
                                             countA = 0;
                                         }
