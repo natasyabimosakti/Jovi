@@ -31,8 +31,8 @@ var URLGROUP = `https://raw.githubusercontent.com/natasyabimosakti/Novi91/main/C
 var SCRIPT_NAME = Comment18
 var refresh = 40;
 var URLADMIN = "https://raw.githubusercontent.com/natasyabimosakti/ADMIN/refs/heads/main/Admin_Jovi_123.json"
-var keyword = ["ROOM", "𝗥𝗢𝗢𝗠", "LOMBA", "𝗟𝗢𝗠𝗕𝗔", "𝐋𝐎𝐌𝐁𝐀", "LIMBA", "ROM", "R00M", "login", "𝐑𝐎𝐎𝐌", "HONGKONG", "SINGAPUR", "nemo", "l0mb4", "lomb4", "l0mba", "𝗥𝟬𝟬𝗠", "𝗟𝟬𝗠𝗕𝗔", "𝘙𝘖𝘖𝘔", "hatori", "klikh4tori001", "🅻🅾🅼🅱🅰"]
-var Backlist = ["pemenang lomba", "rekap", "natidulu", "room lomba freebet", "prediksi", "result", "juara lomba", "r3k4p", "r3kap", "rek4p", "undang"]
+var keyword = ["🏆ROOM","ROOM","RUM","🆁🅾🅾🅼","𝑹𝑶𝑶𝑴","𝗥𝟬𝟬𝗠","𝗥𝗢𝗢𝗠","LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀","LIMBA","ROM","R00M","login","𝐑𝐎𝐎𝐌"]
+var Backlist = ["pemenang lomba","rekap","natidulu","room lomba freebet","prediksi","result","juara lomba","r3k4p","TTM","r3kap","rek4p"]
 let adminPrefixSet = null;
 
 let countA = 0;
@@ -381,10 +381,10 @@ function handleAktivitasNode(node) {
         }
     }
 
-    // Jika sudah 3 klik, klik Aktivitas (sebelumnya "Aktivitas terbaru")
+    // Jika sudah 3 klik, klik Aktivitas Terbaru
     if (!clicked) {
         setTimeout(() => {
-            const t = [...node.querySelectorAll("[role='button']")].find(b => b.textContent.includes("Aktivitas") && b.offsetParent !== null);
+            const t = [...node.querySelectorAll("[role='button']")].find(b => b.textContent.includes("Aktivitas terbaru") && b.offsetParent !== null);
             if (t) {
                 t.click();
                 countA = 0;
@@ -400,7 +400,7 @@ function handleAktivitasNode(node) {
 
 }
 
-// ===== Observasi Aktivitas =====
+// ===== Observasi Aktivitas terbaru =====
 function observeAktivitas() {
 
     let myObserver = null;
@@ -412,7 +412,7 @@ function observeAktivitas() {
                 for (const node of mutation.addedNodes) {
                     if (node.nodeType !== 1) continue; // Bukan elemen
                     const text = node.textContent || "";
-                    if (text.includes("Aktivitas")) {  // diubah dari "Aktivitas terbaru"
+                    if (text.includes("Aktivitas terbaru")) {
                         const tombol = node.querySelectorAll("[role='button']");
                         if (tombol.length >= 2) {
                             tombol.forEach(btn => {
@@ -423,7 +423,7 @@ function observeAktivitas() {
                                     }
                                 } else {
                                     setTimeout(() => {
-                                        if (btn.textContent.includes("Aktivitas")) {  // diubah dari "Aktivitas terbaru"
+                                        if (btn.textContent.includes("Aktivitas terbaru")) {
                                             btn.click();
                                             countA = 0;
                                         }
